@@ -66,7 +66,7 @@ a=s:taboption("basic", Value,"qywx_corpsecret",translate('corpsecret'), translat
 a.rmempty = true
 a:depends("jsonpath","/usr/bin/pushbot/api/qywx_text.json")
 
-a=s:taboption("basic", Value,"qywx_touser",translate('touser'), translate("成员ID").."，指定为\@all，则向该企业应用的全部成员发送<br>获取方式参考<a href='https://developer.work.weixin.qq.com/document/path/91039#14953/secret' target='_blank'>点击这里</a>")
+a=s:taboption("basic", Value,"qywx_touser",translate('touser'), translate("成员ID").."，\@all则向全部成员发送，获取方式参考<a href='https://developer.work.weixin.qq.com/document/path/91039#14953/secret' target='_blank'>点击这里</a>")
 a.rmempty = true
 a.default="@all"
 a:depends("jsonpath","/usr/bin/pushbot/api/qywx_text.json")

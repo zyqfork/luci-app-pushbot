@@ -17,7 +17,7 @@
     "msgtype": "\"text\"",
     "agentid": "\"${qywx_agentid}\"",
     "text":{
-      "content": "\"${1}${nowtime}${str_linefeed}${2}\""
+      "content": "\"${str_title_start}${1}${str_title_end}${nowtime}${str_linefeed}${2}\""
     },
     "safe":0
   }
