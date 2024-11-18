@@ -14,7 +14,7 @@
   "type":
   {
     "touser": "\"${qywx_touser}\"",
-    "msgtype": "\"mpnews\"",
+    "msgtype": "\"text\"",
     "agentid": "\"${qywx_agentid}\"",
     "text":{
       "content": "\"${1}${nowtime}${str_linefeed}${2}\""

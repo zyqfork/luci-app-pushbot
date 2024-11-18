@@ -54,25 +54,21 @@ a=s:taboption("basic", Value,"dd_webhook",translate('Webhook'), translate("钉�
 a.rmempty = true
 a:depends("jsonpath","/usr/bin/pushbot/api/dingding.json")
 
-a=s:taboption("basic", Value, "qywx_text", translate("qywx_text"),translate("企业微信应用").."，发送文本消息<br>调用代码获取<a href='https://developer.work.weixin.qq.com/document/path/90236' target='_blank'>点击这里</a><br><br>")
+a=s:taboption("basic", Value,"qywx_corpid",translate('corpid'), translate("企业ID").."，获取方式<a href='https://developer.work.weixin.qq.com/document/path/91039#14953/corpid' target='_blank'>点击这里</a>")
 a.rmempty = true
 a:depends("jsonpath","/usr/bin/pushbot/api/qywx_text.json")
 
-a=s:taboption("basic", Value,"qywx_corpid",translate('qywx_corpid'), translate("企业ID").."，企业ID<br>获取方式参考：术语说明-corpid<a href='https://developer.work.weixin.qq.com/document/path/91039#14953/corpid' target='_blank'>点击这里</a><br><br>")
+a=s:taboption("basic", Value,"qywx_agentid",translate('agentid'), translate("应用ID").."，获取方式参考<a href='https://developer.work.weixin.qq.com/document/path/90236#10975/%E8%8E%B7%E5%8F%96%E4%BC%81%E4%B8%9A%E6%8E%88%E6%9D%83%E4%BF%A1%E6%81%AF' target='_blank'>点击这里</a>")
 a.rmempty = true
 a:depends("jsonpath","/usr/bin/pushbot/api/qywx_text.json")
 
-a=s:taboption("basic", Value,"qywx_agentid",translate('qywx_agentid'), translate("应用ID").."，应用ID<br>获取方式参考：术语说明-agentid<a href='https://developer.work.weixin.qq.com/document/path/90236#10975/%E8%8E%B7%E5%8F%96%E4%BC%81%E4%B8%9A%E6%8E%88%E6%9D%83%E4%BF%A1%E6%81%AF' target='_blank'>点击这里</a><br><br>")
+a=s:taboption("basic", Value,"qywx_corpsecret",translate('corpsecret'), translate("应用密钥").."，获取方式参考<a href='https://developer.work.weixin.qq.com/document/path/91039#14953/secret' target='_blank'>点击这里</a>")
 a.rmempty = true
 a:depends("jsonpath","/usr/bin/pushbot/api/qywx_text.json")
 
-a=s:taboption("basic", Value,"qywx_corpsecret",translate('qywx_corpsecret'), translate("应用密钥").."，应用的凭证密钥<br>获取方式参考：术语说明-corpsecret<a href='https://developer.work.weixin.qq.com/document/path/91039#14953/secret' target='_blank'>点击这里</a><br><br>")
+a=s:taboption("basic", Value,"qywx_touser",translate('touser'), translate("成员ID").."，指定为\@all，则向该企业应用的全部成员发送<br>获取方式参考<a href='https://developer.work.weixin.qq.com/document/path/91039#14953/secret' target='_blank'>点击这里</a>")
 a.rmempty = true
-a:depends("jsonpath","/usr/bin/pushbot/api/qywx_text.json")
-
-a=s:taboption("basic", Value,"qywx_touser",translate('qywx_touser'), translate("成员ID").."，指定为"@all"，则向该企业应用的全部成员发送<br>获取方式参考：术语说明-corpsecret<a href='https://developer.work.weixin.qq.com/document/path/91039#14953/secret' target='_blank'>点击这里</a><br><br>")
-a.rmempty = true
-a.default=@all
+a.default="@all"
 a:depends("jsonpath","/usr/bin/pushbot/api/qywx_text.json")
 
 a=s:taboption("basic", Value, "we_webhook", translate("Webhook"),translate("企业微信机器人 Webhook").."，只输入key=后面的即可<br>调用代码获取<a href='https://work.weixin.qq.com/api/doc/90000/90136/91770' target='_blank'>点击这里</a><br><br>")
