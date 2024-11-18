@@ -13,6 +13,8 @@ function index()
 	entry({"admin", "services", "pushbot", "get_log"}, call("get_log")).leaf = true
 	entry({"admin", "services", "pushbot", "clear_log"}, call("clear_log")).leaf = true
 	entry({"admin", "services", "pushbot", "status"}, call("act_status")).leaf = true
+
+
 end
 
 function act_status()
