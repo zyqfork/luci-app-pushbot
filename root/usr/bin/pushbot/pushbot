@@ -506,25 +506,47 @@ function blackwhitelist(){
 }
 
 function get_client(){
-	if [ -f "${dir}ipAddress" ]; then
-	while read line; do
-		local js_str="${js_str}<tr class='placeholder'>"
-		local js_str="${js_str}<td style='text-align:center; border: 1px solid black;'><%:`echo "$line"|awk '{print $3}'`%></td>"
-		local tmp_mac=`echo "$line"|awk '{print $2}'`
-		local js_str="${js_str}<td style='text-align:center; border: 1px solid black;'><%:${tmp_mac}%></td>"
-		local js_str="${js_str}<td style='text-align:center; border: 1px solid black;'><%:`echo "$line"|awk '{print $1}'`%></td>"
-		local tmp_usage=`usage get ${tmp_mac}`
-		local js_str="${js_str}<td style='text-align:center; border: 1px solid black;'><%:${tmp_usage}%></td>"
-		local tmp_uptime=`echo "$line"|awk '{print $4}'`
-		local tmp_timenow=`date +%s`
-		local tmp_uptime=$(time_for_humans `expr ${tmp_timenow} - ${tmp_uptime}`)
-		local js_str="${js_str}<td style='text-align:center; border: 1px solid black;'><%:${tmp_uptime}%></td></tr>"
-	done < ${dir}ipAddress
-	fi
+    if [ -f "${dir}ipAddress" ]; then
+        while read line; do
+            # 对客户端名称进行清理,移除引号和特殊字符
+            local client_name=$(echo "$line" | awk '{print $3}' | sed 's/["\047]//g' | sed 's/[^a-zA-Z0-9_-]/_/g')
+
+            local js_str="${js_str}<tr class='placeholder'>"
+            local js_str="${js_str}<td style='text-align:center; border: 1px solid black;'><%:${client_name}%></td>"
+
+            local tmp_mac=`echo "$line"|awk '{print $2}'`
+            local js_str="${js_str}<td style='text-align:center; border: 1px solid black;'><%:${tmp_mac}%></td>"
+
+            local tmp_ip=`echo "$line"|awk '{print $1}'`
+            local js_str="${js_str}<td style='text-align:center; border: 1px solid black;'><%:${tmp_ip}%></td>"
+
+            local tmp_usage=`usage get ${tmp_mac}`
+            local js_str="${js_str}<td style='text-align:center; border: 1px solid black;'><%:${tmp_usage}%></td>"
+
+            local tmp_uptime=`echo "$line"|awk '{print $4}'`
+            local tmp_timenow=`date +%s`
+            local tmp_uptime=$(time_for_humans `expr ${tmp_timenow} - ${tmp_uptime}`)
+            local js_str="${js_str}<td style='text-align:center; border: 1px solid black;'><%:${tmp_uptime}%></td></tr>"
+
+        done < ${dir}ipAddress
+    fi
+
 cat>/usr/lib/lua/luci/view/pushbot/pushbot_client.htm<<EOF
-<h2><%:在线设备列表%></h2><table id="traffic" style="width:100%; border-collapse: collapse;"><thead><tr class="table-titles"><th id="thClient" style="width:17%; text-align:center;"><%:客户端名%></th><th id="thMAC" style="width:10%; text-align:center;"><%:MAC%></th><th id="thIP" style="width:17%; text-align:center;"><%:IP%></th><th id="thTotal" style="width:9%; text-align:center;"><%:总计流量%></th><th id="thFirstSeen" style="width:15%; text-align:center;"><%:在线时间%></th></tr></thead><tbody style="border: 1px solid black;">
-$js_str
-</tbody></table>
+<h2><%:在线设备列表%></h2>
+<table id="traffic" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr class="table-titles">
+            <th id="thClient" style="width:17%; text-align:center;"><%:客户端名%></th>
+            <th id="thMAC" style="width:10%; text-align:center;"><%:MAC%></th>
+            <th id="thIP" style="width:17%; text-align:center;"><%:IP%></th>
+            <th id="thTotal" style="width:9%; text-align:center;"><%:总计流量%></th>
+            <th id="thFirstSeen" style="width:15%; text-align:center;"><%:在线时间%></th>
+        </tr>
+    </thead>
+    <tbody style="border: 1px solid black;">
+        ${js_str}
+    </tbody>
+</table>
 EOF
 }
 
