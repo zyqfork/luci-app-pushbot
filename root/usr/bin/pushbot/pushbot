@@ -896,7 +896,7 @@ function current_device(){
 		local ip_mac=`getmac ${ip}`
 		local ip_total=`usage get ${ip_mac}`
 		local ip_name=`getname ${ip} ${ip_mac}`
-		local ip_name=`cut_str $ip_name 15`
+		local ip_name=`cut_str $ip_name 14`
 		if [ "${#ip}" -lt "15" ]; then
 			local n=`expr 15 - ${#ip}`
 			for i in `seq 1 $n`; do
