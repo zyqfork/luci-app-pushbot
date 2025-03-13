@@ -34,21 +34,10 @@ env:
   TZ: Asia/Shanghai
 
 jobs:
-  build:
+  prepare:
     runs-on: ${{ inputs.chosen-os || 'ubuntu-22.04'}}
-    strategy:
-      fail-fast: false
-      matrix:
-        plugin:
-          - name: luci-app-pushbot
-            repo: https://github.com/zyqfork/luci-app-pushbot.git
-            op_repo: https://github.com/openwrt/openwrt
-            op_branch: openwrt-24.10
-          - name: luci-app-pushbot
-            repo: https://github.com/zyqfork/luci-app-pushbot.git
-            op_repo: https://github.com/openwrt/openwrt
-            op_branch: openwrt-23.05
-
+    outputs:
+      chosen_os: ${{ inputs.chosen-os || 'ubuntu-22.04' }}
     steps:
       - name: Before freeing up disk space
         run: |
@@ -79,13 +68,31 @@ jobs:
       - name: Initialization environment
         env:
           DEBIAN_FRONTEND: noninteractive
-          CHOSEN_OS: ${{ github.event.inputs.chosen-os }}
+          CHOSEN_OS: ${{ github.event.inputs.chosen-os || 'ubuntu-22.04' }}
         run: |
           sudo -E apt -qq update -y
           #sudo -E apt -qq upgrade -y
           sudo -E apt -qq install $(curl -fsSL https://raw.githubusercontent.com/zouyq/openwrt-build-action/main/dep/${CHOSEN_OS}) -y
           sudo timedatectl set-timezone "$TZ"
+          echo "Environment initialized successfully"
 
+  build:
+    needs: prepare
+    runs-on: ${{ needs.prepare.outputs.chosen_os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        plugin:
+          - name: luci-app-pushbot
+            repo: https://github.com/zyqfork/luci-app-pushbot.git
+            op_repo: https://github.com/openwrt/openwrt
+            op_branch: openwrt-24.10
+          - name: luci-app-pushbot
+            repo: https://github.com/zyqfork/luci-app-pushbot.git
+            op_repo: https://github.com/openwrt/openwrt
+            op_branch: openwrt-23.05
+
+    steps:
       - name: Clone source code
         run: |
           pwd && df -hT $PWD
@@ -134,7 +141,7 @@ jobs:
       - name: Check space usage
         if: (!cancelled())
         run: |
-          echo "Free up disk space complete"
+          echo "Current disk space usage"
           echo "=============================================================================="
           df -hT
           echo "=============================================================================="
@@ -143,19 +150,20 @@ jobs:
         id: organize
         if: steps.compile.outputs.status == 'success' && env.UPLOAD_PACKAGE == 'true' && !cancelled()
         run: |
-          mkdir openwrt/${{ matrix.plugin.name }}-package
-          mv openwrt/bin/packages/*/luci/${{ matrix.plugin.name }}* openwrt/${{ matrix.plugin.name }}-package || true
-          mv openwrt/bin/packages/*/base/${{ matrix.plugin.name }}* openwrt/${{ matrix.plugin.name }}-package || true
-          cd openwrt/${{ matrix.plugin.name }}-package
+          mkdir -p openwrt/${{ matrix.plugin.name }}-${{ matrix.plugin.op_branch }}-package
+          mv openwrt/bin/packages/*/luci/${{ matrix.plugin.name }}* openwrt/${{ matrix.plugin.name }}-${{ matrix.plugin.op_branch }}-package || true
+          mv openwrt/bin/packages/*/base/${{ matrix.plugin.name }}* openwrt/${{ matrix.plugin.name }}-${{ matrix.plugin.op_branch }}-package || true
+          cd openwrt/${{ matrix.plugin.name }}-${{ matrix.plugin.op_branch }}-package
           echo "PACKAGE=$PWD" >> $GITHUB_ENV
           echo "PLUGIN_NAME=${{ matrix.plugin.name }}" >> $GITHUB_ENV
+          echo "OPENWRT_BRANCH=${{ matrix.plugin.op_branch }}" >> $GITHUB_ENV
           echo "status=success" >> $GITHUB_OUTPUT
 
       - name: Upload Package directory
         uses: actions/upload-artifact@main
         if: steps.organize.outputs.status == 'success' && !cancelled()
         with:
-          name: ${{ matrix.plugin.name }}${{ env.FILE_DATE }}
+          name: ${{ matrix.plugin.name }}-${{ matrix.plugin.op_branch }}${{ env.FILE_DATE }}
           path: ${{ env.PACKAGE }}
 
       - name: Generate release tag
@@ -164,6 +172,9 @@ jobs:
         run: |
           echo "release_tag=$(date +"%Y.%m.%d-%H%M")" >> $GITHUB_OUTPUT
           touch release.txt
+          echo "Plugin: ${{ matrix.plugin.name }}" >> release.txt
+          echo "OpenWrt Branch: ${{ matrix.plugin.op_branch }}" >> release.txt
+          echo "Build Date: $(date)" >> release.txt
           echo "status=success" >> $GITHUB_OUTPUT
 
       - name: Upload firmware to release
@@ -172,10 +183,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ matrix.plugin.name }}_${{ steps.tag.outputs.release_tag }}
+          tag_name: ${{ matrix.plugin.name }}-${{ matrix.plugin.op_branch }}_${{ steps.tag.outputs.release_tag }}
           body_path: release.txt
           files: ${{ env.PACKAGE }}/*
 
+  cleanup:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
       - name: Delete workflow runs
         uses: GitRML/delete-workflow-runs@main
         with:
@@ -186,6 +201,5 @@ jobs:
         with:
           keep_latest: 3
           delete_tags: true
-          delete_tag_pattern: ${{ matrix.plugin.name }}_
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
