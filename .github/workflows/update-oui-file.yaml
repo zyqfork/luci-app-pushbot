@@ -20,7 +20,7 @@ jobs:
       - name: 检查文件变动
         id: check_changes
         run: |
-          git add root/usr/bin/pusbot/oui.txt
+          git add root/usr/bin/pushbot/oui.txt
           if [ -n "$(git status --porcelain)" ]; then
             echo "changes=true" >> $GITHUB_OUTPUT
           else
