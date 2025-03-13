@@ -1,0 +1,42 @@
+name: 定时更新 OUI 数据
+
+on:
+  schedule:
+    - cron: '0 3 * * 1'
+  workflow_dispatch:
+
+jobs:
+  update-oui:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 下载 OUI 文件
+        run: |
+          curl -L https://standards-oui.ieee.org/oui/oui.txt -o root/usr/bin/pusbot/oui.txt
+
+      - name: 检查文件变动
+        id: check_changes
+        run: |
+          git add root/usr/bin/pusbot/oui.txt
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 提交变更
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "自动更新 OUI 数据 $(date +'%Y-%m-%d')"
+
+      - name: 推送变更
+        if: steps.check_changes.outputs.changes == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
