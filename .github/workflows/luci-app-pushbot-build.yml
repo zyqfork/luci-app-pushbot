@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: luci-app-pushbot-apk
+name: OpenWrt-Plugins-Build
 
 on:
   repository_dispatch:
@@ -29,8 +29,6 @@ on:
           - ubuntu-22.04
           - ubuntu-24.04
 env:
-  REPO_URL: https://github.com/openwrt/openwrt
-  REPO_BRANCH: v24.10.0
   UPLOAD_PACKAGE: true
   UPLOAD_RELEASE: true
   TZ: Asia/Shanghai
@@ -38,6 +36,18 @@ env:
 jobs:
   build:
     runs-on: ${{ inputs.chosen-os || 'ubuntu-22.04'}}
+    strategy:
+      fail-fast: false
+      matrix:
+        plugin:
+          - name: luci-app-pushbot
+            repo: https://github.com/zyqfork/luci-app-pushbot.git
+            op_repo: https://github.com/openwrt/openwrt
+            op_branch: openwrt-24.10
+          - name: luci-app-pushbot
+            repo: https://github.com/zyqfork/luci-app-pushbot.git
+            op_repo: https://github.com/openwrt/openwrt
+            op_branch: openwrt-23.05
 
     steps:
       - name: Before freeing up disk space
@@ -79,7 +89,7 @@ jobs:
       - name: Clone source code
         run: |
           pwd && df -hT $PWD
-          git clone $REPO_URL -b $REPO_BRANCH openwrt
+          git clone ${{ matrix.plugin.op_repo }} -b ${{ matrix.plugin.op_branch }} openwrt
 
       - name: Update and Install feeds
         run: |
@@ -90,12 +100,11 @@ jobs:
       - name: Load custom configuration
         run: |
           cd openwrt
-          git clone https://github.com/zyqfork/luci-app-pushbot.git package/luci-app-pushbot
+          git clone ${{ matrix.plugin.repo }} package/${{ matrix.plugin.name }}
           echo CONFIG_TARGET_x86=y >> .config
           echo CONFIG_TARGET_x86_64=y >> .config
           echo CONFIG_TARGET_x86_64_DEVICE_generic=y >> .config
-          echo CONFIG_PACKAGE_luci-app-pushbot=y >> .config
-  
+          echo CONFIG_PACKAGE_${{ matrix.plugin.name }}=y >> .config
 
       - name: SSH connection to Actions
         uses: lhotari/action-upterm@v1
@@ -130,24 +139,24 @@ jobs:
           df -hT
           echo "=============================================================================="
 
-
       - name: Organize files
         id: organize
         if: steps.compile.outputs.status == 'success' && env.UPLOAD_PACKAGE == 'true' && !cancelled()
         run: |
-          mkdir openwrt/luci-app-pushbot
-          mv openwrt/bin/packages/*/luci/luci-app-pushbot* openwrt/luci-app-pushbot
-          cd openwrt/luci-app-pushbot
+          mkdir openwrt/${{ matrix.plugin.name }}-package
+          mv openwrt/bin/packages/*/luci/${{ matrix.plugin.name }}* openwrt/${{ matrix.plugin.name }}-package || true
+          mv openwrt/bin/packages/*/base/${{ matrix.plugin.name }}* openwrt/${{ matrix.plugin.name }}-package || true
+          cd openwrt/${{ matrix.plugin.name }}-package
           echo "PACKAGE=$PWD" >> $GITHUB_ENV
+          echo "PLUGIN_NAME=${{ matrix.plugin.name }}" >> $GITHUB_ENV
           echo "status=success" >> $GITHUB_OUTPUT
 
       - name: Upload Package directory
         uses: actions/upload-artifact@main
         if: steps.organize.outputs.status == 'success' && !cancelled()
         with:
-          name: ${{ github.workflow }}${{ env.FILE_DATE }}
+          name: ${{ matrix.plugin.name }}${{ env.FILE_DATE }}
           path: ${{ env.PACKAGE }}
-
 
       - name: Generate release tag
         id: tag
@@ -163,7 +172,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ github.workflow }}_${{ steps.tag.outputs.release_tag }}
+          tag_name: ${{ matrix.plugin.name }}_${{ steps.tag.outputs.release_tag }}
           body_path: release.txt
           files: ${{ env.PACKAGE }}/*
 
@@ -177,6 +186,6 @@ jobs:
         with:
           keep_latest: 3
           delete_tags: true
-          delete_tag_pattern: ${{ github.workflow }}_
+          delete_tag_pattern: ${{ matrix.plugin.name }}_
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
