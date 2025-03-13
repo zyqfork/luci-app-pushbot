@@ -13,13 +13,9 @@ jobs:
       - name: 检出代码
         uses: actions/checkout@v4
 
-      - name: 创建目录
-        run: |
-          mkdir -p root/usr/bin/pusbot/
-
       - name: 下载 OUI 文件
         run: |
-          curl -L https://standards-oui.ieee.org/oui/oui.txt -o root/usr/bin/pusbot/oui.txt
+          curl -L https://standards-oui.ieee.org/oui/oui.txt -o root/usr/bin/pushbot/oui.txt
 
       - name: 检查文件变动
         id: check_changes
