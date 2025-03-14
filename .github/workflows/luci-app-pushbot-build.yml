@@ -43,7 +43,7 @@ jobs:
           - name: luci-app-pushbot
             repo: https://github.com/zyqfork/luci-app-pushbot.git
             op_repo: https://github.com/openwrt/openwrt
-            op_branch: openwrt-24.10
+            op_branch: main
           - name: luci-app-pushbot
             repo: https://github.com/zyqfork/luci-app-pushbot.git
             op_repo: https://github.com/openwrt/openwrt
