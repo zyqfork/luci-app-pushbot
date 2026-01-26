@@ -46736,6 +46736,42 @@ ACD20C     (base 16)		Chengdu SingCore Technology Co.,Ltd.
 				46395  Bocholt  
 				DE
 
+8C-37-B7   (hex)		Hosin Global Electronics Co.,Ltd
+8C37B7     (base 16)		Hosin Global Electronics Co.,Ltd
+				Rm 2501, Bldg 2, Shenzhen Next Generation Industrial Park, No.136 Zhongkang Rd, Futian Dist
+				Shenzhen    518000
+				CN
+
+F0-6D-93   (hex)		EM Microelectronic
+F06D93     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
+
+0C-C9-8A   (hex)		Intel Corporate
+0CC98A     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
+EC-F3-3C   (hex)		Intel Corporate
+ECF33C     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
+40-EC-BD   (hex)		Intel Corporate
+40ECBD     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
+6C-10-41   (hex)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+6C1041     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+				4F,Block A, Skyworth?Building,
+				Shenzhen  Guangdong  518057
+				CN
+
 90-0A-75   (hex)		New H3C Technologies Co., Ltd
 900A75     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -46746,6 +46782,30 @@ ACD20C     (base 16)		Chengdu SingCore Technology Co.,Ltd.
 98045F     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
 				Dongguan  Guangdong  523808
+				CN
+
+8C-8C-29   (hex)		Espressif Inc.
+8C8C29     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+50-EE-87   (hex)		HPRO-Control
+50EE87     (base 16)		HPRO-Control
+				8500 Balboa Blvd
+				Northridge  CA  91329
+				US
+
+88-00-C6   (hex)		Sichuan Tianyi Comheart Telecom Co.,LTD
+8800C6     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
+				No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County
+				Chengdu  Sichuan  611330
+				CN
+
+4C-4B-1F   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+4C4B1F     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
+				Nanning  Guangxi  530007
 				CN
 
 00-01-30   (hex)		Extreme Networks Headquarters
@@ -49531,12 +49591,6 @@ D492B9     (base 16)		ORION NOVA, S.L.
 				Via Valsorda
 				INVERIGO  CO  22044
 				IT
-
-80-FD-7B   (hex)		BLU Products Inc
-80FD7B     (base 16)		BLU Products Inc
-				10814 NW 33rd Street
-				Miami  FL  33172
-				US
 
 58-93-51   (hex)		Huawei Device Co., Ltd.
 589351     (base 16)		Huawei Device Co., Ltd.
@@ -53275,12 +53329,6 @@ ACD618     (base 16)		OnePlus Technology (Shenzhen) Co., Ltd
 				18C02, 18C03, 18C04 ,18C05,TAIRAN BUILDING,
 				Shenzhen  Guangdong  518000
 				CN
-
-6C-56-40   (hex)		BLU Products Inc
-6C5640     (base 16)		BLU Products Inc
-				10814 NW 33rd Street
-				Miami  FL  33172
-				US
 
 88-C3-E5   (hex)		Betop Techonologies 
 88C3E5     (base 16)		Betop Techonologies 
@@ -92741,6 +92789,12 @@ BC9C8D     (base 16)		Ruckus Wireless
 				Eggelsberg          5142
 				AT
 
+DC-15-5C   (hex)		Anntec （Beijing） Technology Co.,Ltd.
+DC155C     (base 16)		Anntec （Beijing） Technology Co.,Ltd.
+				F803, Shangdi Third Street, No.9,HaiDian District
+				Beijing    100080
+				CN
+
 08-94-EC   (hex)		Huawei Device Co., Ltd.
 0894EC     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
@@ -92764,6 +92818,90 @@ B8752E     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
 				Dongguan  Guangdong  523808
 				CN
+
+10-A8-79   (hex)		Intel Corporate
+10A879     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
+90-B1-76   (hex)		Intel Corporate
+90B176     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
+70-A0-4B   (hex)		Intel Corporate
+70A04B     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
+0C-AE-39   (hex)		Intel Corporate
+0CAE39     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
+04-A6-C8   (hex)		Intel Corporate
+04A6C8     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
+EC-50-A6   (hex)		Sagemcom Broadband SAS
+EC50A6     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+0C-52-7F   (hex)		Check Point Software Technologies Ltd.
+0C527F     (base 16)		Check Point Software Technologies Ltd.
+				5 Ha'solelim St
+				Tel Aviv    67897
+				IL
+
+88-FE-B6   (hex)		ASKEY COMPUTER CORP
+88FEB6     (base 16)		ASKEY COMPUTER CORP
+				10F,No.119,JIANKANG RD,ZHONGHE DIST
+				NEW TAIPEI  TAIWAN  23585
+				TW
+
+6C-56-40   (hex)		BLU Products Inc
+6C5640     (base 16)		BLU Products Inc
+				8600 NW 36th Street  Suite 200
+				Miami  FL  33166
+				US
+
+80-FD-7B   (hex)		BLU Products Inc
+80FD7B     (base 16)		BLU Products Inc
+				8600 NW 36th Street  Suite 200
+				Miami  FL  33166
+				US
+
+0C-0C-EA   (hex)		BLU Products Inc
+0C0CEA     (base 16)		BLU Products Inc
+				8600 NW 36th Street  Suite 200
+				Miami  FL  33166
+				US
+
+68-1E-A3   (hex)		Sichuan Tianyi Comheart Telecom Co.,LTD
+681EA3     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
+				No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County
+				Chengdu  Sichuan  611330
+				CN
+
+9C-47-11   (hex)		ACCTON TECHNOLOGY CORPORATION
+9C4711     (base 16)		ACCTON TECHNOLOGY CORPORATION
+				No.1, Creation Road 3, Hsinchu Science Park,
+				Hsinchu    30077
+				TW
+
+60-46-4C   (hex)		Ligent Tech,Inc
+60464C     (base 16)		Ligent Tech,Inc
+				2580 N 1st, STE400
+				 San Jose  CA  95131
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -108040,12 +108178,6 @@ F0D9B2     (base 16)		EXO S.A.
 				Av. Chiclana 3444
 				Buenos Aires    1260
 				AR
-
-E4-C8-01   (hex)		BLU Products Inc
-E4C801     (base 16)		BLU Products Inc
-				10814 NW 33rd Street
-				Miami  FL  33172
-				US
 
 00-1F-C6   (hex)		ASUSTek COMPUTER INC.
 001FC6     (base 16)		ASUSTek COMPUTER INC.
@@ -138959,10 +139091,10 @@ E847F3     (base 16)		upscale ai
 				Umeå     903 35 
 				SE
 
-80-C2-F0   (hex)		Xiamen Yeastar Digital Technology Co.,Ltd
-80C2F0     (base 16)		Xiamen Yeastar Digital Technology Co.,Ltd
-				Building C09, Software Park Phase III, Xiamen 361024, Fujian, China
-				XIAMEN  FUJIAN  361024
+34-6F-3F   (hex)		Hon Hai Precision Industry Co.,LTD
+346F3F     (base 16)		Hon Hai Precision Industry Co.,LTD
+				66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI CITY,23678 , TAIWAN CHINA 
+				TAIPEI  66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI   33859
 				CN
 
 14-49-C5   (hex)		Huawei Device Co., Ltd.
@@ -138976,6 +139108,48 @@ B454F2     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
 				Dongguan  Guangdong  523808
 				CN
+
+68-F9-0F   (hex)		Intel Corporate
+68F90F     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
+D0-8E-17   (hex)		ACCTON TECHNOLOGY CORPORATION
+D08E17     (base 16)		ACCTON TECHNOLOGY CORPORATION
+				No.1, Creation Road 3, Hsinchu Science Park,
+				Hsinchu    30077
+				TW
+
+54-A0-AB   (hex)		Maiyue Future Intelligent Technology (Suzhou) Co.,Ltd.
+54A0AB     (base 16)		Maiyue Future Intelligent Technology (Suzhou) Co.,Ltd.
+				Room 1283, Building 3, No.288 Jiushenggang Road, Guoxiang Street, Economic Development Zone, Suzhou,China
+				Suzhou    215000
+				CN
+
+80-C2-F0   (hex)		Xiamen Yeastar Digital Technology Co.,Ltd
+80C2F0     (base 16)		Xiamen Yeastar Digital Technology Co.,Ltd
+				Building C09, Software Park Phase III, Xiamen 361024, Fujian, China
+				XIAMEN  FUJIAN  361024
+				CN
+
+FC-66-37   (hex)		Sagemcom Broadband SAS
+FC6637     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+E4-C8-01   (hex)		BLU Products Inc
+E4C801     (base 16)		BLU Products Inc
+				8600 NW 36th Street  Suite 200
+				Miami  FL  33166
+				US
+
+8C-69-14   (hex)		FREEBOX SAS
+8C6914     (base 16)		FREEBOX SAS
+				16 rue de la Ville l'Eveque
+				PARIS  IdF  75008
+				FR
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -149621,12 +149795,6 @@ AC88FD     (base 16)		Apple, Inc.
 				Gumi  Gyeongbuk  730-350
 				KR
 
-80-FD-7A   (hex)		BLU Products Inc
-80FD7A     (base 16)		BLU Products Inc
-				10814 NW 33rd Street
-				Miami  FL  33172
-				US
-
 B4-A3-05   (hex)		XIAMEN YAXON NETWORK CO., LTD.
 B4A305     (base 16)		XIAMEN YAXON NETWORK CO., LTD.
 				46#,Guanri Road, Software Park II
@@ -152878,12 +153046,6 @@ C4571F     (base 16)		June Life Inc
 				Room 202,Building No.5,Section 30,No.2 of Kefa Road,Nanshan District,Shenzhen,P.R.China
 				Shenzhen  Guangdong  518057
 				CN
-
-60-72-0B   (hex)		BLU Products Inc
-60720B     (base 16)		BLU Products Inc
-				10814 NW 33rd Street
-				Miami  FL  33172
-				US
 
 30-89-76   (hex)		DALIAN LAMBA TECHNOLOGY CO.,LTD
 308976     (base 16)		DALIAN LAMBA TECHNOLOGY CO.,LTD
@@ -185849,10 +186011,64 @@ CC58C7     (base 16)		Nokia
 				Qingdao     266000
 				CN
 
+B0-95-01   (hex)		EM Microelectronic
+B09501     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
+
+D8-5B-27   (hex)		WNC Corporation
+D85B27     (base 16)		WNC Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
+
+C4-2C-7B   (hex)		VIETNAM POST AND TELECOMMUNICATION INDUSTRY TECHNOLOGY JOIN STOCK COMPANY
+C42C7B     (base 16)		VIETNAM POST AND TELECOMMUNICATION INDUSTRY TECHNOLOGY JOIN STOCK COMPANY
+				Hi-Tech Industrial Zone I, Hoa Lac Hi-Tech Park, Hoa Lac Commune
+				Hanoi    100000
+				VN
+
 F4-A1-57   (hex)		Huawei Device Co., Ltd.
 F4A157     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
 				Dongguan  Guangdong  523808
+				CN
+
+A8-72-4D   (hex)		Intel Corporate
+A8724D     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
+64-57-BA   (hex)		Intel Corporate
+6457BA     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
+34-D7-F5   (hex)		IEEE Registration Authority
+34D7F5     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+60-72-0B   (hex)		BLU Products Inc
+60720B     (base 16)		BLU Products Inc
+				8600 NW 36th Street  Suite 200
+				Miami  FL  33166
+				US
+
+80-FD-7A   (hex)		BLU Products Inc
+80FD7A     (base 16)		BLU Products Inc
+				8600 NW 36th Street  Suite 200
+				Miami  FL  33166
+				US
+
+A8-CA-87   (hex)		ZHEJIANG DAHUA ZHILIAN CO.,LTD
+A8CA87     (base 16)		ZHEJIANG DAHUA ZHILIAN CO.,LTD
+				No.28, Dongqiao Road, Dongzhou Street, Fuyang District, Hangzhou, P.R. China
+				HANGZHOU    311400
 				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
@@ -232097,22 +232313,28 @@ F04FE0     (base 16)		Vizio, Inc
 				Irvine  CA  92618
 				US
 
-14-2E-43   (hex)		Hisense broadband multimedia technology Co.,Ltd
-142E43     (base 16)		Hisense broadband multimedia technology Co.,Ltd
-				Song ling Road 399
-				Qingdao    266000
+A4-CB-8F   (hex)		Espressif Inc.
+A4CB8F     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
 				CN
+
+2C-63-A1   (hex)		Huawei Device Co., Ltd.
+2C63A1     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+50-0F-C6   (hex)		solum
+500FC6     (base 16)		solum
+				2354, Yonggu-daero, Giheung-gu
+				Yongin-si  Gyeonggi-do  16921
+				KR
 
 04-22-E7   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 0422E7     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
-				CN
-
-A4-CB-8F   (hex)		Espressif Inc.
-A4CB8F     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
 				CN
 
 2C-E1-87   (hex)		New H3C Technologies Co., Ltd
@@ -232121,8 +232343,56 @@ A4CB8F     (base 16)		Espressif Inc.
 				Hangzhou  Zhejiang  310052
 				CN
 
-2C-63-A1   (hex)		Huawei Device Co., Ltd.
-2C63A1     (base 16)		Huawei Device Co., Ltd.
-				No.2 of Xincheng Road, Songshan Lake Zone
-				Dongguan  Guangdong  523808
+14-2E-43   (hex)		Hisense broadband multimedia technology Co.,Ltd
+142E43     (base 16)		Hisense broadband multimedia technology Co.,Ltd
+				Song ling Road 399
+				Qingdao    266000
+				CN
+
+48-92-C1   (hex)		OHSUNG
+4892C1     (base 16)		OHSUNG
+				335-4,SANHODAERO,GUMI,GYEONG BUK,KOREA
+				GUMI  GYEONG BUK  730-030
+				KR
+
+44-61-DF   (hex)		Skyquad Electronics & Appliances Pvt. Ltd.
+4461DF     (base 16)		Skyquad Electronics & Appliances Pvt. Ltd.
+				12-50/4/A, Adj to Industrial Estate, MedchalR R District, Hyderabad - 501401, Telangana, India.
+				Hyderabad  Telangana  501401
+				IN
+
+60-A1-FE   (hex)		HPRO-Control
+60A1FE     (base 16)		HPRO-Control
+				8500 Balboa Blvd
+				Northridge  CA  91329
+				US
+
+68-09-47   (hex)		Espressif Inc.
+680947     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+70-AF-09   (hex)		Espressif Inc.
+70AF09     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+90-47-C2   (hex)		Intel Corporate
+9047C2     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
+48-40-D5   (hex)		Intel Corporate
+4840D5     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
+EC-58-65   (hex)		Shenzhen Xinguodu Technology Co., Ltd
+EC5865     (base 16)		Shenzhen Xinguodu Technology Co., Ltd
+				17B, Jinson Building, Tairan 4th Road, Shatou Subdistrict, Futian District
+				Shenzhen  Guangdong  518048
 				CN
