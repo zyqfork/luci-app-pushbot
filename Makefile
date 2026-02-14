@@ -17,6 +17,10 @@ define Package/$(PKG_NAME)/conffiles
 /usr/bin/pushbot/api/ipv6.list
 endef
 
+# 编译前生成 Go 二进制：make prepare（需安装 Go），再将 root 打包
+prepare:
+	cd pushbot-go && GOOS=linux go build -o pushbot . && mkdir -p ../root/usr/bin/pushbot && cp pushbot ../root/usr/bin/pushbot/pushbot
+
 include $(TOPDIR)/feeds/luci/luci.mk
 
 # call BuildPackage - OpenWrt buildroot signature

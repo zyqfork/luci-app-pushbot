@@ -183,23 +183,43 @@ func uciGetFull(path string) string {
 	return strings.TrimSpace(string(out))
 }
 
+// ouiSearchPaths 查找顺序：/usr/share/pushbot（包安装）→ 配置目录 → 临时目录
+var ouiSearchPaths = []string{"/usr/share/pushbot", ""}
+
 func ouiLookup(mac string, cfg *Config) string {
 	if len(mac) < 8 {
 		return ""
 	}
-	oui := strings.ReplaceAll(mac[:8], ":", "")
-	for _, base := range []string{cfg.Dir, cfg.ConfigDir} {
-		ouiPath := filepath.Join(base, "oui_base.txt")
-		f, err := os.Open(ouiPath)
-		if err != nil {
-			continue
+	oui := strings.ToLower(strings.ReplaceAll(mac[:8], ":", ""))
+	bases := make([]string, 0, 4)
+	for _, p := range ouiSearchPaths {
+		if p != "" {
+			bases = append(bases, p)
 		}
-		sc := bufio.NewScanner(f)
-		for sc.Scan() {
-			line := strings.ToLower(sc.Text())
-			if strings.Contains(line, strings.ToLower(oui)) {
+	}
+	bases = append(bases, cfg.ConfigDir, cfg.Dir)
+	for _, base := range bases {
+		for _, name := range []string{"oui_base.txt", "oui.txt"} {
+			ouiPath := filepath.Join(base, name)
+			f, err := os.Open(ouiPath)
+			if err != nil {
+				continue
+			}
+			sc := bufio.NewScanner(f)
+			for sc.Scan() {
+				line := sc.Text()
 				idx := strings.Index(line, "(base 16)")
-				if idx > 0 {
+				if idx <= 0 {
+					continue
+				}
+				// 行首 OUI 可能为 XX-XX-XX 或 XX:XX:XX，统一与 oui 比较
+				pre := line
+				if idx < len(line) {
+					pre = line[:idx]
+				}
+				prefix := strings.ReplaceAll(strings.ReplaceAll(pre, "-", ""), ":", "")
+				prefix = strings.ToLower(strings.TrimSpace(prefix))
+				if len(prefix) >= 6 && prefix[:6] == oui {
 					rest := line[idx+9:]
 					parts := strings.Split(rest, "\t")
 					name := strings.TrimSpace(parts[len(parts)-1])
@@ -207,8 +227,8 @@ func ouiLookup(mac string, cfg *Config) string {
 					return strings.ReplaceAll(name, " ", "_")
 				}
 			}
+			f.Close()
 		}
-		f.Close()
 	}
 	return ""
 }

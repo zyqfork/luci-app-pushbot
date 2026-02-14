@@ -1,3 +1,8 @@
+# 编译说明（Go 版）
+- 本仓库已**去掉 shell 脚本**，主程序为 **pushbot-go** 编译的二进制。
+- 打包前请先生成二进制：在仓库根目录执行 **`make prepare`**（需安装 Go），再将 `root` 参与 OpenWrt 打包。
+- OUI 数据位于 **`/usr/share/pushbot/oui.txt`**，由包内安装；详见 `pushbot-go/README.md`。
+
 # 改名公告
 #### 2021年04月25日 起luci-app-serverchand 改名为 luci-app-pushbot
 

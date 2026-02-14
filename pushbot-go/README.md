@@ -1,6 +1,6 @@
 # PushBot Go 版
 
-使用 Go 重写的 PushBot，用于 OpenWrt 设备监控与推送。与原有 shell 版共用 **同一套 UCI 配置** 和 **LuCI 界面**，可直接替换二进制使用。
+本仓库已去掉 shell 脚本，**仅使用 Go 实现**。与原有配置兼容：同一套 UCI 与 LuCI 界面，OUI 数据位于 `/usr/share/pushbot/oui.txt`。
 
 ## 功能对应
 
@@ -44,10 +44,11 @@ chmod +x /usr/bin/pushbot/pushbot
 
 ## 运行方式
 
-- **后台服务**：由 `/etc/init.d/pushbot` 启动，与原来一致。
-- **单次定时推送**：`/usr/bin/pushbot/pushbot -send`
-- **输出在线设备 HTML**：`/usr/bin/pushbot/pushbot -client`（供 LuCI 状态页调用）
-- **测试推送**：`/usr/bin/pushbot/pushbot -test`
+- **后台服务**：由 `/etc/init.d/pushbot` 启动。
+- **单次定时推送**：`/usr/bin/pushbot/pushbot -send` 或 `pushbot send`（LuCI/cron 兼容）
+- **输出在线设备 HTML**：`pushbot -client` / `pushbot client`
+- **测试推送**：`pushbot -test` / `pushbot test`
+- **温度（LuCI 高级设置）**：`pushbot soc`，结果写入 `/tmp/pushbot/soc_tmp`
 
 ## 轮询与唤醒说明（已优化，减少空转）
 
@@ -60,12 +61,13 @@ chmod +x /usr/bin/pushbot/pushbot
 ## 与 Shell 版差异
 
 - **登录提醒**（Web/SSH 登录/失败）：当前未实现，后续可通过 logread 或 syslog 接入。
-- **温度报警**：未实现（可后续读 /sys/class/thermal 或调用 sensors）。
-- **OUI 厂商名**：已支持从 oui_base.txt 解析；不包含下载/更新 OUI 逻辑。
+- **温度**：`pushbot soc` 已实现，写温度到 /tmp/pushbot/soc_tmp（LuCI 高级设置「测试温度命令」）。
+- **OUI 厂商名**：从 /usr/share/pushbot/oui.txt（或 oui_base.txt）及 /usr/bin/pushbot/ 下同名文件读取；不包含自动下载逻辑。
 - **LuCI 客户端页**：`-client` 输出简化表格（客户端名/MAC/IP/在线时间），无流量列。
 
-## 配置路径（与 Shell 一致）
+## 配置路径
 
 - 配置：UCI `pushbot.@pushbot[0].*`
-- 工作目录：`/tmp/pushbot/`（ipAddress、ip、pushbot.log 等）
+- 工作目录：`/tmp/pushbot/`（ipAddress、ip、pushbot.log、soc_tmp 等）
 - 模板与列表：`/usr/bin/pushbot/api/*.json`、`ipv4.list`、`ipv6.list`
+- OUI 数据：`/usr/share/pushbot/oui.txt`（包内安装），可选 /usr/bin/pushbot/oui_base.txt

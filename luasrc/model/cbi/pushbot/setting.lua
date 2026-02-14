@@ -191,18 +191,18 @@ a:value("",translate("关闭"))
 a:value("1",translate("简化版"))
 a:value("2",translate("完整版"))
 a:value("3",translate("网络查询"))
-a.description = translate("需下载 4.36m 原始数据，处理后完整版约 1.2M，简化版约 250kb <br/>若无梯子，请勿使用网络查询")
+a.description = translate("程序从 /usr/share/pushbot/oui.txt 或 /usr/bin/pushbot/ 下 oui_base.txt 读取。包内已带 oui.txt，可选定时任务更新。")
 
 a=s:taboption("basic", Value,"oui_url",translate('MAC设备信息数据库下载地址'))
 a.rmempty = true
 a.default="https://standards-oui.ieee.org/oui/oui.txt"
-a.description = translate("MAC设备信息数据库下载地址，默认使用https://standards-oui.ieee.org/oui/oui.txt")
+a.description = translate("用于手动或定时更新 OUI 时的下载地址（程序不自动下载）")
 
 a=s:taboption("basic", Flag,"oui_dir",translate("下载到内存"))
 a.rmempty = true
 a:depends("oui_data","1")
 a:depends("oui_data","2")
-a.description = translate("懒得做自动更新了，下载到内存中，重启会重新下载 <br/>若无梯子，还是下到机身吧")
+a.description = translate("保留选项，与旧配置兼容；当前程序优先读取 /usr/share/pushbot 与 /usr/bin/pushbot 下数据")
 
 a=s:taboption("basic", Flag,"debuglevel",translate("开启日志"))
 a.rmempty = true

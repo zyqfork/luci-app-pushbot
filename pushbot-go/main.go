@@ -49,6 +49,21 @@ func main() {
 	testCmd := flag.Bool("test", false, "test push")
 	flag.Parse()
 
+	// 兼容 LuCI/cron 的无横杠子命令：pushbot send / client / test / soc
+	if !*sendCmd && !*clientCmd && !*testCmd && len(os.Args) > 1 {
+		switch os.Args[1] {
+		case "send":
+			*sendCmd = true
+		case "client":
+			*clientCmd = true
+		case "test":
+			*testCmd = true
+		case "soc":
+			doSoc()
+			return
+		}
+	}
+
 	cfg, err := loadConfig()
 	if err != nil {
 		log.Fatalf("load config: %v", err)
