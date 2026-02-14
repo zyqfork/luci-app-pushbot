@@ -1,7 +1,29 @@
 # 编译说明（Go 版）
 - 本仓库已**去掉 shell 脚本**，主程序为 **pushbot-go** 编译的二进制。
-- 打包前请先生成二进制：在仓库根目录执行 **`make prepare`**（需安装 Go），再将 `root` 参与 OpenWrt 打包。
 - OUI 数据位于 **`/usr/share/pushbot/oui.txt`**，由包内安装；详见 `pushbot-go/README.md`。
+
+## 让 luci-app-pushbot 出现在 menuconfig（LEDE/OpenWrt）
+很多固件只从 **feeds** 里列包，直接把本包放在 `package/luci-app-pushbot` 可能不会出现在菜单里。请二选一：
+
+**方式 A：放进 luci 源再 install（推荐）**
+```bash
+cd /data/lede
+# 1. 把本仓库放到 luci 的 applications 里（若已有 luci 源）
+cp -r /path/to/luci-app-pushbot feeds/luci/applications/
+# 或克隆：git clone https://github.com/zzsj0928/luci-app-pushbot feeds/luci/applications/luci-app-pushbot
+
+# 2. 更新并安装 luci feed
+./scripts/feeds update luci
+./scripts/feeds install luci-app-pushbot
+
+# 3. 此时包在 package/feeds/luci/luci-app-pushbot，menuconfig 里 LuCI -> Applications 下会出现
+make menuconfig   # 选 LuCI -> Applications -> luci-app-pushbot
+make package/feeds/luci/luci-app-pushbot/install V=s
+```
+
+**方式 B：只用 package 目录**
+- 确保已执行 `./scripts/feeds update luci`（保证有 `feeds/luci/luci.mk`），再把本包放在 `package/luci-app-pushbot`。
+- 若仍不出现，说明当前固件只扫描 `package/feeds/*`，请改用方式 A。
 
 # 改名公告
 #### 2021年04月25日 起luci-app-serverchand 改名为 luci-app-pushbot

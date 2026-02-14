@@ -1,0 +1,7 @@
+# 在包目录下执行: make -f Makefile.prepare prepare
+# 需已安装 Go，生成 root/usr/bin/pushbot/pushbot 后再在 LEDE 根目录 make package/luci-app-pushbot/install
+
+prepare:
+	cd pushbot-go && GOOS=linux go build -o pushbot . && mkdir -p ../root/usr/bin/pushbot && cp pushbot ../root/usr/bin/pushbot/pushbot
+
+.PHONY: prepare
