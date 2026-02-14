@@ -70,12 +70,12 @@ a.description = translate("请确认脚本可以正常运行，否则可能造�
 a=s:option(Flag,"err_sheep_enable",translate("仅在免打扰时段重拨"))
 a.default=0
 a.rmempty=true
-a.description = translate("避免白天重拨 ddns 域名等待解析，此功能不影响断网检测<br/>因夜间跑流量问题，该功能可能不稳定")
+a.description = translate("避免白天重拨 ddns 域名等待解析，此功能不影响断网检测")
 a:depends({err_enable="1"})
 
 a= s:option(DynamicList, "err_device_aliases", translate("关注列表"))
 a.rmempty = true 
-a.description = translate("只会在列表中设备都不在线时才会执行<br/>免打扰时段一小时后，关注设备五分钟低流量（约100kb/m）将视为离线")
+a.description = translate("只会在列表中设备都不在线时才会执行<br/>免打扰时段一小时后允许执行无人值守任务")
 nt.mac_hints(function(mac, name) a :value(mac, "%s (%s)" %{ mac, name }) end)
 a:depends({err_enable="1"})
 
