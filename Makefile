@@ -8,11 +8,13 @@ PKG_NAME:=luci-app-pushbot
 PKG_VERSION:=3.61
 PKG_RELEASE:=1
 
+PKG_LICENSE:=GPL-3.0
+PKG_LICENSE_FILES:=LICENSE
 PKG_MAINTAINER:=tty228 <tty228@yeah.net>  zzsj0928
 
 LUCI_TITLE:=LuCI support for Pushbot
 LUCI_PKGARCH:=all
-LUCI_DEPENDS:=
+LUCI_DEPENDS:=+luci-base
 
 PKG_BUILD_PARALLEL:=1
 
@@ -42,15 +44,14 @@ define Build/Compile
 endef
 
 define Build/Prepare
+	mkdir -p $(PKG_BUILD_DIR)
+	$(CP) $(CURDIR)/pushbot-c $(PKG_BUILD_DIR)/
 	for d in luasrc ucode htdocs root src; do \
-		if [ -d ./$$d ]; then \
+		if [ -d $(CURDIR)/$$d ]; then \
 			mkdir -p $(PKG_BUILD_DIR)/$$d; \
-			$(CP) ./$$d/* $(PKG_BUILD_DIR)/$$d/; \
+			$(CP) $(CURDIR)/$$d/* $(PKG_BUILD_DIR)/$$d/; \
 		fi; \
 	done
-	$(call Build/Prepare/$(LUCI_NAME))
-	$(call Build/Prepare/Default)
-	cp -r $(CURDIR)/pushbot-c $(PKG_BUILD_DIR)/
 endef
 
 # 包目录下手动编译 C 二进制: make -f Makefile.prepare prepare
