@@ -1,14 +1,15 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=luci-app-pushbot
-PKG_VERSION:=3.60
+PKG_VERSION:=3.61
 PKG_RELEASE:=1
 
 PKG_MAINTAINER:=tty228 <tty228@yeah.net>  zzsj0928
 
 LUCI_TITLE:=LuCI support for Pushbot
 LUCI_PKGARCH:=all
-LUCI_DEPENDS:=+iputils-arping +curl +jq
+# Go 版零依赖；可选安装 iputils-arping 以改善设备检测（否则仅用 ping）
+LUCI_DEPENDS:=
 
 define Package/$(PKG_NAME)/conffiles
 /etc/config/pushbot
