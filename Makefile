@@ -1,7 +1,3 @@
-#
-# LuCI app for Pushbot（C 版，无 Go 依赖）
-#
-
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=luci-app-pushbot
@@ -10,13 +6,21 @@ PKG_RELEASE:=1
 
 PKG_LICENSE:=GPL-3.0
 PKG_LICENSE_FILES:=LICENSE
-PKG_MAINTAINER:=tty228 <tty228@yeah.net>  zzsj0928
+PKG_MAINTAINER:=tty228 <tty228@yeah.net> zzsj0928
 
-LUCI_TITLE:=LuCI support for Pushbot
-LUCI_PKGARCH:=all
-LUCI_DEPENDS:=+luci-base
+include $(INCLUDE_DIR)/package.mk
 
-PKG_BUILD_PARALLEL:=1
+define Package/$(PKG_NAME)
+  SECTION:=luci
+  CATEGORY:=LuCI
+  SUBMENU:=3. Applications
+  TITLE:=LuCI support for Pushbot
+  DEPENDS:=+luci-base +libuci
+endef
+
+define Package/$(PKG_NAME)/description
+  LuCI support for Pushbot (钉钉/企业微信等推送).
+endef
 
 define Package/$(PKG_NAME)/conffiles
 /etc/config/pushbot
@@ -25,37 +29,29 @@ define Package/$(PKG_NAME)/conffiles
 /usr/bin/pushbot/api/ipv6.list
 endef
 
-LUCI_MK:=$(firstword $(wildcard $(TOPDIR)/feeds/luci/luci.mk $(TOPDIR)/package/feeds/luci/luci.mk))
-ifneq ($(LUCI_MK),)
-  include $(LUCI_MK)
-else
-  $(error luci.mk not found. Run: ./scripts/feeds update luci)
-endif
+define Build/Prepare
+	mkdir -p $(PKG_BUILD_DIR)
+	$(CP) ./pushbot-c $(PKG_BUILD_DIR)/
+	$(CP) ./luasrc $(PKG_BUILD_DIR)/
+	$(CP) ./root $(PKG_BUILD_DIR)/
+endef
 
-# C 编译：无 Go 依赖，仅需 TARGET_CC
 define Build/Compile
 	$(MAKE) -C $(PKG_BUILD_DIR)/pushbot-c \
 		CC="$(TARGET_CC)" \
 		CFLAGS="$(TARGET_CFLAGS)" \
 		LDFLAGS="$(TARGET_LDFLAGS)" \
 		clean all
-	mkdir -p $(PKG_BUILD_DIR)/root/usr/bin/pushbot
-	cp $(PKG_BUILD_DIR)/pushbot-c/pushbot $(PKG_BUILD_DIR)/root/usr/bin/pushbot/pushbot
 endef
 
-define Build/Prepare
-	mkdir -p $(PKG_BUILD_DIR)
-	$(CP) $(CURDIR)/pushbot-c $(PKG_BUILD_DIR)/
-	for d in luasrc ucode htdocs root src; do \
-		if [ -d $(CURDIR)/$$d ]; then \
-			mkdir -p $(PKG_BUILD_DIR)/$$d; \
-			$(CP) $(CURDIR)/$$d/* $(PKG_BUILD_DIR)/$$d/; \
-		fi; \
-	done
+define Package/$(PKG_NAME)/install
+	$(INSTALL_DIR) $(1)/usr/lib/lua/luci
+	$(CP) $(PKG_BUILD_DIR)/luasrc/* $(1)/usr/lib/lua/luci/
+	
+	$(INSTALL_DIR) $(1)/usr/bin/pushbot
+	$(INSTALL_BIN) $(PKG_BUILD_DIR)/pushbot-c/pushbot $(1)/usr/bin/pushbot/pushbot
+	
+	$(CP) $(PKG_BUILD_DIR)/root/* $(1)/
 endef
 
-# 包目录下手动编译 C 二进制: make -f Makefile.prepare prepare
-prepare:
-	$(MAKE) -C pushbot-c clean all
-	mkdir -p root/usr/bin/pushbot
-	cp pushbot-c/pushbot root/usr/bin/pushbot/pushbot
+$(eval $(call BuildPackage,$(PKG_NAME)))
