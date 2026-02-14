@@ -31,13 +31,13 @@ endef
 
 define Build/Prepare
 	mkdir -p $(PKG_BUILD_DIR)
-	$(CP) ./pushbot-c $(PKG_BUILD_DIR)/
-	$(CP) ./luasrc $(PKG_BUILD_DIR)/
-	$(CP) ./root $(PKG_BUILD_DIR)/
+	$(CP) $(CURDIR)/pushbot-c $(PKG_BUILD_DIR)/
+	$(CP) $(CURDIR)/luasrc $(PKG_BUILD_DIR)/
+	$(CP) $(CURDIR)/root $(PKG_BUILD_DIR)/
 endef
 
 define Build/Compile
-	$(MAKE) -C $(PKG_BUILD_DIR)/pushbot-c \
+	+$(MAKE) -C $(PKG_BUILD_DIR)/pushbot-c \
 		CC="$(TARGET_CC)" \
 		CFLAGS="$(TARGET_CFLAGS)" \
 		LDFLAGS="$(TARGET_LDFLAGS)" \
