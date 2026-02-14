@@ -1,29 +1,50 @@
-# 编译说明（Go 版）
-- 本仓库已**去掉 shell 脚本**，主程序为 **pushbot-go** 编译的二进制。
-- OUI 数据位于 **`/usr/share/pushbot/oui.txt`**，由包内安装；详见 `pushbot-go/README.md`。
+# 编译说明（C 版）
+- 本仓库已**去掉 shell 脚本**，主程序为 **pushbot-c** 编译的 C 二进制，无需 Go 环境。
+- OUI 数据位于 **`/usr/share/pushbot/oui.txt`**，由包内安装。
 
-## 让 luci-app-pushbot 出现在 menuconfig（LEDE/OpenWrt）
-很多固件只从 **feeds** 里列包，直接把本包放在 `package/luci-app-pushbot` 可能不会出现在菜单里。请二选一：
+## 重要：为何 `make package/luci-app-pushbot/compile` 报错？
 
-**方式 A：放进 luci 源再 install（推荐）**
-```bash
-cd /data/lede
-# 1. 把本仓库放到 luci 的 applications 里（若已有 luci 源）
-cp -r /path/to/luci-app-pushbot feeds/luci/applications/
-# 或克隆：git clone https://github.com/zzsj0928/luci-app-pushbot feeds/luci/applications/luci-app-pushbot
+LEDE/Lean 等固件**只为 feeds 里的包**生成 `compile`/`install` 目标。若你只是把本包复制到 `package/luci-app-pushbot/`，会报：
 
-# 2. 更新并安装 luci feed
-./scripts/feeds update luci
-./scripts/feeds install luci-app-pushbot
-
-# 3. 此时包在 package/feeds/luci/luci-app-pushbot，menuconfig 里 LuCI -> Applications 下会出现
-make menuconfig   # 选 LuCI -> Applications -> luci-app-pushbot
-make package/feeds/luci/luci-app-pushbot/install V=s
+```text
+No rule to make target 'package/luci-app-pushbot/compile'
 ```
 
-**方式 B：只用 package 目录**
-- 确保已执行 `./scripts/feeds update luci`（保证有 `feeds/luci/luci.mk`），再把本包放在 `package/luci-app-pushbot`。
-- 若仍不出现，说明当前固件只扫描 `package/feeds/*`，请改用方式 A。
+**解决：** 用下面的**自建 feed（方式 C）**，再编 `package/feeds/pushbot/luci-app-pushbot`。
+
+---
+
+## 方式 C：自建 feed（推荐，Lean/coolsnowwolf LEDE 必用）
+
+coolsnowwolf 的 luci 源在 `feeds update luci` 时**只用远端 git 的索引**，不会把你在本机拷到 `feeds/luci/applications/` 的包加进去，所以会报 “No feed for package 'luci-app-pushbot' found”。必须用自建 feed。
+
+1. 确保包在 `package/` 下（你已做过可跳过）：
+   ```bash
+   cp -r /path/to/luci-app-pushbot /data/lede/package/
+   ```
+
+2. 在 **feeds.conf** 或 **feeds.conf.default** 末尾加一行（路径必须是**包含** `luci-app-pushbot` 的那层目录）：
+   ```text
+   src-link pushbot /data/lede/package
+   ```
+
+3. 更新 feed、安装包、编译：
+   ```bash
+   cd /data/lede
+   ./scripts/feeds update pushbot
+   ./scripts/feeds install luci-app-pushbot
+   make package/feeds/pushbot/luci-app-pushbot/compile V=s
+   ```
+
+4. 生成的 ipk 在 `bin/packages/.../luci-app-pushbot_*.ipk`，按你的 target 路径找即可。
+
+---
+
+## 方式 A：上游 OpenWrt 或自维护 luci 源
+
+仅当 luci 源是你自己维护、且会**根据本地 `feeds/luci/` 生成索引**时，才可以把包拷进 `feeds/luci/applications/`，再 `feeds update luci`、`feeds install luci-app-pushbot`，然后用：
+`make package/feeds/luci/luci-app-pushbot/compile V=s`。  
+Lean/coolsnowwolf 的 luci 来自远端 git，**不支持**这种方式，请用方式 C。
 
 # 改名公告
 #### 2021年04月25日 起luci-app-serverchand 改名为 luci-app-pushbot

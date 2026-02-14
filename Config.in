@@ -1,0 +1,3 @@
+config LUCI_APP_PUSHBOT
+	bool "LuCI support for Pushbot (钉钉/企业微信等推送)"
+	default n
