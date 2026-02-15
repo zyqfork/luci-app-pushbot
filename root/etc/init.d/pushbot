@@ -7,9 +7,10 @@ start() {
 	state=`pgrep -f "/usr/bin/pushbot/pushbot"`
 	if [ ! -z "$state" ]; then
 		restart
-	else
-		/usr/bin/pushbot/pushbot &
+		return 0
 	fi
+	# 程序内部会 daemon(0,0)，父进程立即退出，子进程常驻，无需 nohup/&
+	/usr/bin/pushbot/pushbot
 	echo "pushbot is starting now ..."
 }
 

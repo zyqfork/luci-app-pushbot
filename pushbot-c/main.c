@@ -125,6 +125,10 @@ int main(int argc, char **argv) {
 		return 0;
 	}
 
+	/* 守护进程化：脱离启动它的 shell，避免收到 SIGHUP 被杀死 */
+	if (daemon(0, 0) != 0)
+		return 1;
+
 	/* Daemon: init device list then loop */
 	g_n_current = 0;
 	device_read_list(g_ip_path, g_current, MAX_DEVICES, &g_n_current);
