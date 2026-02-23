@@ -46592,12 +46592,6 @@ D02C39     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
-00-26-89   (hex)		General Dynamics Land Systems Inc.
-002689     (base 16)		General Dynamics Land Systems Inc.
-				1231 Tech Court
-				Westminster  MD  21157
-				US
-
 48-76-96   (hex)		Huaan Zhongyun Co., Ltd.
 487696     (base 16)		Huaan Zhongyun Co., Ltd.
 				Room 201, 2nd Floor, Building A, No. 128 Qiming Road, Yinzhou District, Ningbo City
@@ -46979,11 +46973,29 @@ A46177     (base 16)		AMOSENSE
 				Scottsdale  AZ  85250
 				US
 
+2C-DE-F5   (hex)		TVS REGZA Corporation
+2CDEF5     (base 16)		TVS REGZA Corporation
+				19F, Kowa Kawasaki West Exit Building66-2 Horikawa-cho, Saiwai-ku
+				Kawasaki-shi  Kanagawa  2120013
+				JP
+
 EC-73-F6   (hex)		Sichuan AI-Link Technology Co., Ltd.
 EC73F6     (base 16)		Sichuan AI-Link Technology Co., Ltd.
 				Anzhou, Industrial Park
 				Mianyang  Sichuan  622650
 				CN
+
+00-26-89   (hex)		General Dynamics Land Systems Inc.
+002689     (base 16)		General Dynamics Land Systems Inc.
+				38500 Mound Road
+				Sterling Heights  MI  48310-3200
+				US
+
+0C-6F-8B   (hex)		Apple, Inc.
+0C6F8B     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 50-EE-87   (hex)		HPRO
 50EE87     (base 16)		HPRO
@@ -93204,6 +93216,48 @@ D0C6BE     (base 16)		HPRO-Video
 0C83F4     (base 16)		Canopy Works, Inc.
 				1875 Mission St, Ste 103
 				San Francisco  CA  94103
+				US
+
+C0-2D-10   (hex)		MOHAN ELECTRONICS AND SYSTEMS
+C02D10     (base 16)		MOHAN ELECTRONICS AND SYSTEMS
+				571, STREET NO. 6, CHANDERLOK, SHAHDARA, DELHI
+				DELHI  DELHI  110093
+				IN
+
+74-98-F4   (hex)		BUFFALO.INC
+7498F4     (base 16)		BUFFALO.INC
+				AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku
+				Nagoya  Aichi Pref.  460-8315
+				JP
+
+F8-1E-49   (hex)		Apple, Inc.
+F81E49     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+BC-74-EA   (hex)		Apple, Inc.
+BC74EA     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+70-AE-2A   (hex)		Apple, Inc.
+70AE2A     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+18-B8-42   (hex)		Apple, Inc.
+18B842     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+2C-1C-F7   (hex)		Apple, Inc.
+2C1CF7     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -139520,11 +139574,23 @@ DC7EF5     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Hsinchu    300094
 				TW
 
-F0-74-C1   (hex)		Blink by Amazon 
-F074C1     (base 16)		Blink by Amazon 
-				100 Riverpark Drive
-				North Reading   MA  01864
-				US
+BC-00-23   (hex)		Honor Device Co., Ltd.
+BC0023     (base 16)		Honor Device Co., Ltd.
+				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
+				Shenzhen   Guangdong  518040
+				CN
+
+88-7C-C1   (hex)		Zebronics India Pvt Ltd
+887CC1     (base 16)		Zebronics India Pvt Ltd
+				No 13/7, Smith Road, Royapettah
+				Chennai  Tamil Nadu  600002
+				IN
+
+3C-CB-01   (hex)		Beijing Lingji innovations Technology Co., LTD.
+3CCB01     (base 16)		Beijing Lingji innovations Technology Co., LTD.
+				Room 106, 1F, A1 Bldg. Zhongguancun Dongsheng Technology Park (Northern Territory), No. 66, Xixiaokou Rd, Haidian Dist., Beijing, China
+				Beijing  Beijing  100192
+				CN
 
 18-14-54   (hex)		CIG SHANGHAI CO LTD
 181454     (base 16)		CIG SHANGHAI CO LTD
@@ -139537,12 +139603,6 @@ F074C1     (base 16)		Blink by Amazon
 				No.65/113, Chamnan Phenjati, 12A Floor, Rama9 road
 				Bangkok  Bangkok  10310
 				TH
-
-00-0B-7C   (hex)		Electro-Voice Dynacord LLC
-000B7C     (base 16)		Electro-Voice Dynacord LLC
-				130 Perinton Parkway
-				Fairport  NY  14450
-				US
 
 E4-FE-E4   (hex)		Ciena Corporation
 E4FEE4     (base 16)		Ciena Corporation
@@ -139568,23 +139628,41 @@ E4FEE4     (base 16)		Ciena Corporation
 				Foshan  Guangdong  528311
 				CN
 
-BC-00-23   (hex)		Honor Device Co., Ltd.
-BC0023     (base 16)		Honor Device Co., Ltd.
-				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
-				Shenzhen   Guangdong  518040
-				CN
+F0-74-C1   (hex)		Blink by Amazon 
+F074C1     (base 16)		Blink by Amazon 
+				100 Riverpark Drive
+				North Reading   MA  01864
+				US
 
-88-7C-C1   (hex)		Zebronics India Pvt Ltd
-887CC1     (base 16)		Zebronics India Pvt Ltd
-				No 13/7, Smith Road, Royapettah
-				Chennai  Tamil Nadu  600002
-				IN
+00-0B-7C   (hex)		Electro-Voice Dynacord LLC
+000B7C     (base 16)		Electro-Voice Dynacord LLC
+				130 Perinton Parkway
+				Fairport  NY  14450
+				US
 
-3C-CB-01   (hex)		Beijing Lingji innovations Technology Co., LTD.
-3CCB01     (base 16)		Beijing Lingji innovations Technology Co., LTD.
-				Room 106, 1F, A1 Bldg. Zhongguancun Dongsheng Technology Park (Northern Territory), No. 66, Xixiaokou Rd, Haidian Dist., Beijing, China
-				Beijing  Beijing  100192
-				CN
+8C-4E-BB   (hex)		Amazon Technologies Inc.
+8C4EBB     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
+EC-31-5F   (hex)		Amazon Technologies Inc.
+EC315F     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
+70-96-84   (hex)		Apple, Inc.
+709684     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+CC-BE-61   (hex)		Apple, Inc.
+CCBE61     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -186635,6 +186713,48 @@ C03A55     (base 16)		TP-Link Systems Inc.
 				 Irvine  CA  92618
 				US
 
+B8-87-88   (hex)		HP Inc.
+B88788     (base 16)		HP Inc.
+				10300 Energy Dr
+				Spring  TX  77389
+				US
+
+A8-5F-61   (hex)		Apple, Inc.
+A85F61     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+C4-F4-45   (hex)		Apple, Inc.
+C4F445     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+58-56-AA   (hex)		Apple, Inc.
+5856AA     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+F8-CB-15   (hex)		Apple, Inc.
+F8CB15     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+D4-CE-40   (hex)		Apple, Inc.
+D4CE40     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+88-70-15   (hex)		Apple, Inc.
+887015     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -233063,6 +233183,18 @@ A40450     (base 16)		nFore Technology Co., Ltd.
 				5651 GW Eindhoven  Eindhoven  5651
 				NL
 
+60-A1-FE   (hex)		HPRO
+60A1FE     (base 16)		HPRO
+				8500 Balboa Blvd
+				Northridge  CA  91329
+				US
+
+A4-18-94   (hex)		IQSIGHT B.V.
+A41894     (base 16)		IQSIGHT B.V.
+				Achtseweg Zuid 173
+				Eindhoven    5651 GW
+				NL
+
 B0-37-31   (hex)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
 B03731     (base 16)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
 				19-22# Building, Star-net Science Plaza, Juyuanzhou,
@@ -233075,20 +233207,50 @@ B03731     (base 16)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
 				Berlin  Berlin  10559
 				DE
 
+18-A0-84   (hex)		Apple, Inc.
+18A084     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+58-2A-93   (hex)		Apple, Inc.
+582A93     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+64-C9-05   (hex)		Apple, Inc.
+64C905     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+E8-8F-8E   (hex)		Hoags Technologies India Private Limited
+E88F8E     (base 16)		Hoags Technologies India Private Limited
+				M-138, 9TH A MAIN, JEEVAN BHEEMA NAGAR,
+				Bangalore  KA  560075
+				IN
+
 6C-40-33   (hex)		Beijing Megwang Technology Co., Ltd.
 6C4033     (base 16)		Beijing Megwang Technology Co., Ltd.
 				Room 1316, 1st Floor, Building 12, Jianzhong Road, Xisanqi Building Materials City, Haidian District, Beijing, China
 				Beijing    100096
 				CN
 
-60-A1-FE   (hex)		HPRO
-60A1FE     (base 16)		HPRO
-				8500 Balboa Blvd
-				Northridge  CA  91329
+3C-BF-D7   (hex)		Apple, Inc.
+3CBFD7     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
 				US
 
-A4-18-94   (hex)		IQSIGHT B.V.
-A41894     (base 16)		IQSIGHT B.V.
-				Achtseweg Zuid 173
-				Eindhoven    5651 GW
-				NL
+88-7E-9B   (hex)		Apple, Inc.
+887E9B     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+54-2A-43   (hex)		Apple, Inc.
+542A43     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
