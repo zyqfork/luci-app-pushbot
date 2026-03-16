@@ -17681,12 +17681,6 @@ DC446D     (base 16)		Allwinner Technology Co., Ltd
 				Dongguan    523808
 				CN
 
-A8-D3-F7   (hex)		Arcadyan Technology Corporation
-A8D3F7     (base 16)		Arcadyan Technology Corporation
-				No.8, Sec.2, Guangfu Rd.,
-				Hsinchu City  Hsinchu  30071
-				TW
-
 00-0D-92   (hex)		ARIMA Communications Corp.
 000D92     (base 16)		ARIMA Communications Corp.
 				16, lane 658, Ying-Tao Road
@@ -47075,11 +47069,11 @@ F4C6D7     (base 16)		blackned GmbH
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
-D4-4A-85   (hex)		Silicon Laboratories
-D44A85     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
-				US
+E0-D3-8E   (hex)		Chipsea Technologies (Shenzhen) Crop.
+E0D38E     (base 16)		Chipsea Technologies (Shenzhen) Crop.
+				Room 301, Building 1, Shenzhen Bay Innovation and Technology Center, Keyuan Avenue, High-tech Zone Community, Yuehai Subdistrict, Nanshan District, Shenzhen
+				Shenzhen    518000
+				CN
 
 CC-C8-37   (hex)		Quectel Wireless Solutions Co.,Ltd.
 CCC837     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -47087,11 +47081,71 @@ CCC837     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				Shanghai    200233
 				CN
 
-E0-D3-8E   (hex)		Chipsea Technologies (Shenzhen) Crop.
-E0D38E     (base 16)		Chipsea Technologies (Shenzhen) Crop.
-				Room 301, Building 1, Shenzhen Bay Innovation and Technology Center, Keyuan Avenue, High-tech Zone Community, Yuehai Subdistrict, Nanshan District, Shenzhen
-				Shenzhen    518000
+D4-4A-85   (hex)		Silicon Laboratories
+D44A85     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+60-95-78   (hex)		Samsung Electronics Co.,Ltd
+609578     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+78-0A-57   (hex)		Shanghai Lightningsemi Technology Co.,Ltd.
+780A57     (base 16)		Shanghai Lightningsemi Technology Co.,Ltd.
+				 Floor 5, Building 6,No. 9,Lane 1670，XiuYan road，ISPACE Kangqiao Intelligent Manufacturing Industrial Park，Pudong district
+				SHANGHAI  SHANGHAI  201315
 				CN
+
+D0-96-EA   (hex)		vivo Mobile Communication Co., Ltd.
+D096EA     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
+
+5C-BA-75   (hex)		Quectel Wireless Solutions Co., Ltd.
+5CBA75     (base 16)		Quectel Wireless Solutions Co., Ltd.
+				Building 5, Shanghai Business Park Phase III (Area B), No.1016 Tianlin Road, Minhang District
+				Shanghai    200233
+				CN
+
+74-13-6A   (hex)		Motorola Mobility LLC, a Lenovo Company
+74136A     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+38-A3-E0   (hex)		1Finity Inc
+38A3E0     (base 16)		1Finity Inc
+				4-1-1 Kamikodanaka, Nakahara-ku, Kawasaki-shi, Kanagawa211-8588, Japan
+				Kawasaki  Kanagawa  211-8588
+				JP
+
+98-3B-8A   (hex)		Sekisui Jushi CAP-AI System Co.,Ltd.
+983B8A     (base 16)		Sekisui Jushi CAP-AI System Co.,Ltd.
+				Mandai Mita Building 2F,3-2-3 Mita,Minato-ku
+				Tokyo    108-0073
+				JP
+
+08-D0-1E   (hex)		Juniper Networks
+08D01E     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
+A8-D3-F7   (hex)		Arcadyan Corporation
+A8D3F7     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.,
+				Hsinchu City  Hsinchu  30071
+				TW
+
+B8-38-65   (hex)		Hewlett Packard Enterprise
+B83865     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
 
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
@@ -64348,18 +64402,6 @@ C0FFD4     (base 16)		NETGEAR
 				350 East Plumeria Drive
 				San Jose  CA  95134
 				US
-
-00-26-4D   (hex)		Arcadyan Technology Corporation
-00264D     (base 16)		Arcadyan Technology Corporation
-				4F., No. 9 , Park Avenue II ,
-				Hsinchu  Taiwan  300
-				TW
-
-84-9C-A6   (hex)		Arcadyan Technology Corporation
-849CA6     (base 16)		Arcadyan Technology Corporation
-				4F, No. 9, Park Avenue II ,
-				Hsinchu    300
-				TW
 
 00-24-B2   (hex)		NETGEAR
 0024B2     (base 16)		NETGEAR
@@ -93422,6 +93464,54 @@ B4B650     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 				Chongqing   China  401120
 				CN
 
+DC-73-FC   (hex)		Mellanox Technologies, Inc.
+DC73FC     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+CC-30-89   (hex)		Mellanox Technologies, Inc.
+CC3089     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+84-9C-A6   (hex)		Arcadyan Corporation
+849CA6     (base 16)		Arcadyan Corporation
+				4F, No. 9, Park Avenue II ,
+				Hsinchu    300
+				TW
+
+00-26-4D   (hex)		Arcadyan Corporation
+00264D     (base 16)		Arcadyan Corporation
+				4F., No. 9 , Park Avenue II ,
+				Hsinchu  Taiwan  300
+				TW
+
+EC-B5-AF   (hex)		RayService a.s.
+ECB5AF     (base 16)		RayService a.s.
+				Huštěnovská 2022
+				Staré Město  Czech Republic  686 03
+				CZ
+
+20-B3-7F   (hex)		IEEE Registration Authority
+20B37F     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+44-4A-4C   (hex)		vivo Mobile Communication Co., Ltd.
+444A4C     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
+
+00-76-B6   (hex)		Ford Motor Company
+0076B6     (base 16)		Ford Motor Company
+				20300 Rotunda Drive
+				Dearborn  MI  48124
+				US
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -102734,12 +102824,6 @@ AC8D34     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-74-31-70   (hex)		Arcadyan Technology Corporation
-743170     (base 16)		Arcadyan Technology Corporation
-				4F. , No. 9 , Park Avenue II,
-				Hsinchu    300
-				TW
-
 40-11-75   (hex)		IEEE Registration Authority
 401175     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -110900,24 +110984,6 @@ C4473F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-5C-DC-96   (hex)		Arcadyan Technology Corporation
-5CDC96     (base 16)		Arcadyan Technology Corporation
-				No.8, Sec.2, Guangfu Rd.,
-				Hsinchu City 30071,    12345
-				TW
-
-00-1A-2A   (hex)		Arcadyan Technology Corporation
-001A2A     (base 16)		Arcadyan Technology Corporation
-				4F., No. 9 , Park Avenue II,
-				Hsinchu    300
-				TW
-
-88-25-2C   (hex)		Arcadyan Technology Corporation
-88252C     (base 16)		Arcadyan Technology Corporation
-				4F., NO.9, Park Avenue II ,
-				Hsinchu    300
-				TW
-
 00-E0-63   (hex)		Cabletron Systems, Inc.
 00E063     (base 16)		Cabletron Systems, Inc.
 				35 INDUSTRIAL WAY
@@ -110959,18 +111025,6 @@ D40129     (base 16)		Broadcom
 				ATIDIM TECHNOLOGICAL PK-BLDG.3
 				Tel-aviv    12345
 				IL
-
-1C-C6-3C   (hex)		Arcadyan Technology Corporation
-1CC63C     (base 16)		Arcadyan Technology Corporation
-				4F, No. 9, Park Avenue II ,
-				Hsinchu    300
-				TW
-
-18-83-BF   (hex)		Arcadyan Technology Corporation
-1883BF     (base 16)		Arcadyan Technology Corporation
-				4F, No. 9, Park Avenue II ,
-				Hsinchu    300
-				TW
 
 68-ED-43   (hex)		BlackBerry RTS
 68ED43     (base 16)		BlackBerry RTS
@@ -139898,6 +139952,66 @@ E40A75     (base 16)		Silicon Laboratories
 				Suzhou     215000
 				CN
 
+EC-6F-F9   (hex)		Pioseed Technology(Chengdu)Co.,Ltd.
+EC6FF9     (base 16)		Pioseed Technology(Chengdu)Co.,Ltd.
+				Unit 1,Building 2,177 Tianquan Road,Chengdu High-tech Zone(self-numbered)
+				Chengdu  Sichuan  610097
+				CN
+
+B0-7A-A4   (hex)		Guangzhou Punp Electronics Manufacturing Co., Ltd.
+B07AA4     (base 16)		Guangzhou Punp Electronics Manufacturing Co., Ltd.
+				No. 20 Qianfeng South Road, Panyu District
+				Guangzhou  Guangdong  511450
+				CN
+
+18-83-BF   (hex)		Arcadyan Corporation
+1883BF     (base 16)		Arcadyan Corporation
+				4F, No. 9, Park Avenue II ,
+				Hsinchu    300
+				TW
+
+1C-C6-3C   (hex)		Arcadyan Corporation
+1CC63C     (base 16)		Arcadyan Corporation
+				4F, No. 9, Park Avenue II ,
+				Hsinchu    300
+				TW
+
+88-25-2C   (hex)		Arcadyan Corporation
+88252C     (base 16)		Arcadyan Corporation
+				4F., NO.9, Park Avenue II ,
+				Hsinchu    300
+				TW
+
+00-1A-2A   (hex)		Arcadyan Corporation
+001A2A     (base 16)		Arcadyan Corporation
+				4F., No. 9 , Park Avenue II,
+				Hsinchu    300
+				TW
+
+5C-DC-96   (hex)		Arcadyan Corporation
+5CDC96     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.,
+				Hsinchu City 30071,    12345
+				TW
+
+74-31-70   (hex)		Arcadyan Corporation
+743170     (base 16)		Arcadyan Corporation
+				4F. , No. 9 , Park Avenue II,
+				Hsinchu    300
+				TW
+
+F8-E0-00   (hex)		FUJI ELECTRIC CO., LTD.
+F8E000     (base 16)		FUJI ELECTRIC CO., LTD.
+				1-27, Fuji-cho
+				Yokkaichi    510-0013
+				JP
+
+50-61-88   (hex)		PLANET Technology Corporation
+506188     (base 16)		PLANET Technology Corporation
+				11F., No. 96, Minquan Road, Xindian Dist.,
+				New Taipei City  TAIWAN  23141
+				TW
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -156986,34 +157100,10 @@ D0D04B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-4C-09-D4   (hex)		Arcadyan Technology Corporation
-4C09D4     (base 16)		Arcadyan Technology Corporation
-				4F, No. 9, Park Avenue II ,
-				Hsinchu    300
-				TW
-
 C8-FF-28   (hex)		Liteon Technology Corporation
 C8FF28     (base 16)		Liteon Technology Corporation
 				4F, 90, Chien 1 Road
 				New Taipei City  Taiwan  23585
-				TW
-
-9C-80-DF   (hex)		Arcadyan Technology Corporation
-9C80DF     (base 16)		Arcadyan Technology Corporation
-				4F, No. 9, Park Avenue II ,
-				Hsinchu    300
-				TW
-
-00-23-08   (hex)		Arcadyan Technology Corporation
-002308     (base 16)		Arcadyan Technology Corporation
-				4F, No. 9, Park Avenue II ,
-				Hsinchu    300
-				TW
-
-88-03-55   (hex)		Arcadyan Technology Corporation
-880355     (base 16)		Arcadyan Technology Corporation
-				4F., No.9 , Park Avenue II
-				Hsinchu    300
 				TW
 
 34-BB-1F   (hex)		BlackBerry RTS
@@ -187097,11 +187187,65 @@ EC72F7     (base 16)		DJI BAIWANG TECHNOLOGY CO LTD
 				Shenzhen  Guangdong  518057
 				CN
 
+38-6D-ED   (hex)		Juniper Networks
+386DED     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
 B8-D5-AD   (hex)		Nokia
 B8D5AD     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+00-23-08   (hex)		Arcadyan Corporation
+002308     (base 16)		Arcadyan Corporation
+				4F, No. 9, Park Avenue II ,
+				Hsinchu    300
+				TW
+
+9C-80-DF   (hex)		Arcadyan Corporation
+9C80DF     (base 16)		Arcadyan Corporation
+				4F, No. 9, Park Avenue II ,
+				Hsinchu    300
+				TW
+
+30-08-4D   (hex)		Trumpf Hüttinger
+30084D     (base 16)		Trumpf Hüttinger
+				Bötzingerstraße 80
+				Freiburg    79111
+				DE
+
+88-03-55   (hex)		Arcadyan Corporation
+880355     (base 16)		Arcadyan Corporation
+				4F., No.9 , Park Avenue II
+				Hsinchu    300
+				TW
+
+4C-09-D4   (hex)		Arcadyan Corporation
+4C09D4     (base 16)		Arcadyan Corporation
+				4F, No. 9, Park Avenue II ,
+				Hsinchu    300
+				TW
+
+10-3A-5D   (hex)		Emerson
+103A5D     (base 16)		Emerson
+				6021 Innovation Blvd
+				Shakopee  MN  55379
+				US
+
+28-87-5F   (hex)		Annapurna labs
+28875F     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
+94-54-A0   (hex)		Fosilicon CO., Ltd
+9454A0     (base 16)		Fosilicon CO., Ltd
+				Room 502A, Building A, Phoenix Wisdom Valley, No. 50, Tiezi Road, Xixiang, Bao'an, Shenzhen
+				Shenzhen  Guangdong  518102
+				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -204607,30 +204751,6 @@ BC620E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
-
-00-1D-19   (hex)		Arcadyan Technology Corporation
-001D19     (base 16)		Arcadyan Technology Corporation
-				4F., No. 9 , Park Avenue II,
-				Hsinchu    300
-				TW
-
-00-12-BF   (hex)		Arcadyan Technology Corporation
-0012BF     (base 16)		Arcadyan Technology Corporation
-				4F, No. 9, Park Avenue II
-				Hsinchu    300
-				TW
-
-50-7E-5D   (hex)		Arcadyan Technology Corporation
-507E5D     (base 16)		Arcadyan Technology Corporation
-				4F, No. 9, Park Avenue II ,
-				Hsinchu    300
-				TW
-
-7C-4F-B5   (hex)		Arcadyan Technology Corporation
-7C4FB5     (base 16)		Arcadyan Technology Corporation
-				4F, No. 9, Park Avenue II ,
-				Hsinchu    300
-				TW
 
 00-20-D4   (hex)		Cabletron Systems, Inc.
 0020D4     (base 16)		Cabletron Systems, Inc.
@@ -233657,6 +233777,18 @@ A493FE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Heidelberg  Baden-Württemberg  69123
 				DE
 
+64-CA-80   (hex)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+64CA80     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+				No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing.
+				Chongqing   China  401120
+				CN
+
+00-1D-19   (hex)		Arcadyan Corporation
+001D19     (base 16)		Arcadyan Corporation
+				4F., No. 9 , Park Avenue II,
+				Hsinchu    300
+				TW
+
 44-B1-76   (hex)		Espressif Inc.
 44B176     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
@@ -233669,11 +233801,11 @@ A493FE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				shenzhen   guangdong  518057
 				CN
 
-64-CA-80   (hex)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
-64CA80     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
-				No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing.
-				Chongqing   China  401120
-				CN
+C0-6B-C7   (hex)		Gallagher Group Limited
+C06BC7     (base 16)		Gallagher Group Limited
+				181 Kahikatea Drive
+				Hamilton  Waikato  3204
+				NZ
 
 BC-C4-36   (hex)		Nokia
 BCC436     (base 16)		Nokia
@@ -233686,3 +233818,57 @@ DCB87D     (base 16)		Hewlett Packard Enterprise
 				6280 America Center Dr
 				San Jose  CA  95002
 				US
+
+24-7E-7F   (hex)		D-Fend Solutions A.D Ltd
+247E7F     (base 16)		D-Fend Solutions A.D Ltd
+				13 Zarhin st
+				Raanana  Sharon  4366241
+				IL
+
+7C-4F-B5   (hex)		Arcadyan Corporation
+7C4FB5     (base 16)		Arcadyan Corporation
+				4F, No. 9, Park Avenue II ,
+				Hsinchu    300
+				TW
+
+50-7E-5D   (hex)		Arcadyan Corporation
+507E5D     (base 16)		Arcadyan Corporation
+				4F, No. 9, Park Avenue II ,
+				Hsinchu    300
+				TW
+
+00-12-BF   (hex)		Arcadyan Corporation
+0012BF     (base 16)		Arcadyan Corporation
+				4F, No. 9, Park Avenue II
+				Hsinchu    300
+				TW
+
+98-2B-A6   (hex)		Motorola Mobility LLC, a Lenovo Company
+982BA6     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+5C-82-17   (hex)		DSE srl
+5C8217     (base 16)		DSE srl
+				Via La Valle 51
+				San Mauro Torinese  TO  10099
+				IT
+
+AC-E6-06   (hex)		Honor Device Co., Ltd.
+ACE606     (base 16)		Honor Device Co., Ltd.
+				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
+				Shenzhen   Guangdong  518040
+				CN
+
+CC-FA-95   (hex)		Honor Device Co., Ltd.
+CCFA95     (base 16)		Honor Device Co., Ltd.
+				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
+				Shenzhen   Guangdong  518040
+				CN
+
+64-AC-E0   (hex)		Samsung Electronics Co.,Ltd
+64ACE0     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
