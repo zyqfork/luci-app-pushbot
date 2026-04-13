@@ -47333,17 +47333,71 @@ F040EC     (base 16)		LOOPDESIGNLAB PTE. LTD
 				Singapore    088504
 				SG
 
-D0-84-5D   (hex)		B&C Transit, Inc.
-D0845D     (base 16)		B&C Transit, Inc.
-				701 Seco Road
-				Monroeville  PA  15146
-				US
+4C-6C-A1   (hex)		Chipsea Technologies (Shenzhen) Crop.
+4C6CA1     (base 16)		Chipsea Technologies (Shenzhen) Crop.
+				Room 301, Building 1, Shenzhen Bay Innovation and Technology Center, Keyuan Avenue, High-tech Zone Community, Yuehai Subdistrict, Nanshan District, Shenzhen
+				Shenzhen    518000
+				CN
+
+80-45-6B   (hex)		Espressif Inc.
+80456B     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
 
 90-84-8E   (hex)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
 90848E     (base 16)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
 				19-22# Building, Star-net Science Plaza, Juyuanzhou,
 				FUZHOU  FUJIAN  350002
 				CN
+
+8C-18-01   (hex)		zte corporation
+8C1801     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+D0-84-5D   (hex)		B&C Transit, Inc.
+D0845D     (base 16)		B&C Transit, Inc.
+				701 Seco Road
+				Monroeville  PA  15146
+				US
+
+40-ED-7B   (hex)		Zscaler
+40ED7B     (base 16)		Zscaler
+				120 Holger Way
+				San Jose  CA  95134
+				US
+
+B4-DF-09   (hex)		FLUX::
+B4DF09     (base 16)		FLUX::
+				8500 Balboa Boulevard
+				Northridge  CA  91325
+				US
+
+F0-B1-63   (hex)		Texas Instruments
+F0B163     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+AC-A8-99   (hex)		Texas Instruments
+ACA899     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+38-4E-56   (hex)		Texas Instruments
+384E56     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+B8-DA-5E   (hex)		Texas Instruments
+B8DA5E     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
 
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
@@ -93857,12 +93911,6 @@ AC3019     (base 16)		Shenzhen Hailingwei Electronics Co., Ltd.
 				Hsinchu    30077
 				TW
 
-74-13-48   (hex)		Blink by Amazon 
-741348     (base 16)		Blink by Amazon 
-				100 Riverpark Drive
-				North Reading   MA  01864
-				US
-
 70-C2-88   (hex)		Intel Corporate
 70C288     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3  
@@ -93875,11 +93923,74 @@ AC3019     (base 16)		Shenzhen Hailingwei Electronics Co., Ltd.
 				DONG GUAN  GUANG DONG  523860
 				CN
 
+3C-A2-39   (hex)		DGSQ Co.,Ltd 
+3CA239     (base 16)		DGSQ Co.,Ltd 
+				Building A-B, Dongxing Industrial Park, Kengmei Village, Dongkeng Town, Dongguan City, Guangdong Province, China
+				Dongguan  Guangdong  523455
+				CN
+
 68-19-77   (hex)		New H3C Technologies Co., Ltd
 681977     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
+
+C4-92-D9   (hex)		zte corporation
+C492D9     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+74-13-48   (hex)		Blink by Amazon 
+741348     (base 16)		Blink by Amazon 
+				100 Riverpark Drive
+				North Reading   MA  01864
+				US
+
+80-3B-70   (hex)		Private
+803B70     (base 16)		Private
+
+78-8A-FB   (hex)		HANSHOW TECHNOLOGY CO.,LTD.
+788AFB     (base 16)		HANSHOW TECHNOLOGY CO.,LTD.
+				The 1st Floor Podium and Floor 4 of Building 1, Floor 7 of Building 5, JiaxingPhotovoltaic Technology Innovation Park, No.1288, Kanghe Road, Xiuzhou District,Jiaxing City, Zhejiang Prov,P.R.China
+				JIAXING    314000
+				CN
+
+40-12-77   (hex)		Microsoft Corporation
+401277     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
+
+90-92-2C   (hex)		Changzhi City Zhouyi Hengtong Information Security Co.,Ltd.
+90922C     (base 16)		Changzhi City Zhouyi Hengtong Information Security Co.,Ltd.
+				No. 108, Haisen Street, High-tech Industrial Development Zone
+				Changzhi  Shanxi  046000
+				CN
+
+BC-FA-BA   (hex)		Mellanox Technologies, Inc.
+BCFABA     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+D4-94-77   (hex)		FONEX Data Systems Inc. 
+D49477     (base 16)		FONEX Data Systems Inc. 
+				5400 Saint-Francois
+				Saint-Laurent  QC  H4S 1P6
+				CA
+
+DC-1B-48   (hex)		Texas Instruments
+DC1B48     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+64-D3-63   (hex)		Seyond 
+64D363     (base 16)		Seyond 
+				160 San Gabriel Dr
+				Sunnyvale  CA  94086
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -140504,11 +140615,17 @@ D42B6F     (base 16)		Cisco Systems, Inc
 				Deer Park  IL  60010
 				US
 
-E0-95-59   (hex)		Arcadyan Corporation
-E09559     (base 16)		Arcadyan Corporation
-				No.8, Sec.2, Guangfu Rd.
-				Hsinchu City  Hsinchu  30071
-				TW
+30-53-5B   (hex)		Shenzhen Comnect Technology Co.,LTD
+30535B     (base 16)		Shenzhen Comnect Technology Co.,LTD
+				5F, Building 8A, Shenzhen International Innovation Valley, Dashi 1st Road, Nanshan District
+				Shenzhen  Guangdong  518055
+				CN
+
+58-92-04   (hex)		zte corporation
+589204     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
 
 B8-D0-8F   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B8D08F     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -140527,6 +140644,42 @@ F84068     (base 16)		SZ DJI Ronin Technology Co., Ltd.
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
+
+E0-95-59   (hex)		Arcadyan Corporation
+E09559     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
+
+0C-02-5B   (hex)		Microchip Technology Inc.
+0C025B     (base 16)		Microchip Technology Inc.
+				2355 W. Chandler Blvd.
+				Chandler  AZ  85224
+				US
+
+A8-75-4E   (hex)		Nexlawn Intelligent Technology (Suzhou) Co., Ltd.
+A8754E     (base 16)		Nexlawn Intelligent Technology (Suzhou) Co., Ltd.
+				10/F, Building B, No. 7 Qian Zhu Road, Taihu Street,
+				Suzhou  Jiangsu Province  215100
+				CN
+
+48-09-51   (hex)		Guangzhou Trustmo Information System Co.,LTD
+480951     (base 16)		Guangzhou Trustmo Information System Co.,LTD
+				19th Floor, No.123 Tiyu West Road, Tianhe District, Guangzhou City,Guangdong P.R. China
+				Guangzhou  Guangdong  510000
+				CN
+
+74-E6-65   (hex)		Dynabook Technology (Hangzhou) Inc.
+74E665     (base 16)		Dynabook Technology (Hangzhou) Inc.
+				2/F,Building2,NO.3,East Gate,Comprehensive bonded Zone,Qiantang District,Hangzhou,Zhejiang
+				Hangzhou    310018
+				CN
+
+A4-3C-D4   (hex)		JBL Professional
+A43CD4     (base 16)		JBL Professional
+				8500 Balboa Boulevard
+				Northridge  CA  91325
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -187931,11 +188084,17 @@ CCE7DE     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
-28-69-26   (hex)		OPTOKON, a.s.
-286926     (base 16)		OPTOKON, a.s.
-				Červený Kříž 250
-				Jihlava    586 01
-				CZ
+B8-7B-4D   (hex)		Espressif Inc.
+B87B4D     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+D4-05-92   (hex)		Espressif Inc.
+D40592     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
 
 48-F9-25   (hex)		Maestronic
 48F925     (base 16)		Maestronic
@@ -187948,6 +188107,36 @@ CCE7DE     (base 16)		IEEE Registration Authority
 				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
 				Nanjing  Jiangsu  211800
 				CN
+
+80-99-CF   (hex)		Texas Instruments
+8099CF     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+0C-FE-E5   (hex)		Texas Instruments
+0CFEE5     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+E4-FA-DE   (hex)		Microsoft Corporation
+E4FADE     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
+
+38-FF-59   (hex)		Dell Inc.
+38FF59     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock   TX  78682
+				US
+
+28-69-26   (hex)		OPTOKON, a.s.
+286926     (base 16)		OPTOKON, a.s.
+				Červený Kříž 250
+				Jihlava    586 01
+				CZ
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -234764,8 +234953,50 @@ F4253C     (base 16)		eero inc.
 				San Francisco  CA  94107
 				US
 
+1C-23-A2   (hex)		FRITZ! Technology GmbH
+1C23A2     (base 16)		FRITZ! Technology GmbH
+				Alt-Moabit 95
+				Berlin  Berlin  10559
+				DE
+
+9C-86-2B   (hex)		MOTOROLA SOLUTIONS MALAYSIA SDN. BHD.
+9C862B     (base 16)		MOTOROLA SOLUTIONS MALAYSIA SDN. BHD.
+				INNOPLEX, NO. 2A, MEDAN BAYAN LEPAS, BAYAN LEPAS TECHNOPLEX
+				BAYAN LEPAS  PENANG  11900
+				MY
+
+E0-D3-F0   (hex)		AltoBeam Inc.
+E0D3F0     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
+10-F1-C7   (hex)		Tachyon Networks Inc
+10F1C7     (base 16)		Tachyon Networks Inc
+				4783 W Stoney Brook Ln
+				Highland  UT  84003
+				US
+
+E4-FF-69   (hex)		Holiday Robotics
+E4FF69     (base 16)		Holiday Robotics
+				4F, 70, Nonhyeon-ro 85-gil, Gangnam-gu
+				Seoul    06234
+				KR
+
 4C-6E-44   (hex)		IEEE Registration Authority
 4C6E44     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+48-13-89   (hex)		Mellanox Technologies, Inc.
+481389     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+84-98-A7   (hex)		Texas Instruments
+8498A7     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
 				US
