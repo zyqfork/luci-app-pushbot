@@ -2465,12 +2465,6 @@ C828E5     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
-B0-FC-88   (hex)		Sagemcom Broadband SAS
-B0FC88     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 34-87-3D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 34873D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				RM501,Building 13,No.99 TianZhou Road,Xuhui District,Shanghai,China
@@ -4451,12 +4445,6 @@ A45FB9     (base 16)		DreamBig Semiconductor, Inc.
 				San Jose  CA  95134
 				US
 
-34-5D-9E   (hex)		Sagemcom Broadband SAS
-345D9E     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 00-0F-32   (hex)		Lootom Telcovideo Network (Wuxi) Co Ltd
 000F32     (base 16)		Lootom Telcovideo Network (Wuxi) Co Ltd
 				5F, 9Building,
@@ -4612,12 +4600,6 @@ B03CDC     (base 16)		Intel Corporate
 				Room 1712-2, Building 4, Tian 'an Yungu Industrial Park, Gangtou Community, Bantian Street, Longgang District
 				Shenzhen  Guangdong  518000
 				CN
-
-7C-16-89   (hex)		Sagemcom Broadband SAS
-7C1689     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 5C-83-CD   (hex)		New platforms
 5C83CD     (base 16)		New platforms
@@ -5399,12 +5381,6 @@ FC4265     (base 16)		Zhejiang Tmall Technology Co., Ltd.
 				London  UK  N7 9AH
 				GB
 
-44-D4-54   (hex)		Sagemcom Broadband SAS
-44D454     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 68-87-C6   (hex)		Cisco Systems, Inc
 6887C6     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -5608,12 +5584,6 @@ FC58DF     (base 16)		Interphone Service
 				1001-1, 387, Simin-daero, Dongan-gu
 				Anyang-si  Gyeonggi-do  14057
 				KR
-
-38-A6-59   (hex)		Sagemcom Broadband SAS
-38A659     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 78-13-05   (hex)		IEEE Registration Authority
 781305     (base 16)		IEEE Registration Authority
@@ -5981,12 +5951,6 @@ E44E2D     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
-98-42-65   (hex)		Sagemcom Broadband SAS
-984265     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 DC-21-5C   (hex)		Intel Corporate
 DC215C     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3  
@@ -6322,12 +6286,6 @@ ECC5D2     (base 16)		Huawei Device Co., Ltd.
 				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
 				Beijing  Haidian District  100085
 				CN
-
-84-1E-A3   (hex)		Sagemcom Broadband SAS
-841EA3     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 8C-2A-8E   (hex)		DongGuan Ramaxel Memory Technology
 8C2A8E     (base 16)		DongGuan Ramaxel Memory Technology
@@ -6749,12 +6707,6 @@ F4B301     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
-E8-D2-FF   (hex)		Sagemcom Broadband SAS
-E8D2FF     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 0C-96-CD   (hex)		MERCURY CORPORATION
 0C96CD     (base 16)		MERCURY CORPORATION
 				90, Gajaeul-ro, Seo-gu
@@ -6862,12 +6814,6 @@ C4D438     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Sony City Osaki 2-10-1 Osaki Shinagawa-ku
 				Tokyo  Japan  141-8610
 				JP
-
-44-D4-53   (hex)		Sagemcom Broadband SAS
-44D453     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 DC-A1-20   (hex)		Nokia
 DCA120     (base 16)		Nokia
@@ -7042,12 +6988,6 @@ B456E3     (base 16)		Apple, Inc.
 				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
 				Hong Kong  KOWLOON  999077
 				HK
-
-B0-BB-E5   (hex)		Sagemcom Broadband SAS
-B0BBE5     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 1C-9F-4E   (hex)		COOSEA GROUP (HK) COMPANY LIMITED
 1C9F4E     (base 16)		COOSEA GROUP (HK) COMPANY LIMITED
@@ -8837,12 +8777,6 @@ E826B6     (base 16)		Companies House to GlucoRx Technologies Ltd.
 				Suzhou  Jiangsu  215412
 				CN
 
-30-93-BC   (hex)		Sagemcom Broadband SAS
-3093BC     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 F4-FE-FB   (hex)		Samsung Electronics Co.,Ltd
 F4FEFB     (base 16)		Samsung Electronics Co.,Ltd
 				129, Samsung-ro, Youngtongl-Gu
@@ -9239,12 +9173,6 @@ CCEF03     (base 16)		Hunan Keyshare Communication Technology Co., Ltd.
 				Changsha  Hunan  410205
 				CN
 
-EC-BE-DD   (hex)		Sagemcom Broadband SAS
-ECBEDD     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 88-57-1D   (hex)		Seongji Industry Company
 88571D     (base 16)		Seongji Industry Company
 				 54-33, Dongtanhana 1-gil
@@ -9514,12 +9442,6 @@ CCCD64     (base 16)		SM-Electronic GmbH
 				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
 				KYOTO  KYOTO  601-8501
 				JP
-
-F8-08-4F   (hex)		Sagemcom Broadband SAS
-F8084F     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 18-02-AE   (hex)		vivo Mobile Communication Co., Ltd.
 1802AE     (base 16)		vivo Mobile Communication Co., Ltd.
@@ -10036,12 +9958,6 @@ C82C2B     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
-
-80-20-DA   (hex)		Sagemcom Broadband SAS
-8020DA     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 D4-20-B0   (hex)		Mist Systems, Inc.
 D420B0     (base 16)		Mist Systems, Inc.
@@ -10567,12 +10483,6 @@ A8E2C1     (base 16)		Texas Instruments
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
 				CN
-
-84-A0-6E   (hex)		Sagemcom Broadband SAS
-84A06E     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 88-4A-18   (hex)		Opulinks
 884A18     (base 16)		Opulinks
@@ -11156,12 +11066,6 @@ E0795E     (base 16)		Wuxi Xiaohu Technology Co.,Ltd.
 				Taipei  Taiwan  112
 				TW
 
-E8-AD-A6   (hex)		Sagemcom Broadband SAS
-E8ADA6     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 D0-B6-0A   (hex)		Xingluo Technology Company  Limited
 D0B60A     (base 16)		Xingluo Technology Company  Limited
 				28F, Building A, Aerospace Science And Technology Square, Nanshan District
@@ -11371,12 +11275,6 @@ F8D9B8     (base 16)		Open Mesh, Inc.
 				#283,BBK Road
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
-
-D8-7D-7F   (hex)		Sagemcom Broadband SAS
-D87D7F     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 EC-C4-0D   (hex)		Nintendo Co.,Ltd
 ECC40D     (base 16)		Nintendo Co.,Ltd
@@ -12193,12 +12091,6 @@ F85C4D     (base 16)		Nokia
 				1 Robbins Road
 				Westford  MA  01886-4113
 				US
-
-38-35-FB   (hex)		Sagemcom Broadband SAS
-3835FB     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 00-01-AE   (hex)		Trex Enterprises
 0001AE     (base 16)		Trex Enterprises
@@ -40424,12 +40316,6 @@ D0460C     (base 16)		Dell Inc.
 				Hezhou  Guangxi  542800
 				CN
 
-38-E1-F4   (hex)		Sagemcom Broadband SAS
-38E1F4     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 64-53-E0   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 6453E0     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -40741,12 +40627,6 @@ DC54AD     (base 16)		Hangzhou RunZhou Fiber Technologies Co.,Ltd
 				Room 401-1, Building 8, 181 Wuchang Avenue, Wuchang Street, Yuhang District
 				Hangzhou   Zhejiang  310030
 				CN
-
-B0-92-4A   (hex)		Sagemcom Broadband SAS
-B0924A     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 40-DE-24   (hex)		Samsung Electronics Co.,Ltd
 40DE24     (base 16)		Samsung Electronics Co.,Ltd
@@ -45155,12 +45035,6 @@ ECBB78     (base 16)		Cisco Systems, Inc
 				San Jose  CA  95126
 				US
 
-10-2B-AA   (hex)		Sagemcom Broadband SAS
-102BAA     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 54-9B-24   (hex)		Mellanox Technologies, Inc.
 549B24     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100  
@@ -45584,12 +45458,6 @@ F03E05     (base 16)		Murata Manufacturing Co., Ltd.
 				Nagaokakyo-shi  Kyoto  617-8555
 				JP
 
-64-FA-2B   (hex)		Sagemcom Broadband SAS
-64FA2B     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 B0-A6-04   (hex)		Espressif Inc.
 B0A604     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
@@ -45949,12 +45817,6 @@ E0FA5B     (base 16)		Arista Networks
 				F5, Building B, North Block, Gaosheng Tech Park, No. 84 Zhongli Road, Nancheng District, Dongguan Ci
 				dongguan   guangdong  523000
 				CN
-
-7C-D4-A8   (hex)		Sagemcom Broadband SAS
-7CD4A8     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 90-31-96   (hex)		SHENZHEN IP-COM NETWORKS CO.,LTD.
 903196     (base 16)		SHENZHEN IP-COM NETWORKS CO.,LTD.
@@ -47033,12 +46895,6 @@ D49FF9     (base 16)		Earda Technologies co Ltd
 				Guangzhou  Guangdong  511455
 				CN
 
-48-AA-BB   (hex)		Sagemcom Broadband SAS
-48AABB     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 C8-C8-73   (hex)		CHIPSEN INC.
 C8C873     (base 16)		CHIPSEN INC.
 				501, Gwangmyeong M-cluster 17, Deogan-ro 104beon-gil
@@ -47387,12 +47243,6 @@ D0845D     (base 16)		B&C Transit, Inc.
 				Marin-Epagnier  Neuchatel  2074
 				CH
 
-24-4E-CD   (hex)		Sagemcom Broadband SAS
-244ECD     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 FC-FD-71   (hex)		AltoBeam Inc.
 FCFD71     (base 16)		AltoBeam Inc.
 				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
@@ -47603,17 +47453,71 @@ F8C9D6     (base 16)		IEEE Registration Authority
 				San Francisco  CA  94107
 				US
 
-34-28-44   (hex)		Kyung In Electronics
-342844     (base 16)		Kyung In Electronics
-				#1411, Byucksan Digital Valley 2, 184, Gasan Digital2-ro, Geumcheon-gu
-				 Seoul    08501
-				KR
+B0-BB-E5   (hex)		Sagemcom Broadband SAS
+B0BBE5     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
 
-44-49-C0   (hex)		NVIDIA Corporation
-4449C0     (base 16)		NVIDIA Corporation
-				2701 San Tomas Expressway
-				Santa Clara  CA  95050
-				US
+44-D4-53   (hex)		Sagemcom Broadband SAS
+44D453     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+E8-D2-FF   (hex)		Sagemcom Broadband SAS
+E8D2FF     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+84-1E-A3   (hex)		Sagemcom Broadband SAS
+841EA3     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+98-42-65   (hex)		Sagemcom Broadband SAS
+984265     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+38-A6-59   (hex)		Sagemcom Broadband SAS
+38A659     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+84-A0-6E   (hex)		Sagemcom Broadband SAS
+84A06E     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+80-20-DA   (hex)		Sagemcom Broadband SAS
+8020DA     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+F8-08-4F   (hex)		Sagemcom Broadband SAS
+F8084F     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+EC-BE-DD   (hex)		Sagemcom Broadband SAS
+ECBEDD     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+30-93-BC   (hex)		Sagemcom Broadband SAS
+3093BC     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
 
 B4-1C-AF   (hex)		UAB TELTONIKA NETWORKS
 B41CAF     (base 16)		UAB TELTONIKA NETWORKS
@@ -47626,6 +47530,156 @@ B41CAF     (base 16)		UAB TELTONIKA NETWORKS
 				Rue des Sors 3
 				Marin-Epagnier  Neuchatel  2074
 				CH
+
+38-35-FB   (hex)		Sagemcom Broadband SAS
+3835FB     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+D8-7D-7F   (hex)		Sagemcom Broadband SAS
+D87D7F     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+E8-AD-A6   (hex)		Sagemcom Broadband SAS
+E8ADA6     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+44-D4-54   (hex)		Sagemcom Broadband SAS
+44D454     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+7C-16-89   (hex)		Sagemcom Broadband SAS
+7C1689     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+34-5D-9E   (hex)		Sagemcom Broadband SAS
+345D9E     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+34-28-44   (hex)		Kyung In Electronics
+342844     (base 16)		Kyung In Electronics
+				#1411, Byucksan Digital Valley 2, 184, Gasan Digital2-ro, Geumcheon-gu
+				 Seoul    08501
+				KR
+
+44-49-C0   (hex)		NVIDIA Corporation
+4449C0     (base 16)		NVIDIA Corporation
+				2701 San Tomas Expressway
+				Santa Clara  CA  95050
+				US
+
+D8-B1-DE   (hex)		Hewlett Packard Enterprise
+D8B1DE     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
+
+F8-75-28   (hex)		IEEE Registration Authority
+F87528     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+C0-8B-27   (hex)		FN-LINK TECHNOLOGY Ltd.
+C08B27     (base 16)		FN-LINK TECHNOLOGY Ltd.
+				No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China
+				Changsha  Hunan  410329
+				CN
+
+DC-F1-44   (hex)		Ocean Solution Technology 
+DCF144     (base 16)		Ocean Solution Technology 
+				203-1 Arifukucho
+				Sasebo City  NAGASAKI  859-3241
+				JP
+
+F8-E7-3C   (hex)		Ufispace Co., LTD.
+F8E73C     (base 16)		Ufispace Co., LTD.
+				9F., No. 81 Jhongcheng Rd., Tucheng Dist.,
+				New Taipei    23674
+				TW
+
+7C-D4-A8   (hex)		Sagemcom Broadband SAS
+7CD4A8     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+48-AA-BB   (hex)		Sagemcom Broadband SAS
+48AABB     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+24-4E-CD   (hex)		Sagemcom Broadband SAS
+244ECD     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+38-E1-F4   (hex)		Sagemcom Broadband SAS
+38E1F4     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+B0-92-4A   (hex)		Sagemcom Broadband SAS
+B0924A     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+10-2B-AA   (hex)		Sagemcom Broadband SAS
+102BAA     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+64-FA-2B   (hex)		Sagemcom Broadband SAS
+64FA2B     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+B4-3B-52   (hex)		Sagemcom Broadband SAS
+B43B52     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+B0-FC-88   (hex)		Sagemcom Broadband SAS
+B0FC88     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+78-6B-A5   (hex)		Changchun Jetty Automotive Technology Co., LTD
+786BA5     (base 16)		Changchun Jetty Automotive Technology Co., LTD
+				1st Floor, No. 957 Shunda Road,High-tech Development Zone
+				Changchun  Jilin  130012
+				CN
+
+D0-13-C1   (hex)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+D013C1     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+				4F,Block A, Skyworth?Building,
+				Shenzhen  Guangdong  518057
+				CN
+
+20-93-95   (hex)		nVent
+209395     (base 16)		nVent
+				1665 Utica Avenue, Suite 700
+				St. Louis Park  MN  55416
+				US
 
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
@@ -50063,12 +50117,6 @@ A46C24     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-08-7B-12   (hex)		Sagemcom Broadband SAS
-087B12     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 50-D4-5C   (hex)		Amazon Technologies Inc.
 50D45C     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102 
@@ -50105,12 +50153,6 @@ D46137     (base 16)		IEEE Registration Authority
 				North Point    00000
 				HK
 
-D0-CF-0E   (hex)		Sagemcom Broadband SAS
-D0CF0E     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 80-DE-CC   (hex)		HYBE Co.,LTD
 80DECC     (base 16)		HYBE Co.,LTD
 				42, Hangang-daero
@@ -50122,12 +50164,6 @@ A0ED6D     (base 16)		Ubee Interactive Co., Limited
 				Flat/RM 1202, 12/F, AT Tower, 180 Electric Road
 				North Point    00000
 				HK
-
-C4-EB-42   (hex)		Sagemcom Broadband SAS
-C4EB42     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 F8-34-5A   (hex)		Hitron Technologies. Inc
 F8345A     (base 16)		Hitron Technologies. Inc
@@ -50368,18 +50404,6 @@ A49DDD     (base 16)		Samsung Electronics Co.,Ltd
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
-
-88-0F-A2   (hex)		Sagemcom Broadband SAS
-880FA2     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
-DC-97-E6   (hex)		Sagemcom Broadband SAS
-DC97E6     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 D4-92-B9   (hex)		ORION NOVA, S.L.
 D492B9     (base 16)		ORION NOVA, S.L.
@@ -50812,12 +50836,6 @@ B0DCEF     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3  
 				Kulim  Kedah  09000
 				MY
-
-78-C2-13   (hex)		Sagemcom Broadband SAS
-78C213     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 40-22-D8   (hex)		Espressif Inc.
 4022D8     (base 16)		Espressif Inc.
@@ -51701,12 +51719,6 @@ DC6B1B     (base 16)		Huawei Device Co., Ltd.
 				Dongguan  Guangdong  523808
 				CN
 
-D0-6D-C9   (hex)		Sagemcom Broadband SAS
-D06DC9     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 98-CA-20   (hex)		Shanghai SIMCOM Ltd.
 98CA20     (base 16)		Shanghai SIMCOM Ltd.
 				 Building A, SIM Technology Building, No.633, Jinzhong Road, Changning District
@@ -51742,12 +51754,6 @@ D850A1     (base 16)		Hunan Danuo Technology Co.,LTD
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
-
-D8-33-B7   (hex)		Sagemcom Broadband SAS
-D833B7     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 D4-FB-8E   (hex)		Apple, Inc.
 D4FB8E     (base 16)		Apple, Inc.
@@ -52060,12 +52066,6 @@ C889F3     (base 16)		Apple, Inc.
 				400 West Cesar Chavez Street
 				Austin  TX  78701
 				US
-
-4C-19-5D   (hex)		Sagemcom Broadband SAS
-4C195D     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 9C-74-03   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 9C7403     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -52570,12 +52570,6 @@ C4BDE5     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3  
 				Kulim  Kedah  09000
 				MY
-
-34-53-D2   (hex)		Sagemcom Broadband SAS
-3453D2     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 34-29-EF   (hex)		Qingdao Haier Technology Co.,Ltd
 3429EF     (base 16)		Qingdao Haier Technology Co.,Ltd
@@ -53470,12 +53464,6 @@ D48DD9     (base 16)		Meld Technology, Inc
 				725 San Aleso Ave
 				Sunnyvale  CA  94085
 				US
-
-58-2F-F7   (hex)		Sagemcom Broadband SAS
-582FF7     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 AC-E7-7B   (hex)		Sichuan Tianyi Comheart Telecom Co.,LTD
 ACE77B     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
@@ -55085,12 +55073,6 @@ FC6DD1     (base 16)		APRESIA Systems, Ltd.
 				Wuhan  Hubei  430074
 				CN
 
-10-D7-B0   (hex)		Sagemcom Broadband SAS
-10D7B0     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 44-59-43   (hex)		zte corporation
 445943     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
@@ -55972,12 +55954,6 @@ C489ED     (base 16)		Solid Optics EU N.V.
 				Mikrotikls SIA
 				Riga  Riga  LV1009
 				LV
-
-10-06-45   (hex)		Sagemcom Broadband SAS
-100645     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 A0-27-B6   (hex)		Samsung Electronics Co.,Ltd
 A027B6     (base 16)		Samsung Electronics Co.,Ltd
@@ -57053,12 +57029,6 @@ E83F67     (base 16)		Huawei Device Co., Ltd.
 				Chongqing  Chongqing  401332
 				CN
 
-34-49-5B   (hex)		Sagemcom Broadband SAS
-34495B     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 80-16-09   (hex)		Sleep Number
 801609     (base 16)		Sleep Number
 				1001 Third Avenue South
@@ -57580,12 +57550,6 @@ BCC31B     (base 16)		Kygo Life A
 				Phase 3, Bayan Lepas FIZ
 				Bayan Lepas  Penang  11900
 				MY
-
-78-65-59   (hex)		Sagemcom Broadband SAS
-786559     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 50-D2-F5   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
 50D2F5     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
@@ -58252,12 +58216,6 @@ DC7137     (base 16)		zte corporation
 				Ovchinnikovskaya embankment, 20, Building 1 
 				Moscow    115324
 				RU
-
-34-DB-9C   (hex)		Sagemcom Broadband SAS
-34DB9C     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 74-40-BE   (hex)		LG Innotek
 7440BE     (base 16)		LG Innotek
@@ -59008,12 +58966,6 @@ B831B5     (base 16)		Microsoft Corporation
 				129, Samsung-ro, Youngtongl-Gu
 				Suwon  Gyeonggi-Do  16677
 				KR
-
-38-B4-D3   (hex)		BSH Hausgeraete GmbH
-38B4D3     (base 16)		BSH Hausgeraete GmbH
-				Im Gewerbepark B10
-				Regensburg    93059
-				DE
 
 C8-47-82   (hex)		Areson Technology Corp.
 C84782     (base 16)		Areson Technology Corp.
@@ -59818,12 +59770,6 @@ D0D783     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
-
-AC-3B-77   (hex)		Sagemcom Broadband SAS
-AC3B77     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 FC-E6-6A   (hex)		Industrial Software Co
 FCE66A     (base 16)		Industrial Software Co
@@ -82601,12 +82547,6 @@ CC0080     (base 16)		BETTINI SRL
 				Taichung  Taiwan  403, R.O.C.
 				TW
 
-00-03-74   (hex)		Control Microsystems
-000374     (base 16)		Control Microsystems
-				48 Steacie Drive
-				Ottawa  Ontario  K2K 2A9
-				CA
-
 00-03-76   (hex)		Graphtec Technology, Inc.
 000376     (base 16)		Graphtec Technology, Inc.
 				45 Parker, Suite A
@@ -87536,12 +87476,6 @@ A0E025     (base 16)		Provision-ISR
 				Kfar Saba    4464310
 				IL
 
-9C-24-72   (hex)		Sagemcom Broadband SAS
-9C2472     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 80-85-44   (hex)		Intelbras
 808544     (base 16)		Intelbras
 				BR 101, km 210, S/N°
@@ -88432,18 +88366,6 @@ B0B867     (base 16)		Hewlett Packard Enterprise
 				8000 Foothills Blvd.
 				Roseville  CA  95747
 				US
-
-DC-92-72   (hex)		Sagemcom Broadband SAS
-DC9272     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
-18-0C-7A   (hex)		Sagemcom Broadband SAS
-180C7A     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 00-FD-45   (hex)		Hewlett Packard Enterprise 
 00FD45     (base 16)		Hewlett Packard Enterprise 
@@ -90677,18 +90599,6 @@ A0EEEE     (base 16)		CIG SHANGHAI CO LTD
 				Marin-Epagnier  Neuchatel  2074
 				CH
 
-2C-FB-0F   (hex)		Sagemcom Broadband SAS
-2CFB0F     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
-BC-D5-ED   (hex)		Sagemcom Broadband SAS
-BCD5ED     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 94-E7-F3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 94E7F3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -91054,12 +90964,6 @@ D4808B     (base 16)		Seiko Epson Corporation
 				2070 Kotobuki Koaka
 				Matsumoto-shi  Nagano-ken  399-8702
 				JP
-
-8C-9A-8F   (hex)		Sagemcom Broadband SAS
-8C9A8F     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 10-66-6A   (hex)		Zabbly
 10666A     (base 16)		Zabbly
@@ -91735,12 +91639,6 @@ B4B9E6     (base 16)		eero inc.
 				660 3rd Street 
 				San Francisco  CA  94107
 				US
-
-70-7D-A1   (hex)		Sagemcom Broadband SAS
-707DA1     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 D8-3E-EF   (hex)		COOSEA GROUP (HK) COMPANY LIMITED
 D83EEF     (base 16)		COOSEA GROUP (HK) COMPANY LIMITED
@@ -93620,12 +93518,6 @@ B8752E     (base 16)		Huawei Device Co., Ltd.
 				Kulim  Kedah  09000
 				MY
 
-EC-50-A6   (hex)		Sagemcom Broadband SAS
-EC50A6     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 0C-52-7F   (hex)		Check Point Software Technologies Ltd.
 0C527F     (base 16)		Check Point Software Technologies Ltd.
 				5 Ha'solelim St
@@ -94364,10 +94256,10 @@ B064E0     (base 16)		Samsung Electronics Co.,Ltd
 				San Francisco  CA  94107
 				US
 
-54-88-D5   (hex)		zte corporation
-5488D5     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen   guangdong  518057
+24-1A-F7   (hex)		Sichuan Tianyi Comheart Telecom Co.,LTD
+241AF7     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
+				No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County
+				Chengdu  Sichuan  611330
 				CN
 
 3C-35-58   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
@@ -94375,6 +94267,192 @@ B064E0     (base 16)		Samsung Electronics Co.,Ltd
 				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
 				Nanning  Guangxi  530007
 				CN
+
+34-DB-9C   (hex)		Sagemcom Broadband SAS
+34DB9C     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+78-65-59   (hex)		Sagemcom Broadband SAS
+786559     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+34-49-5B   (hex)		Sagemcom Broadband SAS
+34495B     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+10-06-45   (hex)		Sagemcom Broadband SAS
+100645     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+10-D7-B0   (hex)		Sagemcom Broadband SAS
+10D7B0     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+58-2F-F7   (hex)		Sagemcom Broadband SAS
+582FF7     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+70-73-3A   (hex)		Jiangxi Remote lntelligence Technology Co.,Ltd
+70733A     (base 16)		Jiangxi Remote lntelligence Technology Co.,Ltd
+				No. 1, Chemical Avenue, Guixi335400, Yingtan, Jiangxi
+				Yingtan  Jiangxi   360600
+				CN
+
+54-88-D5   (hex)		zte corporation
+5488D5     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+AC-3B-77   (hex)		Sagemcom Broadband SAS
+AC3B77     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+78-C2-13   (hex)		Sagemcom Broadband SAS
+78C213     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+88-0F-A2   (hex)		Sagemcom Broadband SAS
+880FA2     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+DC-97-E6   (hex)		Sagemcom Broadband SAS
+DC97E6     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+C4-EB-42   (hex)		Sagemcom Broadband SAS
+C4EB42     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+D0-CF-0E   (hex)		Sagemcom Broadband SAS
+D0CF0E     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+08-7B-12   (hex)		Sagemcom Broadband SAS
+087B12     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+34-53-D2   (hex)		Sagemcom Broadband SAS
+3453D2     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+4C-19-5D   (hex)		Sagemcom Broadband SAS
+4C195D     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+D0-6D-C9   (hex)		Sagemcom Broadband SAS
+D06DC9     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+D8-33-B7   (hex)		Sagemcom Broadband SAS
+D833B7     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+2C-FB-0F   (hex)		Sagemcom Broadband SAS
+2CFB0F     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+BC-D5-ED   (hex)		Sagemcom Broadband SAS
+BCD5ED     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+8C-9A-8F   (hex)		Sagemcom Broadband SAS
+8C9A8F     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+70-7D-A1   (hex)		Sagemcom Broadband SAS
+707DA1     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+9C-24-72   (hex)		Sagemcom Broadband SAS
+9C2472     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+DC-92-72   (hex)		Sagemcom Broadband SAS
+DC9272     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+18-0C-7A   (hex)		Sagemcom Broadband SAS
+180C7A     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+EC-50-A6   (hex)		Sagemcom Broadband SAS
+EC50A6     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+60-15-6F   (hex)		TP-Link Systems Inc.
+60156F     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
+84-67-9A   (hex)		Arm Ltd
+84679A     (base 16)		Arm Ltd
+				110 Fulbourn Road
+				Cambridge  Cambridgeshire  CB19NJ
+				GB
+
+00-03-74   (hex)		Schneider Electric
+000374     (base 16)		Schneider Electric
+				48 Steacie Drive
+				Ottawa  Ontario  K2K 2A9
+				CA
+
+38-B4-D3   (hex)		BSH Hausgeräte GmbH
+38B4D3     (base 16)		BSH Hausgeräte GmbH
+				Im Gewerbepark B10
+				Regensburg    93059
+				DE
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -96902,18 +96980,6 @@ ACC4A9     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				HongKong  HongKong  999077
 				HK
 
-C4-EB-43   (hex)		Sagemcom Broadband SAS
-C4EB43     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
-C4-EB-41   (hex)		Sagemcom Broadband SAS
-C4EB41     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 74-3E-39   (hex)		YUSUR Technology Co., Ltd.
 743E39     (base 16)		YUSUR Technology Co., Ltd.
 				Room 1401,building 4,yard 1, Beiqing Road No.81, Haidian District
@@ -97322,12 +97388,6 @@ A41CB4     (base 16)		DFI Inc
 				Dongguan  Guangdong  523808
 				CN
 
-94-3C-96   (hex)		Sagemcom Broadband SAS
-943C96     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 70-B7-E4   (hex)		Broadcom Limited
 70B7E4     (base 16)		Broadcom Limited
 				15191 Alton Parkway
@@ -97543,12 +97603,6 @@ F0C1CE     (base 16)		GoodWe Technologies CO., Ltd
 				One Microsoft Way
 				REDMOND  WA  98052
 				US
-
-C4-EB-39   (hex)		Sagemcom Broadband SAS
-C4EB39     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 00-52-C8   (hex)		Made Studio Design Ltd.
 0052C8     (base 16)		Made Studio Design Ltd.
@@ -98059,12 +98113,6 @@ C0A938     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Room 259, 2 / F, Building 5, 8 Dongbeiwang West Road, Haidian District,
 				Beijing    100089
 				CN
-
-64-FD-96   (hex)		Sagemcom Broadband SAS
-64FD96     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 64-98-9E   (hex)		TRINNOV AUDIO
 64989E     (base 16)		TRINNOV AUDIO
@@ -99289,12 +99337,6 @@ D86C5A     (base 16)		HUMAX Co., Ltd.
 				HUMAX Village, 216, Hwangsaeul-ro, Bu
 				Seongnam-si  Gyeonggi-do  463-875
 				KR
-
-E4-C0-E2   (hex)		Sagemcom Broadband SAS
-E4C0E2     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 4C-3F-A7   (hex)		uGrid Network Inc.
 4C3FA7     (base 16)		uGrid Network Inc.
@@ -101846,12 +101888,6 @@ C8BC9C     (base 16)		Huawei Device Co., Ltd.
 				Kulim  Kedah  09000
 				MY
 
-6C-BA-B8   (hex)		Sagemcom Broadband SAS
-6CBAB8     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 E0-D4-64   (hex)		Intel Corporate
 E0D464     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3 
@@ -101947,12 +101983,6 @@ F469D5     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
-
-8C-C5-B4   (hex)		Sagemcom Broadband SAS
-8CC5B4     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 F8-1B-04   (hex)		Zhong Shan City Richsound Electronic Industrial Ltd
 F81B04     (base 16)		Zhong Shan City Richsound Electronic Industrial Ltd
@@ -102344,12 +102374,6 @@ EC2651     (base 16)		Apple, Inc.
 				Sunnyvale  CA  94089
 				US
 
-D4-F8-29   (hex)		Sagemcom Broadband SAS
-D4F829     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 DC-50-3A   (hex)		Nanjing Ticom Tech Co., Ltd.
 DC503A     (base 16)		Nanjing Ticom Tech Co., Ltd.
 				No.35 Fenghui Road, Yuhuatai District
@@ -102612,12 +102636,6 @@ C88314     (base 16)		Tempo Communications
 98ED5C     (base 16)		Tesla,Inc.
 				3500 Deer Creek Road
 				Palo Alto  CA  94304
-				US
-
-C4-42-68   (hex)		CRESTRON ELECTRONICS, INC.
-C44268     (base 16)		CRESTRON ELECTRONICS, INC.
-				15 Volvo Drive
-				Rockleigh  NJ  07647
 				US
 
 40-F5-20   (hex)		Espressif Inc.
@@ -104096,12 +104114,6 @@ E419C1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-B8-66-85   (hex)		Sagemcom Broadband SAS
-B86685     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 B4-52-A9   (hex)		Texas Instruments
 B452A9     (base 16)		Texas Instruments
 				12500 TI Blvd
@@ -105284,12 +105296,6 @@ A89CA4     (base 16)		Furrion Limited
 				Dallas  TX  75243
 				US
 
-30-24-78   (hex)		Sagemcom Broadband SAS
-302478     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 18-4B-DF   (hex)		Caavo Inc
 184BDF     (base 16)		Caavo Inc
 				1525 McCarthy Blvd., #1182
@@ -105421,12 +105427,6 @@ E0A509     (base 16)		Bitmain Technologies Inc
 				P.O Box 8102
 				Reno  NV  89507
 				US
-
-D8-A7-56   (hex)		Sagemcom Broadband SAS
-D8A756     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 54-83-3A   (hex)		Zyxel Communications Corporation
 54833A     (base 16)		Zyxel Communications Corporation
@@ -105889,12 +105889,6 @@ F09FFC     (base 16)		SHARP Corporation
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
 				CN
-
-70-0B-01   (hex)		Sagemcom Broadband SAS
-700B01     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 5C-26-23   (hex)		WaveLynx Technologies Corporation
 5C2623     (base 16)		WaveLynx Technologies Corporation
@@ -117761,12 +117755,6 @@ A40BED     (base 16)		Carry Technology Co.,Ltd
 				Jhonghe Dist.  New Taipei City  23585
 				TW
 
-70-23-93   (hex)		fos4X GmbH
-702393     (base 16)		fos4X GmbH
-				Thalkirchner Str. 210, Geb. 6
-				81371 München    
-				DE
-
 F8-5F-2A   (hex)		Nokia Corporation
 F85F2A     (base 16)		Nokia Corporation
 				Elektroniikkatie 10
@@ -128960,12 +128948,6 @@ B4B5AF     (base 16)		Minsung Electronics
 				Rogersville  TN  37857
 				US
 
-00-05-21   (hex)		Control Microsystems
-000521     (base 16)		Control Microsystems
-				48 Steacie Drive
-				Ottawa  Ontario  K2K 2A9
-				CA
-
 00-05-1F   (hex)		Taijin Media Co., Ltd.
 00051F     (base 16)		Taijin Media Co., Ltd.
 				640-8 Tungchon-Dong
@@ -135764,12 +135746,6 @@ B03226     (base 16)		Keheng Information Industry Co., Ltd.
 				Jinan  Shandong  250098
 				CN
 
-3C-58-36   (hex)		Sagemcom Broadband SAS
-3C5836     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 84-CB-85   (hex)		EM Microelectronic
 84CB85     (base 16)		EM Microelectronic
 				Rue des Sors 3
@@ -138731,12 +138707,6 @@ D4A5B4     (base 16)		Hengji Jiaye (Hangzhou) Technology Co., Ltd
 				Hangzhou  Zhejiang  310000
 				CN
 
-A0-3C-20   (hex)		Sagemcom Broadband SAS
-A03C20     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 20-4D-52   (hex)		Mellanox Technologies, Inc.
 204D52     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100 
@@ -138862,12 +138832,6 @@ CC22FE     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
-
-CC-FA-F1   (hex)		Sagemcom Broadband SAS
-CCFAF1     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 2C-9D-5A   (hex)		Flaircomm Microelectronics,Inc.
 2C9D5A     (base 16)		Flaircomm Microelectronics,Inc.
@@ -139781,12 +139745,6 @@ F05582     (base 16)		Arashi Vision Inc.
 				Milan  MI  20126
 				IT
 
-68-AB-A9   (hex)		Sagemcom Broadband SAS
-68ABA9     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 F0-BC-50   (hex)		Mellanox Technologies, Inc.
 F0BC50     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100  
@@ -140549,12 +140507,6 @@ D08E17     (base 16)		ACCTON TECHNOLOGY CORPORATION
 				XIAMEN  FUJIAN  361024
 				CN
 
-FC-66-37   (hex)		Sagemcom Broadband SAS
-FC6637     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 E4-C8-01   (hex)		BLU Products Inc
 E4C801     (base 16)		BLU Products Inc
 				8600 NW 36th Street  Suite 200
@@ -141053,12 +141005,6 @@ A8754E     (base 16)		Nexlawn Intelligent Technology (Suzhou) Co., Ltd.
 				Hangzhou    310018
 				CN
 
-64-79-99   (hex)		Sagemcom Broadband SAS
-647999     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 EC-B2-93   (hex)		Hewlett Packard Enterprise
 ECB293     (base 16)		Hewlett Packard Enterprise
 				6280 America Center Dr
@@ -141191,10 +141137,10 @@ C0A4CF     (base 16)		Nintendo Co.,Ltd
 				KYOTO  KYOTO  601-8501
 				JP
 
-60-F7-23   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
-60F723     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
-				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
-				Beijing  Beijing  100085
+2C-4B-14   (hex)		Sichuan Tianyi Comheart Telecom Co.,LTD
+2C4B14     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
+				No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County
+				Chengdu  Sichuan  611330
 				CN
 
 08-76-18   (hex)		ViTrox Technologies Sdn. Bhd
@@ -141208,6 +141154,162 @@ A05D0E     (base 16)		ALPSALPINE CO.,LTD.
 				nishida 6-1
 				Kakuda-City  Miyagi-Pref  981-1595
 				JP
+
+60-F7-23   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+60F723     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
+				CN
+
+70-0B-01   (hex)		Sagemcom Broadband SAS
+700B01     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+A0-3C-20   (hex)		Sagemcom Broadband SAS
+A03C20     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+CC-FA-F1   (hex)		Sagemcom Broadband SAS
+CCFAF1     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+68-AB-A9   (hex)		Sagemcom Broadband SAS
+68ABA9     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+FC-66-37   (hex)		Sagemcom Broadband SAS
+FC6637     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+64-79-99   (hex)		Sagemcom Broadband SAS
+647999     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+64-FD-96   (hex)		Sagemcom Broadband SAS
+64FD96     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+C4-EB-39   (hex)		Sagemcom Broadband SAS
+C4EB39     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+94-3C-96   (hex)		Sagemcom Broadband SAS
+943C96     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+C4-EB-41   (hex)		Sagemcom Broadband SAS
+C4EB41     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+C4-EB-43   (hex)		Sagemcom Broadband SAS
+C4EB43     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+D8-A7-56   (hex)		Sagemcom Broadband SAS
+D8A756     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+30-24-78   (hex)		Sagemcom Broadband SAS
+302478     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+B8-66-85   (hex)		Sagemcom Broadband SAS
+B86685     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+D4-F8-29   (hex)		Sagemcom Broadband SAS
+D4F829     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+8C-C5-B4   (hex)		Sagemcom Broadband SAS
+8CC5B4     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+6C-BA-B8   (hex)		Sagemcom Broadband SAS
+6CBAB8     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+E4-C0-E2   (hex)		Sagemcom Broadband SAS
+E4C0E2     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+3C-58-36   (hex)		Sagemcom Broadband SAS
+3C5836     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+70-23-93   (hex)		Polytech A/S
+702393     (base 16)		Polytech A/S
+				Thalkirchner Str. 210, Geb. 6
+				81371 München       0
+				DE
+
+6C-A6-13   (hex)		AltoBeam Inc.
+6CA613     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
+58-18-B4   (hex)		Chengdu Quanjing Intelligent Technology Co.,Ltd
+5818B4     (base 16)		Chengdu Quanjing Intelligent Technology Co.,Ltd
+				Building A2, Chi Yuen Technology Park, 1001 College Avenue, Nanshan District, Shenzhen,P.R.C.
+				Shenzhen  Guangdong  518000
+				CN
+
+00-05-21   (hex)		Schneider Electric
+000521     (base 16)		Schneider Electric
+				48 Steacie Drive
+				Ottawa  Ontario  K2K 2A9
+				CA
+
+C4-42-68   (hex)		CRESTRON ELECTRONICS, INC.
+C44268     (base 16)		CRESTRON ELECTRONICS, INC.
+				88 Ramland Road
+				Orangeburg  NJ  10962
+				US
+
+D0-0C-5E   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
+D00C5E     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
+				No.18, Ningshuang Road
+				 Nanjing  Jiangsu  210012
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -145013,12 +145115,6 @@ AC2929     (base 16)		Infinix mobility limited
 				Vancouver    WA  98661
 				US
 
-F0-4D-D4   (hex)		Sagemcom Broadband SAS
-F04DD4     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 68-4E-05   (hex)		HUNAN FN-LINK TECHNOLOGY LIMITED
 684E05     (base 16)		HUNAN FN-LINK TECHNOLOGY LIMITED
 				No.8, Litong Road, Liuyan Economic & Tec
@@ -145600,12 +145696,6 @@ A439B3     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
 				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
 				Beijing  Beijing  100085
 				CN
-
-6C-FF-CE   (hex)		Sagemcom Broadband SAS
-6CFFCE     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 C8-99-B2   (hex)		Arcadyan Corporation
 C899B2     (base 16)		Arcadyan Corporation
@@ -148415,12 +148505,6 @@ F02F74     (base 16)		ASUSTek COMPUTER INC.
 				Shenzhen  Guangdong  518057
 				CN
 
-D0-6E-DE   (hex)		Sagemcom Broadband SAS
-D06EDE     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 48-25-67   (hex)		Poly
 482567     (base 16)		Poly
 				6001 America Center Drive
@@ -149369,12 +149453,6 @@ C086B3     (base 16)		Shenzhen Voxtech Co., Ltd.
 				Shenzhen     518000
 				CN
 
-44-AD-B1   (hex)		Sagemcom Broadband SAS
-44ADB1     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 64-3A-EA   (hex)		Cisco Systems, Inc
 643AEA     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -150059,12 +150137,6 @@ CC418E     (base 16)		MSA Innovation
 				Incheon    21999
 				KR
 
-C8-D7-78   (hex)		BSH Hausgeraete GmbH
-C8D778     (base 16)		BSH Hausgeraete GmbH
-				Im Gewerbepark B10
-				Regensburg    93059
-				DE
-
 C0-95-DA   (hex)		NXP India Private Limited
 C095DA     (base 16)		NXP India Private Limited
 				1st Floor, Muttha Towers, Don Bosco Marg, Off Airport Road, Yerwada
@@ -150310,12 +150382,6 @@ E0BB9E     (base 16)		Seiko Epson Corporation
 				2070 Kotobuki Koaka
 				Matsumoto-shi  Nagano-ken  399-8702
 				JP
-
-48-D2-4F   (hex)		Sagemcom Broadband SAS
-48D24F     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 E4-AA-EC   (hex)		Tianjin Hualai Technology Co., Ltd
 E4AAEC     (base 16)		Tianjin Hualai Technology Co., Ltd
@@ -151601,12 +151667,6 @@ AC00D0     (base 16)		zte corporation
 				shenzhen  guangdong  518057
 				CN
 
-98-1E-19   (hex)		Sagemcom Broadband SAS
-981E19     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 84-B8-66   (hex)		Beijing XiaoLu technology co. LTD
 84B866     (base 16)		Beijing XiaoLu technology co. LTD
 				Room 002, floor 2, building 1, yard 4, BeiTuCheng East Road, ChaoYang district, Beijing
@@ -152885,12 +152945,6 @@ E00EE1     (base 16)		We Corporation Inc.
 				Anyang-si  Gyeonggi-do  14088
 				KR
 
-A8-9A-93   (hex)		Sagemcom Broadband SAS
-A89A93     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 8C-92-46   (hex)		Oerlikon Textile Gmbh&Co.KG
 8C9246     (base 16)		Oerlikon Textile Gmbh&Co.KG
 				NO.9 Changyang Street
@@ -153154,12 +153208,6 @@ B0027E     (base 16)		MULLER SERVICES
 				Room 804, C6 Building,No.52 Bay Valley Technology Park, Lane 1688 North Guoquan Road, Yangpu District.
 				Shanghai    200438
 				CN
-
-28-9E-FC   (hex)		Sagemcom Broadband SAS
-289EFC     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 00-C0-55   (hex)		MODULAR COMPUTING TECHNOLOGIES
 00C055     (base 16)		MODULAR COMPUTING TECHNOLOGIES
@@ -181187,12 +181235,6 @@ E4E66C     (base 16)		Tiandy Technologies Co.,LTD
 				Tianjin  Tianjin  300384
 				CN
 
-84-3E-03   (hex)		Sagemcom Broadband SAS
-843E03     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 54-9A-8F   (hex)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 549A8F     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 				No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing.
@@ -182671,12 +182713,6 @@ F45B29     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Anzhou, Industrial Park
 				Mianyang  Sichuan  622650
 				CN
-
-64-7B-1E   (hex)		Sagemcom Broadband SAS
-647B1E     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 98-FA-2E   (hex)		Sony Interactive Entertainment Inc.
 98FA2E     (base 16)		Sony Interactive Entertainment Inc.
@@ -185243,12 +185279,6 @@ C0DA5E     (base 16)		Huawei Device Co., Ltd.
 				Paris  Paris  75007
 				FR
 
-44-15-24   (hex)		Sagemcom Broadband SAS
-441524     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 C8-A1-DC   (hex)		Motorola Mobility LLC, a Lenovo Company
 C8A1DC     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				222 West Merchandise Mart Plaza
@@ -186359,12 +186389,6 @@ CCCFFE     (base 16)		Henan Lingyunda Information Technology Co., Ltd
 				Piscataway  NJ  08554
 				US
 
-D4-27-FF   (hex)		Sagemcom Broadband SAS
-D427FF     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 40-49-7C   (hex)		eero inc.
 40497C     (base 16)		eero inc.
 				660 3rd Street 
@@ -186796,12 +186820,6 @@ A090B5     (base 16)		Tiinlab Corporation
 				13/F., Golden Dragon Comm. Bldg., 522 Nathan Road, Yau Ma Tei, Kowloon
 				HONG KONG    999077
 				HK
-
-B0-1F-F4   (hex)		Sagemcom Broadband SAS
-B01FF4     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 AC-EB-E6   (hex)		Espressif Inc.
 ACEBE6     (base 16)		Espressif Inc.
@@ -187772,12 +187790,6 @@ A857BA     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				San Jose  CA  94568
 				US
 
-64-18-DF   (hex)		Sagemcom Broadband SAS
-6418DF     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 98-78-00   (hex)		TCT mobile ltd
 987800     (base 16)		TCT mobile ltd
 				No.86 hechang 7th road, zhongkai, Hi-Tech District
@@ -188300,12 +188312,6 @@ D862CA     (base 16)		Cisco Systems, Inc
 				Beijing    100083
 				CN
 
-D4-50-39   (hex)		Sagemcom Broadband SAS
-D45039     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 44-78-31   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 447831     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -188792,11 +188798,143 @@ BCA6E7     (base 16)		Sichuan Odot Automation System Co., Ltd.
 				Sunnyvale  CA  94089
 				US
 
+28-9E-FC   (hex)		Sagemcom Broadband SAS
+289EFC     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+A8-9A-93   (hex)		Sagemcom Broadband SAS
+A89A93     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
 DC-33-0E   (hex)		Qingdao Haier Technology Co.Ltd
 DC330E     (base 16)		Qingdao Haier Technology Co.Ltd
 				Building C01,Haier Information Park,No.1 Haier Road
 				Qingdao    266101
 				CN
+
+44-CC-6E   (hex)		Rockwell Automation
+44CC6E     (base 16)		Rockwell Automation
+				1 Allen-Bradley Dr.
+				Mayfield Heights  OH  44124-6118
+				US
+
+6C-55-F6   (hex)		eero inc.
+6C55F6     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
+2C-06-13   (hex)		China Mobile Group Device Co.,Ltd.
+2C0613     (base 16)		China Mobile Group Device Co.,Ltd.
+				32 Xuanwumen West Street,Xicheng District 
+				Beijing    100053
+				CN
+
+D4-27-FF   (hex)		Sagemcom Broadband SAS
+D427FF     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+B0-1F-F4   (hex)		Sagemcom Broadband SAS
+B01FF4     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+64-18-DF   (hex)		Sagemcom Broadband SAS
+6418DF     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+D4-50-39   (hex)		Sagemcom Broadband SAS
+D45039     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+48-D2-4F   (hex)		Sagemcom Broadband SAS
+48D24F     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+44-AD-B1   (hex)		Sagemcom Broadband SAS
+44ADB1     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+D0-6E-DE   (hex)		Sagemcom Broadband SAS
+D06EDE     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+64-7B-1E   (hex)		Sagemcom Broadband SAS
+647B1E     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+44-15-24   (hex)		Sagemcom Broadband SAS
+441524     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+A8-29-DC   (hex)		TP-Link Systems Inc.
+A829DC     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
+28-91-04   (hex)		TP-Link Systems Inc.
+289104     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
+F0-4D-D4   (hex)		Sagemcom Broadband SAS
+F04DD4     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+6C-FF-CE   (hex)		Sagemcom Broadband SAS
+6CFFCE     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+98-1E-19   (hex)		Sagemcom Broadband SAS
+981E19     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+84-3E-03   (hex)		Sagemcom Broadband SAS
+843E03     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+C8-D7-78   (hex)		BSH Hausgeräte GmbH
+C8D778     (base 16)		BSH Hausgeräte GmbH
+				Im Gewerbepark B10
+				Regensburg    93059
+				DE
+
+54-73-70   (hex)		The LEGO Group
+547370     (base 16)		The LEGO Group
+				Åstvej 17190 BillundDenmark
+				Billund  Jylland  7190
+				DK
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -190937,18 +191075,6 @@ F4B52F     (base 16)		Juniper Networks
 				Beijing  Beijing  100085
 				CN
 
-B8-6A-F1   (hex)		Sagemcom Broadband SAS
-B86AF1     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
-CC-58-30   (hex)		Sagemcom Broadband SAS
-CC5830     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 44-DF-65   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
 44DF65     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
 				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
@@ -191458,12 +191584,6 @@ FCD5D9     (base 16)		Shenzhen SDMC Technology CO.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
 				Shanghai    200233
 				CN
-
-3C-58-5D   (hex)		Sagemcom Broadband SAS
-3C585D     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 38-95-92   (hex)		Tendyron Corporation
 389592     (base 16)		Tendyron Corporation
@@ -192010,12 +192130,6 @@ F87907     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
 				Dongguan  Guangdong  523808
 				CN
-
-7C-E8-7F   (hex)		Sagemcom Broadband SAS
-7CE87F     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 68-87-1C   (hex)		Motorola Mobility LLC, a Lenovo Company
 68871C     (base 16)		Motorola Mobility LLC, a Lenovo Company
@@ -194495,12 +194609,6 @@ A01842     (base 16)		Comtrend Corporation
 				New Taipei City,  Taiwan  24159
 				TW
 
-50-6F-0C   (hex)		Sagemcom Broadband SAS
-506F0C     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 D4-86-60   (hex)		Arcadyan Corporation
 D48660     (base 16)		Arcadyan Corporation
 				No.8, Sec.2, Guangfu Rd.
@@ -194584,12 +194692,6 @@ D86D17     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				P.O Box 8102 
 				Reno  NV  89507
 				US
-
-74-5D-43   (hex)		BSH Hausgeraete GmbH
-745D43     (base 16)		BSH Hausgeraete GmbH
-				Im Gewerbepark B10
-				Regensburg    93059
-				DE
 
 00-0B-A5   (hex)		Quasar Cipta Mandiri, PT
 000BA5     (base 16)		Quasar Cipta Mandiri, PT
@@ -196253,12 +196355,6 @@ A0D0DC     (base 16)		Amazon Technologies Inc.
 				Charlotte  NC  28273
 				US
 
-20-9A-7D   (hex)		Sagemcom Broadband SAS
-209A7D     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 50-C6-8E   (hex)		Biwin Semiconductor (HK) Company Limted
 50C68E     (base 16)		Biwin Semiconductor (HK) Company Limted
 				5th/F., Block 4, Tongfuyu Industrial Park, Tanglang, Xili, Nanshan
@@ -197087,12 +197183,6 @@ C80739     (base 16)		NAKAYO Inc
 				Santa Clara  CA  95054
 				US
 
-A8-6A-BB   (hex)		Sagemcom Broadband SAS
-A86ABB     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 24-43-E2   (hex)		DASAN Network Solutions
 2443E2     (base 16)		DASAN Network Solutions
 				DASAN Tower 8F, 49 Daewangpangyo-ro644beon-gil Bundang-gu
@@ -197308,12 +197398,6 @@ BCFF21     (base 16)		Smart Code(shenzhen)Technology Co.,Ltd
 				12500 TI Blvd
 				Dallas  TX  75243
 				US
-
-F0-81-75   (hex)		Sagemcom Broadband SAS
-F08175     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 1C-63-BF   (hex)		SHENZHEN BROADTEL  TELECOM CO.,LTD
 1C63BF     (base 16)		SHENZHEN BROADTEL  TELECOM CO.,LTD
@@ -198029,12 +198113,6 @@ A0946A     (base 16)		Shenzhen XGTEC Technology Co,.Ltd.
 				Brentwood  Essex  08854
 				GB
 
-5C-B1-3E   (hex)		Sagemcom Broadband SAS
-5CB13E     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 E4-AA-EA   (hex)		Liteon Technology Corporation
 E4AAEA     (base 16)		Liteon Technology Corporation
 				4F, 90, Chien 1 Road
@@ -198719,12 +198797,6 @@ C4F7D5     (base 16)		Cisco Systems, Inc
 				New Taipei City,  Taiwan  24159
 				TW
 
-D0-57-94   (hex)		Sagemcom Broadband SAS
-D05794     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 04-D9-F5   (hex)		ASUSTek COMPUTER INC.
 04D9F5     (base 16)		ASUSTek COMPUTER INC.
 				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
@@ -199306,12 +199378,6 @@ D45800     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				One Verizon Way
 				Basking Ridge    07030
 				US
-
-34-6B-46   (hex)		Sagemcom Broadband SAS
-346B46     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 84-85-E6   (hex)		Guangdong Asano Technology CO.,Ltd.
 8485E6     (base 16)		Guangdong Asano Technology CO.,Ltd.
@@ -225482,12 +225548,6 @@ E80B13     (base 16)		Akib Systems Taiwan, INC
 				64625 BENSHEIM    
 				DE
 
-00-10-7F   (hex)		CRESTRON ELECTRONICS, INC.
-00107F     (base 16)		CRESTRON ELECTRONICS, INC.
-				15 Volvo Drive
-				Rockleigh  NJ  07647
-				US
-
 00-10-D4   (hex)		STORAGE COMPUTER CORPORATION
 0010D4     (base 16)		STORAGE COMPUTER CORPORATION
 				11 RIVERSIDE STREET
@@ -228995,12 +229055,6 @@ D825DF     (base 16)		CAME UK
 				Castle Donington  West Midlands  DE74 2US
 				GB
 
-D4-B5-CD   (hex)		Sagemcom Broadband SAS
-D4B5CD     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 68-49-83   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 684983     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -229318,12 +229372,6 @@ C4BD8D     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
 				No.13 Langshan Rd,HiTech Park,Nanshan District
 				Shenzhen  Guangdong  518000
 				CN
-
-30-F6-00   (hex)		Sagemcom Broadband SAS
-30F600     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 98-5F-41   (hex)		Intel Corporate
 985F41     (base 16)		Intel Corporate
@@ -233483,12 +233531,6 @@ B025AA     (base 16)		AIstone Global Limited
 				Connaught Place  Centa  Hong Kong  999077
 				CN
 
-A0-39-F9   (hex)		Sagemcom Broadband SAS
-A039F9     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 B4-89-31   (hex)		Silicon Laboratories
 B48931     (base 16)		Silicon Laboratories
 				 400 West Cesar Chavez
@@ -234791,12 +234833,6 @@ D89999     (base 16)		TECNO MOBILE LIMITED
 				Hong Kong  Hong Kong  999077
 				HK
 
-54-B2-7E   (hex)		Sagemcom Broadband SAS
-54B27E     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 84-C7-E2   (hex)		VusionGroup
 84C7E2     (base 16)		VusionGroup
 				Kalsdorfer Straße 12
@@ -235775,6 +235811,18 @@ A8DDEC     (base 16)		Hangzhou BroadLink Technology Co., Ltd
 				Shandong  Jinan  250014
 				CN
 
+E0-A4-47   (hex)		zte corporation
+E0A447     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+80-E8-A4   (hex)		zte corporation
+80E8A4     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
 20-AE-B6   (hex)		Huawei Device Co., Ltd.
 20AEB6     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
@@ -235787,26 +235835,152 @@ A8DDEC     (base 16)		Hangzhou BroadLink Technology Co., Ltd
 				Dongguan  Guangdong  523808
 				CN
 
-E0-A4-47   (hex)		zte corporation
-E0A447     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen   guangdong  518057
-				CN
-
 B0-DE-31   (hex)		Samsung Electronics Co.,Ltd
 B0DE31     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
 
-80-E8-A4   (hex)		zte corporation
-80E8A4     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen   guangdong  518057
-				CN
+34-6B-46   (hex)		Sagemcom Broadband SAS
+346B46     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+D0-57-94   (hex)		Sagemcom Broadband SAS
+D05794     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+5C-B1-3E   (hex)		Sagemcom Broadband SAS
+5CB13E     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+B8-6A-F1   (hex)		Sagemcom Broadband SAS
+B86AF1     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+CC-58-30   (hex)		Sagemcom Broadband SAS
+CC5830     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+D4-B5-CD   (hex)		Sagemcom Broadband SAS
+D4B5CD     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+F0-81-75   (hex)		Sagemcom Broadband SAS
+F08175     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+A8-6A-BB   (hex)		Sagemcom Broadband SAS
+A86ABB     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+20-9A-7D   (hex)		Sagemcom Broadband SAS
+209A7D     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+7C-E8-7F   (hex)		Sagemcom Broadband SAS
+7CE87F     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+3C-58-5D   (hex)		Sagemcom Broadband SAS
+3C585D     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+50-6F-0C   (hex)		Sagemcom Broadband SAS
+506F0C     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+30-F6-00   (hex)		Sagemcom Broadband SAS
+30F600     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
 
 DC-CB-35   (hex)		EM Microelectronic
 DCCB35     (base 16)		EM Microelectronic
 				Rue des Sors 3
 				Marin-Epagnier  Neuchatel  2074
 				CH
+
+5C-5A-35   (hex)		eero inc.
+5C5A35     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
+00-10-7F   (hex)		CRESTRON ELECTRONICS, INC.
+00107F     (base 16)		CRESTRON ELECTRONICS, INC.
+				88 Ramland Road
+				Orangeburg  NJ  10962
+				US
+
+94-88-35   (hex)		CRESTRON ELECTRONICS, INC.
+948835     (base 16)		CRESTRON ELECTRONICS, INC.
+				88 Ramland Road
+				Orangeburg  NJ  10962
+				US
+
+A0-39-F9   (hex)		Sagemcom Broadband SAS
+A039F9     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+54-B2-7E   (hex)		Sagemcom Broadband SAS
+54B27E     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+10-7A-2A   (hex)		Microsoft Corporation
+107A2A     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
+
+74-D8-09   (hex)		Microsoft Corporation
+74D809     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
+
+E0-4F-95   (hex)		Sagemcom Broadband SAS
+E04F95     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+50-22-C9   (hex)		Bel Power Solutions, Inc.
+5022C9     (base 16)		Bel Power Solutions, Inc.
+				1326 South Wolf Road
+				Wheeling  IL  60090
+				US
+
+74-5D-43   (hex)		BSH Hausgeräte GmbH
+745D43     (base 16)		BSH Hausgeräte GmbH
+				Im Gewerbepark B10
+				Regensburg    93059
+				DE
