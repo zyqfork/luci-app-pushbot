@@ -47663,6 +47663,24 @@ B0FC88     (base 16)		Sagemcom Broadband SAS
 				Messageries  Bois Colombes  92270 
 				FR
 
+F8-32-BA   (hex)		VusionGroup
+F832BA     (base 16)		VusionGroup
+				Kalsdorfer Straße 12
+				Fernitz-Mellach  Steiermark  8072
+				AT
+
+F8-D8-11   (hex)		Quectel Wireless Solutions Co.,Ltd.
+F8D811     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
+
+38-39-04   (hex)		ittim
+383904     (base 16)		ittim
+				1202, No.6, Zhongguancun South Street, Haidian District,
+				beijing    100080
+				CN
+
 78-6B-A5   (hex)		Changchun Jetty Automotive Technology Co., LTD
 786BA5     (base 16)		Changchun Jetty Automotive Technology Co., LTD
 				1st Floor, No. 957 Shunda Road,High-tech Development Zone
@@ -47673,6 +47691,12 @@ D0-13-C1   (hex)		Shenzhen Skyworth Digital  Technology  CO., Ltd
 D013C1     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
 				4F,Block A, Skyworth?Building,
 				Shenzhen  Guangdong  518057
+				CN
+
+10-B0-6E   (hex)		Shenzhen Phaten Tech. LTD
+10B06E     (base 16)		Shenzhen Phaten Tech. LTD
+				C-6 ideamonto industril 7002 Songbai Road Guangming District Shenzhen City Guangdong, China
+				Shenzhen    518108
 				CN
 
 20-93-95   (hex)		nVent
@@ -82895,12 +82919,6 @@ CC0080     (base 16)		BETTINI SRL
 				Lexington  MA  02421
 				US
 
-00-02-31   (hex)		Ingersoll-Rand
-000231     (base 16)		Ingersoll-Rand
-				1467 Route 31 South
-				Annandale  NJ  08801
-				US
-
 00-02-34   (hex)		Imperial Technology, Inc.
 000234     (base 16)		Imperial Technology, Inc.
 				2305 Utah Avenue
@@ -94442,17 +94460,83 @@ EC50A6     (base 16)		Sagemcom Broadband SAS
 				Cambridge  Cambridgeshire  CB19NJ
 				GB
 
-00-03-74   (hex)		Schneider Electric
-000374     (base 16)		Schneider Electric
-				48 Steacie Drive
-				Ottawa  Ontario  K2K 2A9
-				CA
-
 38-B4-D3   (hex)		BSH Hausgeräte GmbH
 38B4D3     (base 16)		BSH Hausgeräte GmbH
 				Im Gewerbepark B10
 				Regensburg    93059
 				DE
+
+BC-4F-2D   (hex)		Apple, Inc.
+BC4F2D     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+8C-82-83   (hex)		Apple, Inc.
+8C8283     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+5C-B8-B7   (hex)		Apple, Inc.
+5CB8B7     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+10-9E-6B   (hex)		Apple, Inc.
+109E6B     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+98-9E-85   (hex)		Honor Device Co., Ltd.
+989E85     (base 16)		Honor Device Co., Ltd.
+				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
+				Shenzhen   Guangdong  518040
+				CN
+
+0C-54-27   (hex)		Dongguan Huayin Electronic Technology Co., Ltd.
+0C5427     (base 16)		Dongguan Huayin Electronic Technology Co., Ltd.
+				Room 101, No.8 Xinglong 3rd Road, Shipai Town
+				Dongguan  Guangdong  523000
+				CN
+
+14-C7-C4   (hex)		Zyxel Communications Corporation
+14C7C4     (base 16)		Zyxel Communications Corporation
+				No. 6 Innovation Road II, Science Park
+				Hsichu  Taiwan  300
+				TW
+
+EC-2C-0D   (hex)		Apple, Inc.
+EC2C0D     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+D8-46-CE   (hex)		Apple, Inc.
+D846CE     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+00-02-31   (hex)		Ingersoll-Rand
+000231     (base 16)		Ingersoll-Rand
+				53 Frontage Road Suite 250
+				Hampton  NJ  08827
+				US
+
+00-03-74   (hex)		Schneider Electric
+000374     (base 16)		Schneider Electric
+				35 Rue Joseph Monier
+				Rueil-Malmaison    92500
+				CA
+
+44-99-5B   (hex)		GX India Pvt Ltd
+44995B     (base 16)		GX India Pvt Ltd
+				595, SECTOR-8, IMT MANESAR
+				GURGAON  Haryana  122051
+				IN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -141155,14 +141239,86 @@ A05D0E     (base 16)		ALPSALPINE CO.,LTD.
 				Kakuda-City  Miyagi-Pref  981-1595
 				JP
 
+70-0B-01   (hex)		Sagemcom Broadband SAS
+700B01     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+D8-A7-56   (hex)		Sagemcom Broadband SAS
+D8A756     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+30-24-78   (hex)		Sagemcom Broadband SAS
+302478     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
 60-F7-23   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
 60F723     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
 				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
 				Beijing  Beijing  100085
 				CN
 
-70-0B-01   (hex)		Sagemcom Broadband SAS
-700B01     (base 16)		Sagemcom Broadband SAS
+6C-A6-13   (hex)		AltoBeam Inc.
+6CA613     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
+58-18-B4   (hex)		Chengdu Quanjing Intelligent Technology Co.,Ltd
+5818B4     (base 16)		Chengdu Quanjing Intelligent Technology Co.,Ltd
+				Building A2, Chi Yuen Technology Park, 1001 College Avenue, Nanshan District, Shenzhen,P.R.C.
+				Shenzhen  Guangdong  518000
+				CN
+
+70-23-93   (hex)		Polytech A/S
+702393     (base 16)		Polytech A/S
+				Thalkirchner Str. 210, Geb. 6
+				81371 München       0
+				DE
+
+E4-C0-E2   (hex)		Sagemcom Broadband SAS
+E4C0E2     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+64-FD-96   (hex)		Sagemcom Broadband SAS
+64FD96     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+C4-EB-39   (hex)		Sagemcom Broadband SAS
+C4EB39     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+D4-F8-29   (hex)		Sagemcom Broadband SAS
+D4F829     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+8C-C5-B4   (hex)		Sagemcom Broadband SAS
+8CC5B4     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+6C-BA-B8   (hex)		Sagemcom Broadband SAS
+6CBAB8     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+3C-58-36   (hex)		Sagemcom Broadband SAS
+3C5836     (base 16)		Sagemcom Broadband SAS
 				 4 Allée des
 				Messageries  Bois Colombes  92270 
 				FR
@@ -141197,18 +141353,6 @@ FC6637     (base 16)		Sagemcom Broadband SAS
 				Messageries  Bois Colombes  92270 
 				FR
 
-64-FD-96   (hex)		Sagemcom Broadband SAS
-64FD96     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-C4-EB-39   (hex)		Sagemcom Broadband SAS
-C4EB39     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
 94-3C-96   (hex)		Sagemcom Broadband SAS
 943C96     (base 16)		Sagemcom Broadband SAS
 				 4 Allée des
@@ -141227,76 +141371,106 @@ C4EB43     (base 16)		Sagemcom Broadband SAS
 				Messageries  Bois Colombes  92270 
 				FR
 
-D8-A7-56   (hex)		Sagemcom Broadband SAS
-D8A756     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-30-24-78   (hex)		Sagemcom Broadband SAS
-302478     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
 B8-66-85   (hex)		Sagemcom Broadband SAS
 B86685     (base 16)		Sagemcom Broadband SAS
 				 4 Allée des
 				Messageries  Bois Colombes  92270 
 				FR
 
-D4-F8-29   (hex)		Sagemcom Broadband SAS
-D4F829     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-8C-C5-B4   (hex)		Sagemcom Broadband SAS
-8CC5B4     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-6C-BA-B8   (hex)		Sagemcom Broadband SAS
-6CBAB8     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-E4-C0-E2   (hex)		Sagemcom Broadband SAS
-E4C0E2     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-3C-58-36   (hex)		Sagemcom Broadband SAS
-3C5836     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-70-23-93   (hex)		Polytech A/S
-702393     (base 16)		Polytech A/S
-				Thalkirchner Str. 210, Geb. 6
-				81371 München       0
-				DE
-
-6C-A6-13   (hex)		AltoBeam Inc.
-6CA613     (base 16)		AltoBeam Inc.
-				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
-				Beijing  Beijing  100083
+7C-90-E9   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+7C90E9     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
 				CN
 
-58-18-B4   (hex)		Chengdu Quanjing Intelligent Technology Co.,Ltd
-5818B4     (base 16)		Chengdu Quanjing Intelligent Technology Co.,Ltd
-				Building A2, Chi Yuen Technology Park, 1001 College Avenue, Nanshan District, Shenzhen,P.R.C.
-				Shenzhen  Guangdong  518000
+38-14-A1   (hex)		LG Innotek
+3814A1     (base 16)		LG Innotek
+				26, HANAMSANDAN 5BEON-RO
+				Gwangju  Gwangsan-gu  506-731
+				KR
+
+30-89-EC   (hex)		Nintendo Co.,Ltd
+3089EC     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
+
+30-09-16   (hex)		Apple, Inc.
+300916     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+60-2E-D5   (hex)		Apple, Inc.
+602ED5     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+7C-4F-CD   (hex)		Apple, Inc.
+7C4FCD     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+F4-A1-A6   (hex)		Apple, Inc.
+F4A1A6     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+14-D5-37   (hex)		All Inspire Health Inc.
+14D537     (base 16)		All Inspire Health Inc.
+				19 Morris Avenue, Building 128, Cumberland Gate
+				Brooklyn  NY  11205
+				US
+
+B8-1F-3F   (hex)		Espressif Inc.
+B81F3F     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
 				CN
+
+90-DA-72   (hex)		Espressif Inc.
+90DA72     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+D0-0C-5E   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
+D00C5E     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
+				No.18, Ningshuang Road
+				 Nanjing  Jiangsu  210012
+				CN
+
+A0-87-BE   (hex)		Apple, Inc.
+A087BE     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+34-F8-DD   (hex)		Apple, Inc.
+34F8DD     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+7C-D6-2C   (hex)		Apple, Inc.
+7CD62C     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+6C-68-8A   (hex)		Amazon Technologies Inc.
+6C688A     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
 
 00-05-21   (hex)		Schneider Electric
 000521     (base 16)		Schneider Electric
-				48 Steacie Drive
-				Ottawa  Ontario  K2K 2A9
+				35 Rue Joseph Monier
+				Rueil-Malmaison    92500
 				CA
 
 C4-42-68   (hex)		CRESTRON ELECTRONICS, INC.
@@ -141305,11 +141479,29 @@ C44268     (base 16)		CRESTRON ELECTRONICS, INC.
 				Orangeburg  NJ  10962
 				US
 
-D0-0C-5E   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
-D00C5E     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
-				No.18, Ningshuang Road
-				 Nanjing  Jiangsu  210012
+FC-B9-48   (hex)		McScience Inc.
+FCB948     (base 16)		McScience Inc.
+				B-1102, Digital Empire Bldg. 1556-16 Deogyeong Blvd., Yeongtong
+				Suwon    16690
+				KR
+
+44-1D-E5   (hex)		XCENA Inc.
+441DE5     (base 16)		XCENA Inc.
+				8F, 20, Pangyoyeok-ro 241 beon-gil, Bundang-gu
+				Seongnam-si  Gyeonggi-do  13494
+				KR
+
+58-F6-58   (hex)		Edifier International
+58F658     (base 16)		Edifier International
+				Suit 2207, 22nd floor, Tower II, Lippo centre, 89 Queensway
+				Hong Kong    070
 				CN
+
+E0-D2-39   (hex)		TECHNOLID, LLC
+E0D239     (base 16)		TECHNOLID, LLC
+				Nobelya, 7
+				Moscow    121205
+				RU
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -188810,6 +189002,18 @@ A89A93     (base 16)		Sagemcom Broadband SAS
 				Messageries  Bois Colombes  92270 
 				FR
 
+98-1E-19   (hex)		Sagemcom Broadband SAS
+981E19     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+48-D2-4F   (hex)		Sagemcom Broadband SAS
+48D24F     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
 DC-33-0E   (hex)		Qingdao Haier Technology Co.Ltd
 DC330E     (base 16)		Qingdao Haier Technology Co.Ltd
 				Building C01,Haier Information Park,No.1 Haier Road
@@ -188828,17 +189032,35 @@ DC330E     (base 16)		Qingdao Haier Technology Co.Ltd
 				San Francisco  CA  94107
 				US
 
+A8-29-DC   (hex)		TP-Link Systems Inc.
+A829DC     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
+28-91-04   (hex)		TP-Link Systems Inc.
+289104     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
 2C-06-13   (hex)		China Mobile Group Device Co.,Ltd.
 2C0613     (base 16)		China Mobile Group Device Co.,Ltd.
 				32 Xuanwumen West Street,Xicheng District 
 				Beijing    100053
 				CN
 
-D4-27-FF   (hex)		Sagemcom Broadband SAS
-D427FF     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
+B0-3F-D3   (hex)		Espressif Inc.
+B03FD3     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+C8-D7-78   (hex)		BSH Hausgeräte GmbH
+C8D778     (base 16)		BSH Hausgeräte GmbH
+				Im Gewerbepark B10
+				Regensburg    93059
+				DE
 
 B0-1F-F4   (hex)		Sagemcom Broadband SAS
 B01FF4     (base 16)		Sagemcom Broadband SAS
@@ -188858,8 +189080,20 @@ D45039     (base 16)		Sagemcom Broadband SAS
 				Messageries  Bois Colombes  92270 
 				FR
 
-48-D2-4F   (hex)		Sagemcom Broadband SAS
-48D24F     (base 16)		Sagemcom Broadband SAS
+64-7B-1E   (hex)		Sagemcom Broadband SAS
+647B1E     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+44-15-24   (hex)		Sagemcom Broadband SAS
+441524     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+D4-27-FF   (hex)		Sagemcom Broadband SAS
+D427FF     (base 16)		Sagemcom Broadband SAS
 				 4 Allée des
 				Messageries  Bois Colombes  92270 
 				FR
@@ -188876,44 +189110,14 @@ D06EDE     (base 16)		Sagemcom Broadband SAS
 				Messageries  Bois Colombes  92270 
 				FR
 
-64-7B-1E   (hex)		Sagemcom Broadband SAS
-647B1E     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-44-15-24   (hex)		Sagemcom Broadband SAS
-441524     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-A8-29-DC   (hex)		TP-Link Systems Inc.
-A829DC     (base 16)		TP-Link Systems Inc.
-				10 Mauchly
-				 Irvine  CA  92618
-				US
-
-28-91-04   (hex)		TP-Link Systems Inc.
-289104     (base 16)		TP-Link Systems Inc.
-				10 Mauchly
-				 Irvine  CA  92618
-				US
-
-F0-4D-D4   (hex)		Sagemcom Broadband SAS
-F04DD4     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
 6C-FF-CE   (hex)		Sagemcom Broadband SAS
 6CFFCE     (base 16)		Sagemcom Broadband SAS
 				 4 Allée des
 				Messageries  Bois Colombes  92270 
 				FR
 
-98-1E-19   (hex)		Sagemcom Broadband SAS
-981E19     (base 16)		Sagemcom Broadband SAS
+F0-4D-D4   (hex)		Sagemcom Broadband SAS
+F04DD4     (base 16)		Sagemcom Broadband SAS
 				 4 Allée des
 				Messageries  Bois Colombes  92270 
 				FR
@@ -188924,17 +189128,65 @@ F04DD4     (base 16)		Sagemcom Broadband SAS
 				Messageries  Bois Colombes  92270 
 				FR
 
-C8-D7-78   (hex)		BSH Hausgeräte GmbH
-C8D778     (base 16)		BSH Hausgeräte GmbH
-				Im Gewerbepark B10
-				Regensburg    93059
-				DE
-
 54-73-70   (hex)		The LEGO Group
 547370     (base 16)		The LEGO Group
 				Åstvej 17190 BillundDenmark
 				Billund  Jylland  7190
 				DK
+
+58-0F-A5   (hex)		Apple, Inc.
+580FA5     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+40-B5-70   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+40B570     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+				No.555 Qianmo Road 
+				Hangzhou  Zhejiang  310052
+				CN
+
+B8-0E-1D   (hex)		PAX Computer Technology(Shenzhen) Ltd.
+B80E1D     (base 16)		PAX Computer Technology(Shenzhen) Ltd.
+				Room 701, PAX Technology Building, Shanxia Community, Pinghu Sub-district, Longgang District, Shenzhen, China
+				shenzhen  GuangDong  518057
+				CN
+
+F4-16-E7   (hex)		Skyverse Limited
+F416E7     (base 16)		Skyverse Limited
+				Room 101、102 No.1301-14,Guanguang Road,Xinlan community,Guanlan street,Longhua district, Shenzhen,PRC
+				Shenzhen  Guangdong  518100
+				CN
+
+B4-9A-7D   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+B49A7D     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+48-0A-28   (hex)		Apple, Inc.
+480A28     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+BC-89-C1   (hex)		Apple, Inc.
+BC89C1     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+70-62-CB   (hex)		Apple, Inc.
+7062CB     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+08-7B-0F   (hex)		Amazon Technologies Inc.
+087B0F     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -235811,18 +236063,6 @@ A8DDEC     (base 16)		Hangzhou BroadLink Technology Co., Ltd
 				Shandong  Jinan  250014
 				CN
 
-E0-A4-47   (hex)		zte corporation
-E0A447     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen   guangdong  518057
-				CN
-
-80-E8-A4   (hex)		zte corporation
-80E8A4     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen   guangdong  518057
-				CN
-
 20-AE-B6   (hex)		Huawei Device Co., Ltd.
 20AEB6     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
@@ -235833,6 +236073,12 @@ E0A447     (base 16)		zte corporation
 7C162A     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
 				Dongguan  Guangdong  523808
+				CN
+
+E0-A4-47   (hex)		zte corporation
+E0A447     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
 				CN
 
 B0-DE-31   (hex)		Samsung Electronics Co.,Ltd
@@ -235859,6 +236105,30 @@ D05794     (base 16)		Sagemcom Broadband SAS
 				Messageries  Bois Colombes  92270 
 				FR
 
+F0-81-75   (hex)		Sagemcom Broadband SAS
+F08175     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+A8-6A-BB   (hex)		Sagemcom Broadband SAS
+A86ABB     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+7C-E8-7F   (hex)		Sagemcom Broadband SAS
+7CE87F     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+3C-58-5D   (hex)		Sagemcom Broadband SAS
+3C585D     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
 B8-6A-F1   (hex)		Sagemcom Broadband SAS
 B86AF1     (base 16)		Sagemcom Broadband SAS
 				 4 Allée des
@@ -235877,17 +236147,17 @@ D4B5CD     (base 16)		Sagemcom Broadband SAS
 				Messageries  Bois Colombes  92270 
 				FR
 
-F0-81-75   (hex)		Sagemcom Broadband SAS
-F08175     (base 16)		Sagemcom Broadband SAS
+30-F6-00   (hex)		Sagemcom Broadband SAS
+30F600     (base 16)		Sagemcom Broadband SAS
 				 4 Allée des
 				Messageries  Bois Colombes  92270 
 				FR
 
-A8-6A-BB   (hex)		Sagemcom Broadband SAS
-A86ABB     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
+80-E8-A4   (hex)		zte corporation
+80E8A4     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
 
 20-9A-7D   (hex)		Sagemcom Broadband SAS
 209A7D     (base 16)		Sagemcom Broadband SAS
@@ -235895,26 +236165,8 @@ A86ABB     (base 16)		Sagemcom Broadband SAS
 				Messageries  Bois Colombes  92270 
 				FR
 
-7C-E8-7F   (hex)		Sagemcom Broadband SAS
-7CE87F     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-3C-58-5D   (hex)		Sagemcom Broadband SAS
-3C585D     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
 50-6F-0C   (hex)		Sagemcom Broadband SAS
 506F0C     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-30-F6-00   (hex)		Sagemcom Broadband SAS
-30F600     (base 16)		Sagemcom Broadband SAS
 				 4 Allée des
 				Messageries  Bois Colombes  92270 
 				FR
@@ -235943,18 +236195,6 @@ DCCB35     (base 16)		EM Microelectronic
 				Orangeburg  NJ  10962
 				US
 
-A0-39-F9   (hex)		Sagemcom Broadband SAS
-A039F9     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-54-B2-7E   (hex)		Sagemcom Broadband SAS
-54B27E     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
 10-7A-2A   (hex)		Microsoft Corporation
 107A2A     (base 16)		Microsoft Corporation
 				One Microsoft Way
@@ -235973,6 +236213,18 @@ E04F95     (base 16)		Sagemcom Broadband SAS
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
+A0-39-F9   (hex)		Sagemcom Broadband SAS
+A039F9     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+54-B2-7E   (hex)		Sagemcom Broadband SAS
+54B27E     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
 50-22-C9   (hex)		Bel Power Solutions, Inc.
 5022C9     (base 16)		Bel Power Solutions, Inc.
 				1326 South Wolf Road
@@ -235984,3 +236236,69 @@ E04F95     (base 16)		Sagemcom Broadband SAS
 				Im Gewerbepark B10
 				Regensburg    93059
 				DE
+
+F8-63-47   (hex)		Sichuan AI-Link Technology Co., Ltd.
+F86347     (base 16)		Sichuan AI-Link Technology Co., Ltd.
+				Anzhou, Industrial Park
+				Mianyang  Sichuan  622650
+				CN
+
+24-64-04   (hex)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+246404     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+				PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD
+				HO CHI MINH CITY  HO CHI MINH  820000
+				VN
+
+84-01-6E   (hex)		Honor Device Co., Ltd.
+84016E     (base 16)		Honor Device Co., Ltd.
+				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
+				Shenzhen   Guangdong  518040
+				CN
+
+B4-90-E5   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+B490E5     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+				Midea Global Innovation Center,Beijiao Town,Shunde
+				Foshan  Guangdong  528311
+				CN
+
+B8-DC-7D   (hex)		VusionGroup
+B8DC7D     (base 16)		VusionGroup
+				Kalsdorfer Straße 12
+				Fernitz-Mellach  Steiermark  8072
+				AT
+
+20-1F-55   (hex)		DJI Osmo Technology Co., Ltd.
+201F55     (base 16)		DJI Osmo Technology Co., Ltd.
+				Tower 1, DJI Sky City, No. 55 Xianyuan Road, Xili Community, Xili Subdistrict, Nanshan District
+				shenzhen    518057
+				CN
+
+90-4D-E2   (hex)		Apple, Inc.
+904DE2     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+EC-DC-AA   (hex)		Apple, Inc.
+ECDCAA     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+08-24-0B   (hex)		Apple, Inc.
+08240B     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+0C-0E-C1   (hex)		IEEE Registration Authority
+0C0EC1     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+8C-65-EC   (hex)		TUBITAK MAM
+8C65EC     (base 16)		TUBITAK MAM
+				Gebze Yerleskesi Marmara Arastirma Merkezi 
+				KOCAELI  TR  41470
+				TR
