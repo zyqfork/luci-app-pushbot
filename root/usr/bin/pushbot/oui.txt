@@ -47705,6 +47705,36 @@ D013C1     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
 				St. Louis Park  MN  55416
 				US
 
+EC-86-C4   (hex)		Mellanox Technologies, Inc.
+EC86C4     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+D0-55-33   (hex)		Palo Alto Networks
+D05533     (base 16)		Palo Alto Networks
+				3000 Tannery Way
+				Santa Clara  CA  95054
+				US
+
+1C-E5-87   (hex)		Cisco Meraki
+1CE587     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
+B8-34-46   (hex)		Motorola Mobility LLC, a Lenovo Company
+B83446     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+C4-AA-43   (hex)		Cisco Systems, Inc
+C4AA43     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -94532,11 +94562,47 @@ D846CE     (base 16)		Apple, Inc.
 				Rueil-Malmaison    92500
 				CA
 
+78-0C-26   (hex)		Trafag AG
+780C26     (base 16)		Trafag AG
+				Industriestrasse 11
+				Bubikon  Zuerich  8608
+				CH
+
+74-28-AE   (hex)		Mellanox Technologies, Inc.
+7428AE     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+20-59-D1   (hex)		Mellanox Technologies, Inc.
+2059D1     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+64-97-46   (hex)		AzureWave Technology Inc.
+649746     (base 16)		AzureWave Technology Inc.
+				8F., No. 94, Baozhong Rd.
+				New Taipei City  Taiwan  231
+				TW
+
 44-99-5B   (hex)		GX India Pvt Ltd
 44995B     (base 16)		GX India Pvt Ltd
 				595, SECTOR-8, IMT MANESAR
 				GURGAON  Haryana  122051
 				IN
+
+04-30-FA   (hex)		Cisco Systems, Inc
+0430FA     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+F4-5B-B4   (hex)		Cisco Systems, Inc
+F45BB4     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -129446,12 +129512,6 @@ B4B5AF     (base 16)		Minsung Electronics
 				St. Louis  MO  63141
 				US
 
-00-03-CA   (hex)		MTS Systems Corp.
-0003CA     (base 16)		MTS Systems Corp.
-				3001 Sheldon Drive
-				Cary,  NC  27513
-				US
-
 00-03-CB   (hex)		SystemGear Co., Ltd.
 0003CB     (base 16)		SystemGear Co., Ltd.
 				1-9-14 Edobori
@@ -141502,6 +141562,54 @@ E0D239     (base 16)		TECHNOLID, LLC
 				Nobelya, 7
 				Moscow    121205
 				RU
+
+AC-23-6E   (hex)		Apismoon Electric Pte. Ltd.
+AC236E     (base 16)		Apismoon Electric Pte. Ltd.
+				Blk 6, #04-24, JTC DEFU INDUSTRIAL CITY, DEFU SOUTH STREET 1, SINGAPORE 533757, SG
+				SINGAPORE    533757
+				SG
+
+FC-11-19   (hex)		Silicon Laboratories
+FC1119     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+00-03-CA   (hex)		Temposonics, LLC
+0003CA     (base 16)		Temposonics, LLC
+				3001 Sheldon Drive
+				Cary,  NC  27513
+				US
+
+7C-A0-5E   (hex)		Motorola Mobility LLC, a Lenovo Company
+7CA05E     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+30-FD-34   (hex)		COMMANDO Networks Pvt Ltd.
+30FD34     (base 16)		COMMANDO Networks Pvt Ltd.
+				Millennium Business Park - IT Park
+				Navi Mumbai  MH  400710
+				IN
+
+94-0F-3B   (hex)		ASKEY COMPUTER CORP
+940F3B     (base 16)		ASKEY COMPUTER CORP
+				10F,No.119,JIANKANG RD,ZHONGHE DIST
+				NEW TAIPEI  TAIWAN  23585
+				TW
+
+6C-92-F6   (hex)		Arista Networks
+6C92F6     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
+
+F0-C7-1F   (hex)		Arista Networks
+F0C71F     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -188894,12 +189002,6 @@ D8A469     (base 16)		Sonova AG
 				Reno  NV  89507
 				US
 
-DC-2D-DE   (hex)		Illucere Srl
-DC2DDE     (base 16)		Illucere Srl
-				Via Tortona 37
-				Milano  Milano  20144
-				IT
-
 A4-4F-3E   (hex)		IEEE Registration Authority
 A44F3E     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -189187,6 +189289,42 @@ BC89C1     (base 16)		Apple, Inc.
 				P.O Box 8102 
 				Reno  NV  89507
 				US
+
+44-B4-A0   (hex)		Mellanox Technologies, Inc.
+44B4A0     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+64-7D-4D   (hex)		Arcadyan Corporation
+647D4D     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
+
+54-F2-83   (hex)		Silicon Laboratories
+54F283     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+A0-4E-8D   (hex)		Cisco Meraki
+A04E8D     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
+04-5A-3D   (hex)		Nothing Technology Limited
+045A3D     (base 16)		Nothing Technology Limited
+				11 Staple Inn
+				London  London  WC1V 7QH
+				GB
+
+DC-2D-DE   (hex)		Illucere Srl
+DC2DDE     (base 16)		Illucere Srl
+				Via Primo Maggio 1
+				Mestrino   PD  35035 
+				IT
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -225584,12 +225722,6 @@ E80B13     (base 16)		Akib Systems Taiwan, INC
 				Garden Grove  CA  92841
 				US
 
-00-90-1D   (hex)		PEC (NZ) LTD.
-00901D     (base 16)		PEC (NZ) LTD.
-				2 STATION ROAD
-				MARTON    
-				NZ
-
 00-90-7E   (hex)		VETRONIX CORP.
 00907E     (base 16)		VETRONIX CORP.
 				2030 ALAMEDE PADRE SERRA
@@ -227191,12 +227323,6 @@ E80B13     (base 16)		Akib Systems Taiwan, INC
 				BRUNEL ROAD,
 				    ENGLAND
 				GB
-
-00-C0-96   (hex)		TAMURA CORPORATION
-00C096     (base 16)		TAMURA CORPORATION
-				COMMUNICATION SYSTEMS DIV.
-				    
-				JP
 
 00-C0-4E   (hex)		COMTROL CORPORATION
 00C04E     (base 16)		COMTROL CORPORATION
@@ -236302,3 +236428,39 @@ ECDCAA     (base 16)		Apple, Inc.
 				Gebze Yerleskesi Marmara Arastirma Merkezi 
 				KOCAELI  TR  41470
 				TR
+
+10-19-88   (hex)		Mother Computer Inc.
+101988     (base 16)		Mother Computer Inc.
+				103 Pioneer Way, Ste B
+				Mountain View  CA  94041
+				US
+
+F8-B2-2C   (hex)		Roku, Inc
+F8B22C     (base 16)		Roku, Inc
+				1173 Coleman Ave
+				San Jose  CA  95110
+				US
+
+00-C0-96   (hex)		Tamu Radiance Corporation
+00C096     (base 16)		Tamu Radiance Corporation
+				Ebisu, Shibuya-ku, Tokyo
+				Tokyo    -
+				JP
+
+00-90-1D   (hex)		Gallagher Group Limited
+00901D     (base 16)		Gallagher Group Limited
+				181 Kahikatea Drive
+				Hamilton    3206
+				NZ
+
+04-B3-C9   (hex)		WNC Corporation
+04B3C9     (base 16)		WNC Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
+
+84-DD-84   (hex)		Cisco Systems, Inc
+84DD84     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
