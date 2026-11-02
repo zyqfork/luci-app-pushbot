@@ -48830,6 +48830,18 @@ A80FCA     (base 16)		Juniper Networks
 				Kanata  Ontario  K2K 2E6
 				CA
 
+24-1F-BE   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+241FBE     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
+				CN
+
+74-BC-BC   (hex)		PHOTONIC TECHNOLOGIES(SHANGHAI) CO.,LTD.
+74BCBC     (base 16)		PHOTONIC TECHNOLOGIES(SHANGHAI) CO.,LTD.
+				Room 701A-701B, Building B, No.112, Liangxiu Road, China (shanghai) pilot Free Trade Zone
+				Shanghai    201203
+				CN
+
 58-57-F0   (hex)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 5857F0     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 				Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim
@@ -48841,6 +48853,18 @@ D0C216     (base 16)		Decawave Ltd
 				Adelaide Chambers,Peter Street
 				Dublin  Leinster  D08T6YA
 				IE
+
+4C-51-49   (hex)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+4C5149     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+				PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD
+				HO CHI MINH CITY  HO CHI MINH  820000
+				VN
+
+FC-F6-84   (hex)		MatX
+FCF684     (base 16)		MatX
+				490 East Middlefield Road
+				Mountain View  CA  94043
+				US
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -96766,6 +96790,24 @@ BC1409     (base 16)		Arista Networks
 				1133 Innovation Way
 				Sunnyvale  CA  94089
 				US
+
+84-9A-10   (hex)		Kingtype Technologies corp.,Ltd.
+849A10     (base 16)		Kingtype Technologies corp.,Ltd.
+				No.9, 3rd Wuke Road, Wuhou District
+				Chengdu  Sichuan  610045
+				CN
+
+10-01-8C   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+10018C     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
+				CN
+
+40-23-64   (hex)		Serage 
+402364     (base 16)		Serage 
+				35-37 Whitton Dene Road
+				Hounslow  London  TW32JN
+				GB
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -144998,6 +145040,30 @@ AC2FE5     (base 16)		CANON INC.
 				Ohta-ku  Tokyo  146-8501
 				JP
 
+68-53-70   (hex)		Chipsea Technologies (Shenzhen) Corp.
+685370     (base 16)		Chipsea Technologies (Shenzhen) Corp.
+				3 / F, Block A, Building 2, Shenzhen Bay Innovation Technology Center, No.3156 keyuan South Road, Yuehai Street, Nanshan District, Shenzhen
+				Shenzhen  Guangdong  518000
+				CN
+
+E8-9D-EA   (hex)		Silicon Laboratories
+E89DEA     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+A0-60-25   (hex)		Espressif Systems (Singapore) Pte. Ltd
+A06025     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
+E4-FD-9D   (hex)		Shenzhen Skyworth Display Technologies Co.,Ltd
+E4FD9D     (base 16)		Shenzhen Skyworth Display Technologies Co.,Ltd
+				1st floor, Experimental Factory, Skyworth Technology Industrial Park, Tangtou Community, Shiyan Street, Bao'an District
+				Shenzhen  Guangdong  518108
+				CN
+
 F8-0C-4E   (hex)		Espressif Inc.
 F80C4E     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
@@ -145009,6 +145075,12 @@ F80C4E     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
+
+20-6D-9A   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+206D9A     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
 
 D4-8E-83   (hex)		Apple, Inc.
 D48E83     (base 16)		Apple, Inc.
@@ -145027,6 +145099,24 @@ EC43C4     (base 16)		MitraStar Technology Corp.
 				No. 6, Innovation Road II,
 				Hsinchu    300
 				TW
+
+28-BC-82   (hex)		AMiT Automation
+28BC82     (base 16)		AMiT Automation
+				Vídeňská 186/118
+				Brno    61900
+				CZ
+
+9C-AD-E0   (hex)		Intel Corporate
+9CADE0     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
+94-FC-9A   (hex)		Google, Inc.
+94FC9A     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View    94043
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -193847,6 +193937,36 @@ D40CFD     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+58-30-AC   (hex)		Quectel Wireless Solutions Co.,Ltd.
+5830AC     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
+
+BC-D8-10   (hex)		Amazon Technologies Inc.
+BCD810     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
+88-8A-F5   (hex)		Intel Corporate
+888AF5     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
+B8-F4-53   (hex)		IEEE Registration Authority
+B8F453     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+60-41-5A   (hex)		Google, Inc.
+60415A     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View    94043
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -242065,3 +242185,57 @@ F02E7A     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				No.20,Park Avenue II,Hsinchu Science Park
 				Hsin-Chu  R.O.C.  308
 				TW
+
+54-2B-88   (hex)		Espressif Systems (Singapore) Pte. Ltd
+542B88     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
+70-C3-BE   (hex)		INGRAM MICRO SERVICES
+70C3BE     (base 16)		INGRAM MICRO SERVICES
+				100 CHEMIN DE BAILLOT
+				MONTAUBAN    82000
+				FR
+
+14-5C-DA   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+145CDA     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+C0-80-09   (hex)		Vantiva USA LLC
+C08009     (base 16)		Vantiva USA LLC
+				4855 Peachtree Industrial Blvd, Suite 200
+				Norcross  GA  30902
+				US
+
+2C-0C-88   (hex)		Silicon Laboratories
+2C0C88     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+94-85-80   (hex)		Amazon Technologies Inc.
+948580     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
+24-5D-5B   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
+245D5B     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
+				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
+				Nanjing  Jiangsu  211800
+				CN
+
+1C-FC-4E   (hex)		EFORT Intelligent Robot Co., Ltd. Copyright
+1CFC4E     (base 16)		EFORT Intelligent Robot Co., Ltd. Copyright
+				No.96 East Wanchun Road,China(Anhui) Pilot Free Trade Zone Wuhu Area, Wuhu, Anhui Province, China
+				Wuhu  Anhui  241000
+				CN
+
+D4-05-11   (hex)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
+D40511     (base 16)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
+				B Area, 10th floor, TCL multimedia Building, TCL International E City, #1001 Zhonshanyuan road,Shenzhen
+				guangdong  China  518058
+				CN
