@@ -37232,12 +37232,6 @@ A09805     (base 16)		OpenVox Communication Co Ltd
 				CHICAGO  IL  60618
 				US
 
-00-A0-57   (hex)		LANCOM Systems GmbH
-00A057     (base 16)		LANCOM Systems GmbH
-				Adenauer Straße 20 /B2
-				Würselen    52146
-				DE
-
 00-A0-9F   (hex)		COMMVISION CORP.
 00A09F     (base 16)		COMMVISION CORP.
 				510 LOGUE AVE.
@@ -48865,6 +48859,54 @@ FCF684     (base 16)		MatX
 				490 East Middlefield Road
 				Mountain View  CA  94043
 				US
+
+00-CE-39   (hex)		MeLE Technologies(Shenzhen)Co.,Ltd.
+00CE39     (base 16)		MeLE Technologies(Shenzhen)Co.,Ltd.
+				3FW, Mele Building,No.28 Cuijing Road, Pingshan District,
+				Shenzhen  Guangdong  518118
+				CN
+
+2C-EB-66   (hex)		Huawei Device Co., Ltd.
+2CEB66     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+00-A0-57   (hex)		Rohde & Schwarz Networks and Cybersecurity GmbH
+00A057     (base 16)		Rohde & Schwarz Networks and Cybersecurity GmbH
+				Adenauer Straße 20 /B2
+				Würselen    52146
+				DE
+
+54-43-87   (hex)		Huawei Device Co., Ltd.
+544387     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+9C-E0-87   (hex)		Espressif Systems (Singapore) Pte. Ltd
+9CE087     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
+10-25-13   (hex)		LG Electronics
+102513     (base 16)		LG Electronics
+				222 LG-ro, JINWI-MYEON
+				Pyeongtaek-si  Gyeonggi-do  451-713
+				KR
+
+D4-D9-6A   (hex)		Xiaomi Communications Co Ltd
+D4D96A     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
+
+50-EE-F8   (hex)		Xiaomi Communications Co Ltd
+50EEF8     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -92528,12 +92570,6 @@ EC7CBA     (base 16)		Hewlett Packard Enterprise
 				Spring  TX  77389
 				US
 
-0C-A2-F4   (hex)		Chameleon Technology (UK) Limited
-0CA2F4     (base 16)		Chameleon Technology (UK) Limited
-				1st Floor, Central House Otley Road
-				Beckwith Knowle  Harrogate  HG3 1UF
-				GB
-
 04-8F-00   (hex)		Rong-Paisa Electronics Co., Ltd.
 048F00     (base 16)		Rong-Paisa Electronics Co., Ltd.
 				Carrera 43f #14A-112
@@ -96808,6 +96844,66 @@ BC1409     (base 16)		Arista Networks
 				35-37 Whitton Dene Road
 				Hounslow  London  TW32JN
 				GB
+
+84-C3-00   (hex)		Shenzhen SDMC Technology CP,.LTD
+84C300     (base 16)		Shenzhen SDMC Technology CP,.LTD
+				19/F, Changhong Science &Technology Mansion,No.18, Keji South 12th Road High-tech IndustrialPark Nanshan District,Shenzhen,China
+				Shenzhen  China  518000
+				CN
+
+80-70-39   (hex)		Huawei Device Co., Ltd.
+807039     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+90-1C-23   (hex)		Huawei Device Co., Ltd.
+901C23     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+60-8D-28   (hex)		Motorola Mobility LLC, a Lenovo Company
+608D28     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+30-05-C8   (hex)		Huawei Device Co., Ltd.
+3005C8     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+D8-23-32   (hex)		Espressif Systems (Singapore) Pte. Ltd
+D82332     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
+18-2F-58   (hex)		Veritech LLC
+182F58     (base 16)		Veritech LLC
+				1070 Hardees Drive
+				Aberdeen  MD  21001
+				US
+
+0C-A2-F4   (hex)		Verve Energy Technology
+0CA2F4     (base 16)		Verve Energy Technology
+				 Suite 1 Second Floor
+				17-19 Cheltenham Parade,  Harrogate  HG1 1DD
+				GB
+
+94-B2-EC   (hex)		NVIDIA Corporation
+94B2EC     (base 16)		NVIDIA Corporation
+				2701 San Tomas Expressway
+				Santa Clara    95050
+				US
+
+1C-07-DD   (hex)		FRITZ! Technology GmbH
+1C07DD     (base 16)		FRITZ! Technology GmbH
+				Alt-Moabit 95
+				Berlin  Berlin  10559
+				DE
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -145112,11 +145208,47 @@ EC43C4     (base 16)		MitraStar Technology Corp.
 				Kulim  Kedah  09000
 				MY
 
+20-AD-72   (hex)		eero inc.
+20AD72     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
+34-23-8E   (hex)		eero inc.
+34238E     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
 94-FC-9A   (hex)		Google, Inc.
 94FC9A     (base 16)		Google, Inc.
 				1600 Amphitheatre Parkway
 				Mountain View    94043
 				US
+
+68-D7-70   (hex)		IoTronix Technologies Sdn. Bhd.
+68D770     (base 16)		IoTronix Technologies Sdn. Bhd.
+				No. 85A, Lintang Bayan Lepas 11, Bayan Lepas Industri Park, Phase IV.
+				Bayan Lepas  Penang  11900
+				MY
+
+88-54-E0   (hex)		Xiaomi Communications Co Ltd
+8854E0     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
+
+88-B8-F7   (hex)		NVIDIA Corporation
+88B8F7     (base 16)		NVIDIA Corporation
+				2701 San Tomas Expressway
+				Santa Clara    95050
+				US
+
+B0-7E-F4   (hex)		Hangzhou HikAuto Technology Co., Ltd.
+B07EF4     (base 16)		Hangzhou HikAuto Technology Co., Ltd.
+				No. 399 Danfeng Road, Xixing Subdistrict, Binjiang District, Hangzhou, Zhejiang, China
+				 Hangzhou  Zhejiang  310052
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -146236,12 +146368,6 @@ F87928     (base 16)		zte corporation
 				Bay Square Building 06 - Office No 105
 				Dubai  Dubai  111581
 				AE
-
-2C-D7-FF   (hex)		LANCOM Systems GmbH
-2CD7FF     (base 16)		LANCOM Systems GmbH
-				Adenauer Straße 20 /B2
-				Würselen    52146
-				DE
 
 98-03-8A   (hex)		Texas Instruments
 98038A     (base 16)		Texas Instruments
@@ -193967,6 +194093,30 @@ B8F453     (base 16)		IEEE Registration Authority
 				Mountain View    94043
 				US
 
+34-1E-64   (hex)		Huawei Device Co., Ltd.
+341E64     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+2C-D7-FF   (hex)		Rohde & Schwarz Networks and Cybersecurity GmbH
+2CD7FF     (base 16)		Rohde & Schwarz Networks and Cybersecurity GmbH
+				Adenauer Straße 20 /B2
+				Würselen    52146
+				DE
+
+C8-65-94   (hex)		IP Yusupov Nargiz Nakibovich
+C86594     (base 16)		IP Yusupov Nargiz Nakibovich
+				Ulitsa Rinata Galeyeva, 25
+				Almetyevsk  Respublika Tatarstan  423461
+				RU
+
+04-7B-43   (hex)		IEEE Registration Authority
+047B43     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -238082,12 +238232,6 @@ C8E31D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-0C-33-1B   (hex)		TydenBrooks
-0C331B     (base 16)		TydenBrooks
-				2727 Paces Ferry Rd, Building 2, Suite 300
-				Atlanta  GA  30339
-				US
-
 24-2B-D6   (hex)		Ring LLC
 242BD6     (base 16)		Ring LLC
 				1523 26th St
@@ -242222,10 +242366,10 @@ C08009     (base 16)		Vantiva USA LLC
 				Reno  NV  89507
 				US
 
-24-5D-5B   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
-245D5B     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
-				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
-				Nanjing  Jiangsu  211800
+D4-05-11   (hex)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
+D40511     (base 16)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
+				B Area, 10th floor, TCL multimedia Building, TCL International E City, #1001 Zhonshanyuan road,Shenzhen
+				guangdong  China  518058
 				CN
 
 1C-FC-4E   (hex)		EFORT Intelligent Robot Co., Ltd. Copyright
@@ -242234,8 +242378,56 @@ C08009     (base 16)		Vantiva USA LLC
 				Wuhu  Anhui  241000
 				CN
 
-D4-05-11   (hex)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
-D40511     (base 16)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
-				B Area, 10th floor, TCL multimedia Building, TCL International E City, #1001 Zhonshanyuan road,Shenzhen
-				guangdong  China  518058
+4C-64-C9   (hex)		Huawei Device Co., Ltd.
+4C64C9     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+50-25-FE   (hex)		Huawei Device Co., Ltd.
+5025FE     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+70-BE-8E   (hex)		Huawei Device Co., Ltd.
+70BE8E     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+24-5D-5B   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
+245D5B     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
+				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
+				Nanjing  Jiangsu  211800
+				CN
+
+08-F6-79   (hex)		Huawei Device Co., Ltd.
+08F679     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+E4-22-24   (hex)		Motorola Mobility LLC, a Lenovo Company
+E42224     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+8C-A0-2C   (hex)		Arcadyan Corporation
+8CA02C     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
+
+0C-33-1B   (hex)		TydenBrooks
+0C331B     (base 16)		TydenBrooks
+				1 Stoffel Drive
+				Tallapoosa  GA  30176
+				US
+
+F0-27-6E   (hex)		AltoBeam Inc.
+F0276E     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
 				CN
